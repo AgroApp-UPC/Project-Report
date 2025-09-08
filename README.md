@@ -318,7 +318,120 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+**Segmento 1: Agricultores de pequeña escala (subsistencia/autoconsumo)**
+
+Objetivo: Comprender cómo registran y cuidan sus cultivos actualmente, qué limitaciones tienen, y validar la utilidad de una app que les dé alertas simples y recomendaciones personalizadas.
+<br><br>
+Introducción: <br>
+"Buenos días/tardes, gracias por aceptar esta entrevista. Somos de la startup AgroTech y estamos desarrollando una aplicación pensada especialmente para agricultores como usted, que buscan mejorar el cuidado de sus cultivos de manera práctica y sencilla. Queremos conocer más sobre cómo trabaja actualmente, cuáles son sus principales dificultades y qué tan útil sería una herramienta digital que le brinde recomendaciones y alertas para ayudarle a tomar mejores decisiones en el campo. Sus respuestas son muy valiosas y nos ayudarán a diseñar una aplicación que realmente se adapte a sus necesidades."
+<br><br>
+Preguntas:
+* ¿Qué cultivos trabaja actualmente y en qué cantidad?
+* ¿Cómo decide cuánta agua usar y cada cuánto regar?
+* ¿Qué tipo de fertilizantes o nutrientes utiliza y cómo sabe cuándo aplicarlos?
+* ¿Cuáles son las principales dificultades que enfrenta en el cuidado de sus cultivos?
+* Si pudiera ingresar en una app datos como tipo de suelo, cantidad de agua o tiempo de luz solar, ¿le parecería útil recibir recomendaciones?
+* ¿Qué tipo de alertas le resultarían más prácticas (ejemplo: “riego insuficiente”, “suelo poco nutritivo”)?
+* ¿Le gustaría recibir recordatorios directamente en la aplicación?
+* ¿Qué tan cómodo se siente usando aplicaciones en su celular?
+* ¿Qué tanto tiempo estaría dispuesto a dedicar a registrar datos de sus cultivos?
+
+**Segmento 2: Agricultores de mediana escala (producción comercial/local-regional)**
+
+Objetivo: Identificar necesidades más avanzadas de gestión de cultivos, validar el valor de recomendaciones clasificadas por riesgo, y explorar interés en reportes de rendimiento básicos.
+<br><br>
+Introducción: <br>
+"Buenos días/tardes, gracias por dedicar unos minutos a esta entrevista. Somos de la startup AgroTech y estamos diseñando una aplicación que busca ayudar a agricultores como usted a gestionar sus cultivos de forma más organizada y eficiente. Nos interesa conocer cómo maneja actualmente su producción, cuáles son sus principales retos y qué tipo de información o funcionalidades digitales podrían resultarle más útiles. Con su apoyo, podremos construir una herramienta que realmente aporte valor a su trabajo y mejore la productividad de sus cultivos."
+<br><br>
+Preguntas:
+* ¿Qué cultivos maneja y en qué extensión de terreno?
+* ¿Cómo controla actualmente el riego y los nutrientes en sus cultivos?
+* ¿Qué métodos utiliza para registrar información sobre el estado de sus cultivos (ejemplo: cuadernos, hojas de cálculo, memoria)?
+* ¿Cuáles son los mayores problemas que enfrenta en la gestión de sus cultivos?
+* ¿Le sería útil recibir recomendaciones clasificadas por riesgo (bajo, medio, alto) según los datos que ingrese?
+* ¿Qué tan valioso le resultaría poder generar reportes básicos con la información registrada (ejemplo: consumo de agua, rendimiento esperado)?
+* ¿Con qué frecuencia estaría dispuesto a ingresar datos en la aplicación?
+* ¿Qué tan importante considera contar con alertas preventivas para evitar pérdidas en sus cultivos?
+* ¿Qué tanto valoraría que la aplicación ofrezca un calendario de tareas (riego, fertilización, fumigación)?
+* ¿Estaría dispuesto a pagar una pequeña suscripción por acceder a reportes y recomendaciones más avanzadas?
+
 ### 2.2.2. Registro de entrevistas.
+#### Segmento objetivo #1: Agricultores de pequeña escala (subsistencia y autoconsumo)
+##### Datos del Entrevistado #1
+- **Nombre completo:** 
+- **Segmento Objetivo:** 
+- **Edad:** 
+- **Distrito:** 
+- **Inicio de la entrevista:** 
+- **Duración:** 
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
+
+### Segmento objetivo #2: Agricultores de mediana escala (producción comercial local y regional)
+##### Datos del Entrevistado #1
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista1]()
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #2
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+
+**Resumen:**
+
+##### Datos del Entrevistado #3
+- **Nombre completo:**
+- **Segmento Objetivo:**
+- **Edad:**
+- **Distrito:**
+- **Inicio de la entrevista:**
+- **Duración:**
+- **Screenshot del cuadro de video:** ![Entrevista3]()
+- **URL del video (Microsoft Stream):** *[Entrevista 03]()*
+
+**Resumen:**
+
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
