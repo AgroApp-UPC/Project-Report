@@ -437,28 +437,29 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
-**  Competitive Analysis Landscape** 
+| **Competitive Analysis Landscape** |
+|---------------------------------------|
 
 | **¿Por qué llevar a cabo este análisis?** | Identificar cómo se posiciona **AgroApp** frente a competidores en Perú, evaluando mercado objetivo, propuesta de valor y ventajas competitivas. |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| **Sección** | **AgroApp (Startup)** | **Space AG** | **Agros** | **Yaku Solutions** |
+| **Sección** | **AgroApp (Startup)** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
 |-------------|------------------------|--------------|-----------|---------------------|
 | **Perfil – Overview** | App web con recomendaciones inteligentes y alertas de riesgo usando IoT básico (humedad, luz). | Monitoreo con drones, satélites e IA para exportación. | Plataforma que conecta agricultores con crédito, seguros e insumos. | IoT para riego inteligente con sensores de humedad. |
 | **Ventaja competitiva / Valor al cliente** | Simple, accesible, pensada para pequeños agricultores con baja experiencia digital. | Tecnología avanzada para agroexportadores. | Acceso a servicios financieros y mercados. | Ahorro de agua y eficiencia en riego. |
 
-| **Perfil de Marketing** | **AgroApp** | **Space AG** | **Agros** | **Yaku Solutions** |
+| **Perfil de Marketing** | **AgroApp** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
 |--------------------------|-------------|--------------|-----------|---------------------|
 | **Mercado objetivo** | Agricultores pequeños y medianos (1–20 ha), Sierra y Selva. | Grandes agroexportadores (costa norte y sur). | Agricultores pequeños y medianos (Sierra y Selva). | Agricultores en zonas de riego intensivo (Costa y valles interandinos). |
 | **Estrategias de marketing** | Alianzas con cooperativas, talleres rurales, educación digital. | Alianzas con agroexportadoras grandes. | Convenios con bancos, ONGs y asociaciones. | Venta directa y adopción en programas de riego. |
 
-| **Perfil de Producto** | **AgroApp** | **Space AG** | **Agros** | **Yaku Solutions** |
+| **Perfil de Producto** | **AgroApp** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
 |-------------------------|-------------|--------------|-----------|---------------------|
 | **Productos & Servicios** | App web, alertas inteligentes, IoT básico (humedad, luz). | Imágenes satelitales, drones, IA. | Marketplace agrícola, créditos, seguros. | Sensores de humedad, riego automatizado. |
 | **Precios & Costos** | Freemium + planes accesibles. | Premium, alto costo. | Suscripción + comisiones. | Venta de hardware + mantenimiento. |
 | **Canales de distribución (Web/Móvil)** | Web responsive y móvil. | Web + SaaS corporativo. | Web y app móvil. | Hardware IoT + plataforma web. |
 
-| **Análisis SWOT** | **AgroApp** | **Space AG** | **Agros** | **Yaku Solutions** |
+| **Análisis SWOT** | **AgroApp** |**Competidor 1** | **Competidor 2** | **Competidor 3** |
 |--------------------|-------------|--------------|-----------|---------------------|
 | **Fortalezas** | Fácil de usar, accesible, enfocado en pequeños agricultores. | Alta tecnología y prestigio. | Amplia red de contactos financieros. | Especialización en riego eficiente. |
 | **Debilidades** | Requiere adopción digital en zonas rurales. | Muy costoso para pequeños agricultores. | Poco enfoque en lo técnico del cultivo. | Dependencia de hardware físico. |
