@@ -234,7 +234,7 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 AgroApp es una aplicación web diseñada para apoyar a agricultores de pequeña y mediana escala en la gestión de sus cultivos, mediante un sistema de recomendaciones inteligentes basadas en datos ingresados por el usuario, y más adelante, e información recolectada a través de sensores IoT de humedad y luz solar. La plataforma permite registrar cultivos, monitorear variables clave como riego, nutrientes y exposición solar, y recibir alertas clasificadas por nivel de riesgo (bajo, medio, alto). De esta manera, AgroApp busca democratizar el acceso a la tecnología agrícola, optimizar el rendimiento de los cultivos y contribuir a la sostenibilidad del sector agropecuario en el Perú.
 ### 1.2.1 Antecedentes y problemática
 Los agricultores de pequeña y mediana escala enfrentan barreras tecnológicas y de acceso a información que limitan el rendimiento de sus cultivos y su competitividad en el mercado. La falta de herramientas digitales simples y adaptadas a su realidad conlleva a decisiones empíricas, baja eficiencia en el uso de recursos y pérdidas económicas significativas. AgroApp surge como una solución tecnológica accesible, que integra datos ingresados por el usuario y sensores IoT, para generar recomendaciones claras y prácticas que fortalezcan la sostenibilidad del sector agrícola.
-<br>
+<br><br>
 Según Lean Construction México, la técnica de las 5W's y 2H's facilita la creación y desarrollo de un plan de acción o estrategia detallada (Alvarez, 2020). A raíz de esto, resultará útil para nuestro contexto dado que nos permitirá entender y analizar a mayor profundidad las necesidades de los usuarios. Por ende, se recopiló información mediante esta técnica, la cual se presentará a continuación.
 
 **What(Qué)**
@@ -242,28 +242,36 @@ Según Lean Construction México, la técnica de las 5W's y 2H's facilita la cre
 Los agricultores de pequeña y mediana escala carecen de herramientas digitales para monitorear y gestionar adecuadamente sus cultivos, lo que ocasiona baja productividad, uso ineficiente de recursos (agua, nutrientes, luz solar) y pérdidas económicas.
 ##### ¿Cuál es la relación con la persona en cuestión?
 El agricultor es el usuario principal afectado, ya que depende de la productividad de sus cultivos para garantizar su sustento y competitividad en el mercado.
+
 **Who (Quién)**
 ##### ¿Quiénes están involucrados?
 Agricultores de pequeña y mediana escala, familiares de los agricultores que participan en la producción, y organizaciones vinculadas al sector agrícola (cooperativas, asociaciones).
 ##### ¿A quiénes le sucede el problema?
 Principalmente a agricultores con poca o media experiencia técnica que no cuentan con sistemas de gestión agrícola digitalizados y que dependen de prácticas tradicionales o empíricas.
+
 **Where (Dónde)**
 ##### ¿En dónde ocurre el problema?
 En zonas rurales y periurbanas del Perú (sierra, selva y valles interandinos), donde se concentra la agricultura familiar y la producción de alimentos básicos para el mercado nacional.
+
 **When (Cuándo)**
 ##### ¿Cuándo sucede el problema?
 A lo largo de todo el ciclo del cultivo (siembra, crecimiento, maduración y cosecha), siendo más crítico en las etapas de riego, fertilización y control de plagas.
 ##### ¿Cuándo utiliza el cliente el producto?
 El cliente usa agroApp desde el inicio del registro de sus cultivos y de manera recurrente durante el crecimiento para recibir alertas, registrar datos y consultar recomendaciones.
+
 **Why (Por qué)**
 ##### ¿Cuál es la causa del problema?
 La falta de acceso a información confiable, el uso empírico de prácticas agrícolas y la ausencia de herramientas tecnológicas adaptadas a la realidad de pequeños y medianos agricultores, que permitan optimizar el uso de recursos y aumentar la productividad.
+
 **How (Cómo)**
 ##### ¿En qué condiciones los clientes usan nuestro producto?
 En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) o en sus hogares cuando tienen acceso a conexión WiFi. Usan agroApp de forma sencilla e intuitiva, adaptada a sus conocimientos básicos de tecnología.
+
 **How much (Cuánto)**
 ##### Estadísticas que sustentan la problemática.
-
+* El 97 % de las unidades agropecuarias en el Perú son de agricultura familiar (Castillo, 2021).
+* El sector es responsable de cerca del 70 % de los alimentos consumidos en el país (Castillo,2021).
+* "Las mayores pérdidas ocurren en la fase de producción 28%, cosecha y almacenamiento 22%, distribución 17%, procesamiento 6%" (Gob, 2019).
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
@@ -376,4 +384,7 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 # Conclusiones y recomendaciones.
 # Video About-the-Team.
 # Bibliografía
+Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf
+Castillo, P. (2021). _Perú. Informe país de la agricultura familiar campesina e indígena._ https://www.fao.org/family-farming/detail/es/c/1644367/
+Gob. (2019). _Minagri alista reglamento que promueve reducción y prevención de pérdidas y desperdicios de alimentos_. https://www.gob.pe/institucion/midagri/noticias/51904-minagri-alista-reglamento-que-promueve-reduccion-y-prevencion-de-perdidas-y-desperdicios-de-alimentos
 # Anexos
