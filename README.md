@@ -444,17 +444,17 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        | **AgroApp (Startup)** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
 |-------------|------------------------|--------------|-----------|---------------------|
-| **Perfil – Overview** |  |  |  |  |
+| **Perfil – Overview** |            |          |       |            |
 | **Ventaja competitiva / Valor al cliente** |  |  | |  |
 | **Perfil de Marketing** | **AgroApp** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
 |--------------------------|-------------|--------------|-----------|---------------------|
-| **Mercado objetivo** |  |  |  |  |
+| **Mercado objetivo** |         |          |          |              |
 | **Estrategias de marketing** |  | |  |  |
 | **Perfil de Producto** | **AgroApp** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
 |-------------------------|-------------|--------------|-----------|---------------------|
-| **Productos & Servicios** |  |  |  |  |
-| **Precios & Costos** |  |  |  | . |
-| **Canales de distribución (Web/Móvil)** | | | |  |
+| **Productos & Servicios** |       |      |         |             |
+| **Precios & Costos** |            |         |         |          |
+| **Canales de distribución (Web/Móvil)** |       |       |       |     |
 | **Análisis SWOT** | **AgroApp** |**Competidor 1** | **Competidor 2** | **Competidor 3** |
 |--------------------|-------------|--------------|-----------|---------------------|
 | **Fortalezas** |  | |  |  |
