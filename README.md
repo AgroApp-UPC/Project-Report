@@ -442,7 +442,7 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 
 | **¿Por qué llevar a cabo este análisis?** |  |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **  ** | **AgroApp (Startup)** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
+|        | **AgroApp (Startup)** | **Competidor 1** | **Competidor 2** | **Competidor 3** |
 |-------------|------------------------|--------------|-----------|---------------------|
 | **Perfil – Overview** |  |  |  |  |
 | **Ventaja competitiva / Valor al cliente** |  |  | |  |
