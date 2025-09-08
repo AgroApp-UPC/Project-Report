@@ -280,35 +280,126 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-**Domain (Dominio):**
+- **Domain (Dominio):** 
 
-El sector agrícola en el Perú, enfocado en agricultores de pequeña y mediana escala que representan la mayoría de las unidades agropecuarias y son responsables de gran parte de la producción de alimentos.
+    El sector agrícola en el Perú, enfocado en agricultores de pequeña y mediana escala que representan la mayoría de las unidades agropecuarias y son responsables de gran parte de la producción de alimentos.
 
-**Customer Segments (Segmentos de clientes):**
-* Agricultores de pequeña escala (subsistencia/autoconsumo).
-* Agricultores de mediana escala (producción comercial local/regional).
+* **Customer Segments (Segmentos de clientes):**
+  * Agricultores de pequeña escala (subsistencia/autoconsumo).
+  * Agricultores de mediana escala (producción comercial local/regional).
 
-**Pain Points (Puntos de dolor):**
-* Dificultad para tomar decisiones informadas sobre riego, nutrientes y cuidados del cultivo.
-* Pérdidas de rendimiento debido a prácticas empíricas o poco técnicas.
-* Falta de herramientas digitales simples, adaptadas a la realidad rural.
-* Baja adopción tecnológica por interfaces poco amigables o complejas.
+- **Pain Points (Puntos de dolor):**
+  * Dificultad para tomar decisiones informadas sobre riego, nutrientes y cuidados del cultivo.
+  * Pérdidas de rendimiento debido a prácticas empíricas o poco técnicas.
+  * Falta de herramientas digitales simples, adaptadas a la realidad rural.
+  * Baja adopción tecnológica por interfaces poco amigables o complejas.
 
-**Gap (Brecha):**
+* **Gap (Brecha):**
 
-Actualmente, no existen soluciones digitales ampliamente accesibles y adaptadas al contexto de pequeños y medianos agricultores peruanos que combinen registro de cultivos, recomendaciones personalizadas y alertas de riesgo en una sola plataforma.
+    Actualmente, no existen soluciones digitales ampliamente accesibles y adaptadas al contexto de pequeños y medianos agricultores peruanos que combinen registro de cultivos, recomendaciones personalizadas y alertas de riesgo en una sola plataforma.
 
-**Visión / Strategy (Visión / Estrategia):**
+- **Visión / Strategy (Visión / Estrategia):**
 
-Crear una aplicación web responsiva y accesible que brinde recomendaciones personalizadas y fáciles de entender, con base en datos ingresados por los agricultores, permitiendo mejorar la productividad de sus cultivos y optimizar el uso de recursos, contribuyendo así a la sostenibilidad del sector agrícola.
+    Crear una aplicación web responsiva y accesible que brinde recomendaciones personalizadas y fáciles de entender, con base en datos ingresados por los agricultores, permitiendo mejorar la productividad de sus cultivos y optimizar el uso de recursos, contribuyendo así a la sostenibilidad del sector agrícola.
 
-**Initial Segment (Segmento inicial):**
+* **Initial Segment (Segmento inicial):**
 
-Agricultores de pequeña escala, y posteriormente, agricultores de mediana escala con mayores necesidades de gestión.
+    Agricultores de pequeña escala, y posteriormente, agricultores de mediana escala con mayores necesidades de gestión.
 
 #### 1.2.2.2. Lean UX Assumptions.
+##### 1.2.2.2.1. Features
+- Registro de usuario con datos básicos (nombre, número celular, correo, contraseña).
+- Registro de cultivos (especie, fecha de plantación, tipo de suelo, cantidad de agua, exposición solar).
+- Recomendaciones personalizadas clasificadas por nivel de riesgo (bajo, medio, alto).
+- Sistema de alertas y recordatorios automáticos (ejemplo: “riego insuficiente”, “suelo pobre en nutrientes”).
+- Calendario de cultivo (recordatorios de riego, fertilización y fumigación).
+- Comunidad interna con consejos y experiencias compartidas entre agricultores.
+- Reportes básicos de rendimiento y uso de recursos (para agricultores medianos).
+- Landing Page informativa y consistente con la Web Application.
+
+##### 1.2.2.2.2. Business Outcomes
+- Adopción inicial de la plataforma por agricultores pequeños, al ofrecer una app simple, visual y fácil de usar.
+- Retención de usuarios gracias a las alertas y recordatorios que generan valor en la rutina agrícola.
+- Escalabilidad del negocio con la incorporación de agricultores medianos interesados en funcionalidades avanzadas (reportes y gestión de datos).
+- Generación de ingresos a futuro mediante planes premium para acceso a reportes detallados o funcionalidades adicionales.
+- Posicionamiento de marca como una solución digital confiable y accesible para la agricultura familiar y comercial en el Perú.
+
+##### 1.2.2.2.3. User Benefits
+* Para agricultores de pequeña escala:
+  * Recibir recomendaciones claras y fáciles de entender.
+  * Anticiparse a problemas comunes (falta de agua, suelo pobre en nutrientes).
+  * Tener un calendario sencillo que les recuerde las tareas agrícolas más importantes.
+  * Mejorar el rendimiento de sus cultivos con prácticas simples y accesibles.
+
+- Para agricultores de mediana escala:
+  * Registrar y organizar datos de sus cultivos en un solo lugar.
+  * Generar reportes básicos para tomar decisiones más informadas.
+  * Optimizar el uso de recursos (agua, fertilizantes).
+  * Reducir pérdidas y aumentar la rentabilidad de sus cosechas.
+
+¿Quién es el usuario?
+
+* Agricultores de pequeña escala (subsistencia/autoconsumo) que buscan recomendaciones simples y fáciles de aplicar.
+* Agricultores de mediana escala (producción comercial/regional) que necesitan un mayor control de datos y reportes para optimizar la productividad de sus cultivos.
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+
+* En las tareas diarias de cultivo, como riego, fertilización y control básico de plagas.
+* Como apoyo digital que complementa el conocimiento empírico, brindando alertas y recordatorios.
+* En la planificación de cultivos, ya que permite organizar fechas de siembra, fertilización y cosecha.
+
+¿Qué problemas tiene nuestro producto que resolver?
+
+* La falta de información clara y personalizada sobre cómo cuidar cada cultivo.
+* El manejo empírico y poco técnico que ocasiona pérdidas en la producción.
+* La ausencia de herramientas accesibles para registrar y organizar información de forma digital.
+
+¿Cuándo y cómo es nuestro producto usado?
+
+* Cuándo: Durante todo el ciclo del cultivo, desde la siembra hasta la cosecha, especialmente en momentos críticos de riego y fertilización.
+
+* Cómo:
+  * Agricultores pequeños → ingresan datos básicos en la app y reciben recomendaciones simples y alertas visuales.
+  * Agricultores medianos → registran datos con más detalle y consultan reportes para tomar decisiones productivas.
+
+¿Qué características son importantes?
+* Registro de cultivos y datos básicos (especie, suelo, agua, luz solar).
+* Recomendaciones personalizadas clasificadas por nivel de riesgo.
+* Alertas y recordatorios automáticos.
+* Reportes básicos de rendimiento y recursos (para agricultores medianos).
+* Interfaz sencilla, intuitiva y responsive para móvil y web.
+* Comunidad de consejos y experiencias compartidas.
+
+¿Cómo debe verse nuestro producto y comportarse?
+* Diseño:
+  * Minimalista, visual y fácil de usar.
+  * Uso de colores asociados a estados de riesgo (verde, amarillo, rojo).
+  * Adaptable a dispositivos móviles y de bajo costo.
+* Comportamiento:
+  * Rápido y fluido, con tiempos de carga mínimos.
+  * Intuitivo: con pocos pasos para registrar un cultivo o ver recomendaciones.
+  * Confiable: que no pierda datos aunque el acceso a internet sea intermitente.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+1. **Creemos que** proporcionar una aplicación simple y visual, con recomendaciones básicas y alertas claras clasificadas por nivel de riesgo (bajo, medio, alto), ayudará a los agricultores pequeños a cuidar mejor sus cultivos y evitar pérdidas por riego o nutrientes inadecuados.
+
+    **Sabremos que** estamos bien cuando veamos que los agricultores ingresan sus datos al menos una vez por semana, reportan en encuestas que entienden fácilmente las alertas y / o se registra un aumento del 15% en la retención mensual de usuarios pequeños.
+
+2. **Creemos que** ofrecer funciones de registro de datos y generación de reportes básicos permitirá a los agricultores medianos optimizar el uso de agua y nutrientes, mejorar el rendimiento de sus cultivos y aumentar su rentabilidad.
+   
+    **Sabremos que** estamos bien cuando veamos que los agricultores medianos generan al menos un reporte por mes, mencionan en encuestas que los reportes influyen en sus decisiones, y / o se registra un aumento del 20% en la productividad percibida en los primeros 6 meses de uso.
+
+3. **Creemos que** una interfaz limpia, responsiva y optimizada para smartphones garantizará que tanto agricultores pequeños como medianos utilicen la aplicación de manera intuitiva durante sus actividades diarias en el campo.
+
+    **Sabremos que** estamos bien cuando el feedback de usuarios describa la aplicación como “fácil de usar” o “rápida” en encuestas post-uso y / o la tasa de abandono sea menor al 10% y / o la calificación promedio supere 4.3 en las tiendas de apps.
+
+4. **Creemos que** integrar un espacio comunitario donde agricultores compartan consejos y experiencias fomentará la confianza entre usuarios y aumentará la interacción dentro de la plataforma.
+
+    **Sabremos que** estamos bien cuando veamos publicaciones de usuarios en la comunidad al menos una vez por semana y / o un 25% de los usuarios activos participen comentando o reaccionando en la comunidad y / o recibamos feedback positivo sobre el aprendizaje obtenido de otros agricultores.
+
 #### 1.2.2.4. Lean UX Canvas.
+<img src="resources/leanuxcanvas.png" alt="lean-ux-canvas">
+
 ## 1.3. Segmentos objetivo.
 ### Segmento objetivo #1: Agricultores de pequeña escala (subsistencia y autoconsumo)
 Agricultores con terrenos menores a 5 hectáreas, generalmente familiares, que producen para autoconsumo y venta local en mercados.
