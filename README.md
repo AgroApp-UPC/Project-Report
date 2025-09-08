@@ -40,7 +40,7 @@
    </tr>
    <tr>
    <td>Chirito Torres, Jose Raul</td>
-   <td></td>
+   <td>U20201A293</td>
    </tr>
    <tr>
    <td>Palomares Andrade, Sean Farith</td>
