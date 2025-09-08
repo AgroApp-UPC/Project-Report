@@ -346,30 +346,9 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
-# 🌱 Competitive Analysis Landscape
 
-## ¿Por qué llevar a cabo este análisis?
-Identificar cómo se posiciona **AgroApp** frente a competidores en Perú, evaluando mercado objetivo, propuesta de valor y ventajas competitivas, para destacar su diferenciación en el segmento de pequeños y medianos agricultores.
 
----
 
-| **Sección** | **AgroApp (Tu Startup)** | **Space AG** | **Agros** | **Yaku Solutions** |
-|-------------|---------------------------|--------------|-----------|---------------------|
-| **Perfil – Overview** | App web con recomendaciones inteligentes, alertas de riesgo y sensores IoT básicos (humedad, luz). | Monitoreo de cultivos con drones, satélites e IA para exportación. | Plataforma digital que conecta a agricultores con financiamiento, seguros e insumos. | Soluciones IoT de riego inteligente con sensores de humedad y control automatizado. |
-| **Ventaja competitiva** | Accesible, simple y enfocada en agricultores con baja experiencia digital. | Tecnología avanzada para grandes agroexportadores. | Acceso a servicios financieros y comerciales. | Optimización del uso de agua con tecnología IoT. |
-| **¿Qué valor ofrece a los clientes?** | Democratiza acceso a la tecnología agrícola con herramientas simples y útiles. | Mejora productividad de agroexportaciones con análisis de alto nivel. | Facilita acceso a crédito, seguros y mercados. | Reduce costos de riego y mejora sostenibilidad hídrica. |
-
-| **Perfil de Marketing – Mercado objetivo** | Agricultores pequeños y medianos (1–20 ha), Sierra y Selva peruana. | Grandes productores y agroexportadores (costa norte y sur). | Agricultores pequeños y medianos de la Sierra y Selva. | Agricultores pequeños y medianos en zonas de riego intensivo (Costa, valles interandinos). |
-| **Estrategias de marketing** | Alianzas con cooperativas, talleres rurales, campañas educativas digitales. | Alianzas con agroexportadoras y empresas grandes. | Alianzas con bancos, ONGs y cooperativas. | Venta directa y adopción en programas de riego. |
-
-| **Perfil de Producto – Productos & Servicios** | App web, alertas inteligentes, integración con IoT básico (humedad, luz solar). | Imágenes satelitales, drones, IA, reportes de productividad. | Marketplace agrícola, créditos, seguros e insumos. | Sensores de humedad, sistemas de riego inteligente. |
-| **Precios & Costos** | Modelo freemium + planes accesibles. | Planes premium costosos para grandes productores. | Suscripciones + comisiones por servicios. | Venta de hardware IoT y mantenimiento. |
-| **Canales de distribución (Web/Móvil)** | Web responsive y móvil. | Web + SaaS corporativo. | Web y app móvil. | Dispositivos IoT + plataforma web. |
-
-| **Análisis SWOT – Fortalezas** | Fácil de usar, accesible, enfocado en pequeños agricultores. | Alta tecnología, prestigio y experiencia internacional. | Amplia red de contactos financieros. | Especialización en riego eficiente. |
-| **Debilidades** | Requiere adopción digital en zonas rurales. | Muy costoso e inaccesible para agricultores pequeños. | Poco enfoque técnico en cultivos. | Dependencia del hardware IoT. |
-| **Oportunidades** | Expansión a Sierra y Selva, integración de más sensores. | Crecimiento de exportaciones agrícolas. | Creciente demanda de agrotech financiero en LATAM. | Crisis hídrica impulsa demanda de riego inteligente. |
-| **Amenazas** | Competidores con más recursos tecnológicos. | Dependencia de grandes clientes. | Competidores con propuestas tecnológicas más sólidas. | Barreras de adopción por costos iniciales. |
 
 ### 2.1.1. Análisis competitivo.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
