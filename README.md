@@ -437,8 +437,8 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
-|**  Competitive Analysis Landscape** |
-|** ¿Por qué llevar a cabo este análisis?**|
+|**  Competitive Analysis Landscape** | |                                             |
+|** ¿Por qué llevar a cabo este análisis?**| |                                        |
 |**Identificar cómo se posiciona **AgroApp** frente a competidores en Perú, evaluando mercado objetivo, propuesta de valor y ventajas competitivas.**|
 
 | **Sección** | **AgroApp (Startup)** | **Space AG** | **Agros** | **Yaku Solutions** |
