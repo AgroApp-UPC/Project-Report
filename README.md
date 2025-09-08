@@ -280,9 +280,34 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+**Domain (Dominio):**
+El sector agrícola en el Perú, enfocado en agricultores de pequeña y mediana escala que representan la mayoría de las unidades agropecuarias y son responsables de gran parte de la producción de alimentos.
+
+**Customer Segments (Segmentos de clientes):**
+- Agricultores de pequeña escala (subsistencia/autoconsumo).
+- Agricultores de mediana escala (producción comercial local/regional).
+
+**Pain Points (Puntos de dolor):**
+- Dificultad para tomar decisiones informadas sobre riego, nutrientes y cuidados del cultivo.
+- Pérdidas de rendimiento debido a prácticas empíricas o poco técnicas.
+- Falta de herramientas digitales simples, adaptadas a la realidad rural.
+- Baja adopción tecnológica por interfaces poco amigables o complejas.
+
+**Gap (Brecha):**
+Actualmente, no existen soluciones digitales ampliamente accesibles y adaptadas al contexto de pequeños y medianos agricultores peruanos que combinen registro de cultivos, recomendaciones personalizadas y alertas de riesgo en una sola plataforma.
+
+**Visión / Strategy (Visión / Estrategia):**
+Crear una aplicación web responsiva y accesible que brinde recomendaciones personalizadas y fáciles de entender, con base en datos ingresados por los agricultores, permitiendo mejorar la productividad de sus cultivos y optimizar el uso de recursos, contribuyendo así a la sostenibilidad del sector agrícola.
+
+**Initial Segment (Segmento inicial):**
+Agricultores de pequeña escala, y posteriormente, agricultores de mediana escala con mayores necesidades de gestión.
+
 #### 1.2.2.2. Lean UX Assumptions.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
 #### 1.2.2.4. Lean UX Canvas.
+
 ## 1.3. Segmentos objetivo.
 ### Segmento objetivo #1: Agricultores de pequeña escala (subsistencia y autoconsumo)
 Agricultores con terrenos menores a 5 hectáreas, generalmente familiares, que producen para autoconsumo y venta local en mercados.
@@ -508,3 +533,5 @@ Castillo, P. (2021). _Perú. Informe país de la agricultura familiar campesina 
 Gob. (2019). _Minagri alista reglamento que promueve reducción y prevención de pérdidas y desperdicios de alimentos_. https://www.gob.pe/institucion/midagri/noticias/51904-minagri-alista-reglamento-que-promueve-reduccion-y-prevencion-de-perdidas-y-desperdicios-de-alimentos <br>
 Instituto Nacional de Estadística e Informática. (2023). _Encuesta Nacional Agropecuaria 2022_. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf <br> 
 # Anexos
+Repositorio en GitHub - AgroApp (AgroTech) - Documento:
+https://github.com/AgroApp-UPC/Project-Report
