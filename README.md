@@ -438,6 +438,7 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 En el Perú existe distintos tipos de de startups y plataformas en desarrollo similares a Agroapp .
+<br><br>
 A  continuacion se mostrará los competidores directos :
 
 
