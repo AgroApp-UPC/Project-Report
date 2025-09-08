@@ -437,6 +437,13 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
+En el Perú existe distintos tipos de de startups y plataformas en desarrollo similares a Agroapp .
+A  continuacion se mostrará los competidores directos :
+
+
+
+### 2.1.1. Análisis competitivo.
+
 | **Competitive Analysis Landscape** |
 |---------------------------------------|
 
@@ -462,10 +469,6 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 | **Oportunidades** |  |  |  | |
 | **Amenazas** |  |  |  |  |
 
-
-
-
-### 2.1.1. Análisis competitivo.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
