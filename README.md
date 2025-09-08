@@ -398,6 +398,7 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
     **Sabremos que** estamos bien cuando veamos publicaciones de usuarios en la comunidad al menos una vez por semana y / o un 25% de los usuarios activos participen comentando o reaccionando en la comunidad y / o recibamos feedback positivo sobre el aprendizaje obtenido de otros agricultores.
 
 #### 1.2.2.4. Lean UX Canvas.
+<img src="resources/leanuxcanvas.png" alt="lean-ux-canvas">
 
 ## 1.3. Segmentos objetivo.
 ### Segmento objetivo #1: Agricultores de pequeña escala (subsistencia y autoconsumo)
