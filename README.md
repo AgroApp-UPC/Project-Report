@@ -272,6 +272,12 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
 * El 97 % de las unidades agropecuarias en el Perú son de agricultura familiar (Castillo, 2021).
 * El sector es responsable de cerca del 70 % de los alimentos consumidos en el país (Castillo,2021).
 * "Las mayores pérdidas ocurren en la fase de producción 28%, cosecha y almacenamiento 22%, distribución 17%, procesamiento 6%" (Gob, 2019).
+* Según la INEI (2023), "En el año 2022, el 3,8% del total de los/las productores/as manifestaron haber recibido asistencia técnica.
+  Sin embargo, en el año 2014, el valor fue de 9,2% lo que evidencia una disminución de productores/as
+  asistidos/as en el periodo de análisis"
+
+<div align="center"><img src="resources/estadistica.png" alt="estadística"></div> 
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
@@ -497,7 +503,8 @@ Preguntas:
 # Conclusiones y recomendaciones.
 # Video About-the-Team.
 # Bibliografía
-Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf
-Castillo, P. (2021). _Perú. Informe país de la agricultura familiar campesina e indígena._ https://www.fao.org/family-farming/detail/es/c/1644367/
-Gob. (2019). _Minagri alista reglamento que promueve reducción y prevención de pérdidas y desperdicios de alimentos_. https://www.gob.pe/institucion/midagri/noticias/51904-minagri-alista-reglamento-que-promueve-reduccion-y-prevencion-de-perdidas-y-desperdicios-de-alimentos
+Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf <br>
+Castillo, P. (2021). _Perú. Informe país de la agricultura familiar campesina e indígena._ https://www.fao.org/family-farming/detail/es/c/1644367/ <br>
+Gob. (2019). _Minagri alista reglamento que promueve reducción y prevención de pérdidas y desperdicios de alimentos_. https://www.gob.pe/institucion/midagri/noticias/51904-minagri-alista-reglamento-que-promueve-reduccion-y-prevencion-de-perdidas-y-desperdicios-de-alimentos <br>
+Instituto Nacional de Estadística e Informática. (2023). _Encuesta Nacional Agropecuaria 2022_. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf <br> 
 # Anexos
