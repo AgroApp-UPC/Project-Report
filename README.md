@@ -211,12 +211,14 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-AgroTech es una startup tecnológica orientada a la transformación digital del sector agrícola en el Perú. Nuestro principal producto, agroApp, es una aplicación web responsive que busca empoderar a agricultores con poca o media experiencia, brindándoles recomendaciones inteligentes, soporte comunitario e integración con dispositivos IoT. Con agroApp, el agricultor podrá mejorar el rendimiento de sus cultivos gracias a un seguimiento personalizado y accesible desde cualquier dispositivo.
+AgroTech es una startup tecnológica orientada a la transformación digital del sector agrícola en el Perú. Nuestro principal producto, AgroApp, es una aplicación web responsive que busca empoderar a agricultores con poca o media experiencia, brindándoles recomendaciones inteligentes, soporte comunitario e integración con dispositivos IoT. Con agroApp, el agricultor podrá mejorar el rendimiento de sus cultivos gracias a un seguimiento personalizado y accesible desde cualquier dispositivo.
 
 **Misión:**
+
 Impulsar la transformación digital del sector agrícola brindando a los agricultores herramientas tecnológicas accesibles e inteligentes, que les permitan optimizar el rendimiento de sus cultivos mediante recomendaciones personalizadas, integración con IoT y un enfoque sostenible orientado a mejorar su calidad de vida.
 
 **Visión:**
+
 Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, reconocida por democratizar el acceso a la tecnología en el campo y contribuir a la seguridad alimentaria a través de la innovación, la sostenibilidad y el fortalecimiento de los pequeños y medianos agricultores.
 
 ### 1.1.2. Perfiles de los integrantes del equipo
@@ -229,7 +231,39 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 | **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello. |       |
 
 ## 1.2. Solution Profile
+AgroApp es una aplicación web diseñada para apoyar a agricultores de pequeña y mediana escala en la gestión de sus cultivos, mediante un sistema de recomendaciones inteligentes basadas en datos ingresados por el usuario, y más adelante, e información recolectada a través de sensores IoT de humedad y luz solar. La plataforma permite registrar cultivos, monitorear variables clave como riego, nutrientes y exposición solar, y recibir alertas clasificadas por nivel de riesgo (bajo, medio, alto). De esta manera, AgroApp busca democratizar el acceso a la tecnología agrícola, optimizar el rendimiento de los cultivos y contribuir a la sostenibilidad del sector agropecuario en el Perú.
 ### 1.2.1 Antecedentes y problemática
+Los agricultores de pequeña y mediana escala enfrentan barreras tecnológicas y de acceso a información que limitan el rendimiento de sus cultivos y su competitividad en el mercado. La falta de herramientas digitales simples y adaptadas a su realidad conlleva a decisiones empíricas, baja eficiencia en el uso de recursos y pérdidas económicas significativas. AgroApp surge como una solución tecnológica accesible, que integra datos ingresados por el usuario y sensores IoT, para generar recomendaciones claras y prácticas que fortalezcan la sostenibilidad del sector agrícola.
+<br>
+Según Lean Construction México, la técnica de las 5W's y 2H's facilita la creación y desarrollo de un plan de acción o estrategia detallada (Alvarez, 2020). A raíz de esto, resultará útil para nuestro contexto dado que nos permitirá entender y analizar a mayor profundidad las necesidades de los usuarios. Por ende, se recopiló información mediante esta técnica, la cual se presentará a continuación.
+
+**What(Qué)**
+##### ¿Cuál es el problema?
+Los agricultores de pequeña y mediana escala carecen de herramientas digitales para monitorear y gestionar adecuadamente sus cultivos, lo que ocasiona baja productividad, uso ineficiente de recursos (agua, nutrientes, luz solar) y pérdidas económicas.
+##### ¿Cuál es la relación con la persona en cuestión?
+El agricultor es el usuario principal afectado, ya que depende de la productividad de sus cultivos para garantizar su sustento y competitividad en el mercado.
+**Who (Quién)**
+##### ¿Quiénes están involucrados?
+Agricultores de pequeña y mediana escala, familiares de los agricultores que participan en la producción, y organizaciones vinculadas al sector agrícola (cooperativas, asociaciones).
+##### ¿A quiénes le sucede el problema?
+Principalmente a agricultores con poca o media experiencia técnica que no cuentan con sistemas de gestión agrícola digitalizados y que dependen de prácticas tradicionales o empíricas.
+**Where (Dónde)**
+##### ¿En dónde ocurre el problema?
+En zonas rurales y periurbanas del Perú (sierra, selva y valles interandinos), donde se concentra la agricultura familiar y la producción de alimentos básicos para el mercado nacional.
+**When (Cuándo)**
+##### ¿Cuándo sucede el problema?
+A lo largo de todo el ciclo del cultivo (siembra, crecimiento, maduración y cosecha), siendo más crítico en las etapas de riego, fertilización y control de plagas.
+##### ¿Cuándo utiliza el cliente el producto?
+El cliente usa agroApp desde el inicio del registro de sus cultivos y de manera recurrente durante el crecimiento para recibir alertas, registrar datos y consultar recomendaciones.
+**Why (Por qué)**
+##### ¿Cuál es la causa del problema?
+La falta de acceso a información confiable, el uso empírico de prácticas agrícolas y la ausencia de herramientas tecnológicas adaptadas a la realidad de pequeños y medianos agricultores, que permitan optimizar el uso de recursos y aumentar la productividad.
+**How (Cómo)**
+##### ¿En qué condiciones los clientes usan nuestro producto?
+En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) o en sus hogares cuando tienen acceso a conexión WiFi. Usan agroApp de forma sencilla e intuitiva, adaptada a sus conocimientos básicos de tecnología.
+**How much (Cuánto)**
+##### Estadísticas que sustentan la problemática.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
