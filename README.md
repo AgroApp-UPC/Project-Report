@@ -270,6 +270,40 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
+### Segmento objetivo #1: Agricultores de pequeña escala (subsistencia y autoconsumo)
+Agricultores con terrenos menores a 5 hectáreas, generalmente familiares, que producen para autoconsumo y venta local en mercados.
+#### Aspectos Demográficos:
+- **Rango de edad:** 25 a 50 años
+- **Sexo:** Hombres y mujeres (con ligera predominancia masculina en zonas rurales)
+- **Nivel socioeconómico:** Bajo y medio-bajo
+#### Aspectos Geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica de residencia:** Rural y periurbana
+- **Departamento:** Principalmente en la Sierra (Ayacucho, Cusco, Cajamarca, Puno) y en zonas de la Selva (San Martín, Ucayali)
+#### Aspectos Psicográficos
+- Valoración de la tierra como principal fuente de sustento.
+- Orientados al autoconsumo y a la venta en ferias o mercados locales.
+- Limitada experiencia en el uso de aplicaciones digitales.
+- Buscan soluciones prácticas, fáciles de entender y de bajo costo.
+- Uso tecnológico: Acceso limitado a smartphones de gama media y conectividad 3G/4G.
+
+### Segmento objetivo #2: Agricultores de mediana escala (producción comercial local y regional)
+Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para abastecer mercados regionales o cadenas de supermercados.
+#### Aspectos Demográficos:
+- **Rango de edad:** 30 a 55 años
+- **Sexo:** Hombres y mujeres, con tendencia masculina en roles de decisión
+- **Nivel socioeconómico:** Medio y medio-alto dentro del sector agrícola
+#### Aspectos Geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica de residencia:** Zonas rurales y valles interandinos con acceso a mercados regionales
+- **Departamento:** Principalmente en la Costa (La Libertad, Ica, Lambayeque, Piura) y valles de la Sierra (Arequipa, Junín)
+#### Aspectos Psicográficos:
+- Mayor orientación a la productividad y al mercado.
+- Buscan optimizar el rendimiento de sus cultivos y reducir pérdidas.
+- Tienen más apertura al uso de aplicaciones y tecnología digital.
+- Interés en herramientas que les permitan organizar datos y tomar decisiones basadas en información.
+- Uso tecnológico: Mayor acceso a dispositivos móviles modernos y disposición a usar apps para mejorar productividad.
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
