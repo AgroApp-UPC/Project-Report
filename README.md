@@ -519,6 +519,8 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 | **Fortalezas** | Fácil de usar, accesible, enfocado en pequeños agricultores. | Alta tecnología y prestigio internacional. | Amplia red de aliados financieros. | Tecnología propia peruana, impacto directo en ahorro de agua y fertilizantes. |
 | **Debilidades** | Requiere adopción digital en zonas rurales. | Costoso, inaccesible para pequeños agricultores. | Poca innovación técnica en cultivos. | Dependencia de hardware físico y costos iniciales altos. |
 | **Oportunidades** | Expansión en Sierra y Selva; integración de más sensores IoT. | Crecimiento sostenido de agroexportaciones. | Mayor demanda de servicios financieros agrícolas. | Escasez hídrica que impulsa soluciones de riego eficiente. |
+| **Amenazas** | Competidores con más recursos tecnológicos. | Dependencia de grandes clientes corporativos. | Competencia de otras plataformas fintech agrícolas. | Competidores internacionales de IoT agrícola. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
