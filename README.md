@@ -495,11 +495,14 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 
 ### 2.1.1. Análisis competitivo.
 
-| **Competitive Analysis Landscape** |
+
+
+|  ##Competitive Analysis Landscape |
 |---------------------------------------|
 
-| **¿Por qué llevar a cabo este análisis?** | Lograr identificar como se posiciona **AgroApp** frente a sus competidores en Perú, evaluadno el mercado objetivo y ventajas competitivas.  |
+| **¿Por qué llevar a cabo este análisis?** | Identificar cómo se posiciona **AgroApp** frente a competidores en Perú, evaluando mercado objetivo, propuesta de valor y ventajas competitivas. |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 | **Sección** | **AgroApp (Startup)** | **Space AG** | **Agros** | **Ritec** |
 |-------------|------------------------|--------------|-----------|-----------|
 | **Perfil** |||||
@@ -520,6 +523,7 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 | **Debilidades** | Requiere adopción digital en zonas rurales. | Costoso, inaccesible para pequeños agricultores. | Poca innovación técnica en cultivos. | Dependencia de hardware físico y costos iniciales altos. |
 | **Oportunidades** | Expansión en Sierra y Selva; integración de más sensores IoT. | Crecimiento sostenido de agroexportaciones. | Mayor demanda de servicios financieros agrícolas. | Escasez hídrica que impulsa soluciones de riego eficiente. |
 | **Amenazas** | Competidores con más recursos tecnológicos. | Dependencia de grandes clientes corporativos. | Competencia de otras plataformas fintech agrícolas. | Competidores internacionales de IoT agrícola. |
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
