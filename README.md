@@ -442,7 +442,8 @@ En el Perú existe distintos tipos de de startups y plataformas en desarrollo si
 A  continuacion se mostrará los competidores directos :
 ### 1. Sapce AG
 Utiliza drones  e intelingencia artificial para el desarrollo de sus cultivos e incluso los monitorea mediante imágenes satelitales.
-### Segmento objetivo: Agricultores de mediana y gran escala 
+### Segmento objetivo: 
+Agricultores de mediana y gran escala 
 ### Aspectos Demograficos:
 - **Rango de edad:** 35 a 60 años
 - **Sexo:** Predomina las deciciones tomadas por sexo masculinon 
@@ -459,7 +460,8 @@ Utiliza drones  e intelingencia artificial para el desarrollo de sus cultivos e 
 <br><br>
 ### 2. Agros
 Conecta a agricultores con financiamiento , proveedores e incluso insumos agricolas
-### Segmento objetivo: Agricultores de pequeña y mediana escala
+### Segmento objetivo:
+Agricultores de pequeña y mediana escala
 ### Aspectos Demograficos:
 - **Rango de edad:** 25 a 50 años
 - **Sexo:** Hombres y mujeres con más participacion femenina
@@ -475,7 +477,8 @@ Conecta a agricultores con financiamiento , proveedores e incluso insumos agrico
 <br><br>
 ### 3. Yaku Solutions
 Especializado en IoT para riego inteligente , con sistemas y sensores de humedad 
-### Segmento objetivo: Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de riego y reducir costos
+### Segmento objetivo: 
+Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de riego y reducir costos
 ### Aspectos Demograficos:
 - **Rango de edad:** 25 a 55 años
 - **Sexo:** Hombres y mujeres
