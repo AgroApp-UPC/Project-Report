@@ -440,6 +440,38 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 En el Perú existe distintos tipos de de startups y plataformas en desarrollo similares a Agroapp .
 <br><br>
 A  continuacion se mostrará los competidores directos :
+1. Sapce AG
+ Utiliza drones  e intelingencia artificial para el desarrollo de sus cultivos e incluso los monitorea mediante imágenes satelitales.
+### Segmento objetivo: Agricultores de mediana y gran escala 
+### Aspectos Demograficos:
+- **Rango de edad:** 35 a 60 años
+- **Sexo:** Predomina las deciciones tomadas por sexo masculinon 
+- **Nivel socioeconómico:** Medio y medio-alto vinculados a agronegocios
+#### Aspectos Geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica de residencia:** Zonas rurales , cerca de mercados de exportacion y agroindustrias
+- **Departamento:** En la costa norte y sur (La Libertad, Ica, Lambayeque, Piura)
+#### Aspectos Psicográficos:
+- Mayor orientación eficiencia y rentabilidad
+- Busca invertir tecnología avanzada para maximizar exportaciones
+- Tienen presupuesto para pagar soluciones premium de alto valor agregado
+- Apertura para nuevas innovaciones digitales
+<br><br>
+2. Agros
+Conecta a agricultores con financiamiento , proveedores e incluso insumos agricolas
+### Segmento objetivo: Agricultores de pequeña y mediana escala
+### Aspectos Demograficos:
+- **Rango de edad:** 25 a 50 años
+- **Sexo:** Hombres y mujeres con más participacion femenina
+- **Nivel socioeconómico:** Bajo, medio-bajo y medio 
+#### Aspectos Geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica de residencia:** Zonas rurales, conectados con cooperativas agrícolas
+- **Departamento:** En la sierra y selva (Cusco, Ayacucho, San Martin , Aucayali)
+#### Aspectos Psicográficos:
+- Interés con ingresos de financiamiento y capacitacion
+- Buscan soluciones para mejorar la seguridada económica
+- Uso tecnológico: Acceso limitado para dispositivos moviles
 
 
 
