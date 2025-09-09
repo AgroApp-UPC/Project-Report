@@ -497,6 +497,7 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 
 | **Competitive Analysis Landscape** |
 |---------------------------------------|
+
 | **¿Por qué llevar a cabo este análisis?** | Lograr identificar como se posiciona **AgroApp** frente a sus competidores en Perú, evaluadno el mercado objetivo y ventajas competitivas.  |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sección** | **AgroApp (Startup)** | **Space AG** | **Agros** | **Ritec** |
