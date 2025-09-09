@@ -505,16 +505,16 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 | **Perfil** |||||
 | **Overview** | App web con recomendaciones inteligentes y alertas de riesgo usando IoT básico (humedad, luz). | Monitoreo con drones, satélites e IA para agroexportación. | Plataforma digital que conecta agricultores con crédito, seguros e insumos. | Startup peruana de IoT agrícola: sensores de clima y suelo, riego inteligente. |
 | **Ventaja competitiva / Valor al cliente** | Simple, accesible y pensada para pequeños agricultores con baja experiencia digital. | Tecnología avanzada y escalable para grandes agroexportadores. | Democratiza el acceso a financiamiento agrícola. | Ahorro de agua y fertilizantes con sensores y automatización de riego. |
-|-------------|------------------------|--------------|-----------|-----------|
+
 | **Perfil de Marketing** |||||
 | **Mercado objetivo** | Agricultores pequeños y medianos (1–20 ha), Sierra y Selva. | Grandes agroexportadores de la Costa. | Agricultores pequeños y medianos organizados en cooperativas. | Agricultores medianos en zonas de riego intensivo (Costa y Sierra). |
 | **Estrategias de marketing** | Alianzas con cooperativas, talleres rurales, educación digital. | Alianzas B2B con agroexportadoras y empresas grandes. | Convenios con bancos, ONGs y asociaciones agrícolas. | Venta directa de hardware + acompañamiento técnico. |
-|-------------|------------------------|--------------|-----------|-----------|
+
 | **Perfil de Producto** |||||
 | **Productos & Servicios** | App web, alertas inteligentes, integración con IoT básico (humedad y luz). | Imágenes satelitales, drones e inteligencia artificial. | Marketplace agrícola, créditos y seguros digitales. | Sensores de clima (*Uklima*), de suelo (*Suelotec*), y sistemas de riego automatizado. |
 | **Precios & Costos** | Freemium + planes accesibles. | Premium (alto costo). | Suscripción + comisiones sobre transacciones. | Venta de hardware + servicio de mantenimiento. |
 | **Canales de distribución (Web/Móvil)** | Web responsive y móvil. | Web SaaS corporativo. | Web y aplicación móvil. | Hardware IoT conectado a plataforma web. |
-|-------------|------------------------|--------------|-----------|-----------|
+
 | **Análisis SWOT** |||||
 | **Fortalezas** | Fácil de usar, accesible, enfocado en pequeños agricultores. | Alta tecnología y prestigio internacional. | Amplia red de aliados financieros. | Tecnología propia peruana, impacto directo en ahorro de agua y fertilizantes. |
 | **Debilidades** | Requiere adopción digital en zonas rurales. | Costoso, inaccesible para pequeños agricultores. | Poca innovación técnica en cultivos. | Dependencia de hardware físico y costos iniciales altos. |
