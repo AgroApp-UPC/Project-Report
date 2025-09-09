@@ -440,8 +440,8 @@ Agricultores con terrenos entre 5 y 20 hectáreas que producen cultivos para aba
 En el Perú existe distintos tipos de de startups y plataformas en desarrollo similares a Agroapp .
 <br><br>
 A  continuacion se mostrará los competidores directos :
-1. Sapce AG
- Utiliza drones  e intelingencia artificial para el desarrollo de sus cultivos e incluso los monitorea mediante imágenes satelitales.
+### 1. Sapce AG
+Utiliza drones  e intelingencia artificial para el desarrollo de sus cultivos e incluso los monitorea mediante imágenes satelitales.
 ### Segmento objetivo: Agricultores de mediana y gran escala 
 ### Aspectos Demograficos:
 - **Rango de edad:** 35 a 60 años
@@ -457,7 +457,7 @@ A  continuacion se mostrará los competidores directos :
 - Tienen presupuesto para pagar soluciones premium de alto valor agregado
 - Apertura para nuevas innovaciones digitales
 <br><br>
-2. Agros
+### 2. Agros
 Conecta a agricultores con financiamiento , proveedores e incluso insumos agricolas
 ### Segmento objetivo: Agricultores de pequeña y mediana escala
 ### Aspectos Demograficos:
@@ -472,7 +472,22 @@ Conecta a agricultores con financiamiento , proveedores e incluso insumos agrico
 - Interés con ingresos de financiamiento y capacitacion
 - Buscan soluciones para mejorar la seguridada económica
 - Uso tecnológico: Acceso limitado para dispositivos moviles
-
+<br><br>
+### 3. Yaku Solutions
+Especializado en IoT para riego inteligente , con sistemas y sensores de humedad 
+### Segmento objetivo: Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de riego y reducir costos
+### Aspectos Demograficos:
+- **Rango de edad:** 25 a 55 años
+- **Sexo:** Hombres y mujeres
+- **Nivel socioeconómico:** Medio-bajo y medio
+#### Aspectos Geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica de residencia:** Zonas rurales con mayor actividad agricola
+- **Departamento:** En la costa (Ica, Piura,Lambayeque, Arequipa )
+#### Aspectos Psicográficos:
+- Interésen tecnología que genere ahorro de agua y fertilizantes
+- Buscan soluciones para mejorar la productividad y reducción de pérdidas
+- Uso tecnológico: Mayor disposición de uso de sensores IoT conectados a aplicaciones webs de monitoreo
 
 
 ### 2.1.1. Análisis competitivo.
