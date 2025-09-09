@@ -499,7 +499,7 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 |---------------------------------------|
 | **¿Por qué llevar a cabo este análisis?** | Lograr identificar como se posiciona **AgroApp** frente a sus competidores en Perú, evaluadno el mercado objetivo y ventajas competitivas.  |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sección** | **AgroApp (Startup)** | **Space AG** | **Agros** | **Ritec**  |
+| **Sección** | **AgroApp (Startup)** | **Space AG** | **Agros** | **Ritec** |
 |-------------|------------------------|--------------|-----------|-----------|
 | **Perfil** |||||
 | **Overview** | App web con recomendaciones inteligentes y alertas de riesgo usando IoT básico (humedad, luz). | Monitoreo con drones, satélites e IA para agroexportación. | Plataforma digital que conecta agricultores con crédito, seguros e insumos. | Startup peruana de IoT agrícola: sensores de clima y suelo, riego inteligente. |
