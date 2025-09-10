@@ -500,7 +500,7 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 |  Competitive Analysis Landscape |
 |---------------------------------------|
 
-| **¿Por qué llevar a cabo este análisis?** | Identificar cómo se posiciona **AgroApp** frente a competidores en Perú, evaluando mercado objetivo, propuesta de valor y ventajas competitivas. |
+| **¿Por qué llevar a cabo este análisis?** | Lograr identificar como se posiciona **AgroApp** frente a sus competidores en Perú, evaluadno el mercado objetivo y ventajas competitivas. |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 | **Sección** | **AgroApp (Startup)** | **Space AG** | **Agros** | **Ritec** |
@@ -515,7 +515,7 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 | **Productos & Servicios** | App web, alertas inteligentes, integración con IoT básico (humedad y luz). | Imágenes satelitales, drones e inteligencia artificial. | Marketplace agrícola, créditos y seguros digitales. | Sensores de clima (*Uklima*), de suelo (*Suelotec*), y sistemas de riego automatizado. |
 | **Precios & Costos** | Freemium + planes accesibles. | Premium (alto costo). | Suscripción + comisiones sobre transacciones. | Venta de hardware + servicio de mantenimiento. |
 | **Canales de distribución (Web/Móvil)** | Web responsive y móvil. | Web SaaS corporativo. | Web y aplicación móvil. | Hardware IoT conectado a plataforma web. |
-| ** Análisis SWOT** |||||
+| **Análisis SWOT** |||||
 | **Fortalezas** | Fácil de usar, accesible, enfocado en pequeños agricultores. | Alta tecnología y prestigio internacional. | Amplia red de aliados financieros. | Tecnología propia peruana, impacto directo en ahorro de agua y fertilizantes. |
 | **Debilidades** | Requiere adopción digital en zonas rurales. | Costoso, inaccesible para pequeños agricultores. | Poca innovación técnica en cultivos. | Dependencia de hardware físico y costos iniciales altos. |
 | **Oportunidades** | Expansión en Sierra y Selva; integración de más sensores IoT. | Crecimiento sostenido de agroexportaciones. | Mayor demanda de servicios financieros agrícolas. | Escasez hídrica que impulsa soluciones de riego eficiente. |
