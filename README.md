@@ -52,7 +52,7 @@
    </tr>
    <tr>
    <td>Via Luna, Bruce </td>
-   <td></td>
+   <td>U202313403</td>
    </tr>
    <tr>
    <td>Yalán Zhang, Angie Christina</td>
@@ -122,7 +122,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
    2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
-   2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
+   2.4. [Big Picture Event Storming(#24-big-picture-event-storming)]<br>
+   2.5. [Ubiquitous Language](#25-ubiquitous-language)<br>
 3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
    3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)<br>
    3.2. [User Stories](#32-user-stories)<br>
@@ -148,9 +149,10 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
    4.4.3. [Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)<br>
    4.5. [Web Applications Prototyping](#45-web-applications-prototyping)<br>
    4.6. [Domain-Driven Software Architecture](#46-domain-driven-software-architecture)<br>
-   4.6.1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram)<br>
-   4.6.2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)<br>
-   4.6.3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)<br>
+   4.6.1. [Design-Level Event Storming](#461-design-level-event-storming)<br>
+   4.6.2. [Software Architecture Context Diagram](#462-software-architecture-context-diagram)<br>
+   4.6.3. [Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)<br>
+   4.6.4. [Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)<br>
    4.7. [Software Object-Oriented Design](#47-software-object-oriented-design)<br>
    4.7.1. [Class Diagrams](#471-class-diagrams)<br>
    4.7.2. [Class Dictionary](#472-class-dictionary)<br>
