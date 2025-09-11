@@ -609,12 +609,8 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 |------------|------------|------------------------|----------------------|
 | **Space AG** | Imágenes satelitales y drones de alta precisión (costosas). | Ofrecer una solución simple, accesible y de bajo costo para agricultores pequeños y medianos. | - Modelo freemium o bajo costo.<br>- Tecnología para todos.<br>- Interfaz intuitiva sin conocimientos técnicos. |
 | **Agros** | Acceso a financiamiento, seguros e insumos agrícolas. | Diferenciarse con un sistema de recomendaciones inteligentes e IoT para optimizar la producción. | - Alianzas con cooperativas.<br>- Posicionar AgroApp como herramienta que convierte créditos en resultados productivos. |
-| **Ritec** | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar IoT básicos y económicos con alertas automáticas y lenguaje sencillo. | - Kit inicial de bajo costo.<br>- Alertas accionables  para facilitar la toma de decisiones .<br>- Pilotos en zonas rurales con subsidios. |
+| **Ritec** | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar IoT básicos y económicos con alertas automáticas y lenguaje sencillo. | -Marketing educativo : Talleres virtuales y prácticos.<br>- Alertas accionables  para facilitar la toma de decisiones .<br>- Alianzas con ONG y gobiernos locales . |
 
-##  Tácticas clave de AgroApp
-- Crear una comunidad digital agrícola .
-- Marketing educativo : Talleres virtuales y prácticos.
-- Alianzas con ONG y gobiernos locales .
   
 
 ## 2.2. Entrevistas.
