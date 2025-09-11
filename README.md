@@ -607,9 +607,9 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 
 | Competidor | Fortalezas | Estrategia de AgroApp | Tácticas de AgroApp |
 |------------|------------|------------------------|----------------------|
-| **Agros** | Acceso a financiamiento, seguros e insumos agrícolas. | Diferenciarse con un sistema de **recomendaciones inteligentes e IoT** para optimizar la producción. | - Alianzas con cooperativas.<br>- Posicionar AgroApp como herramienta que convierte créditos en resultados productivos. |
-| **Space AG** | Imágenes satelitales y drones de alta precisión (costosas). | Ofrecer una solución **simple, accesible y de bajo costo** para agricultores pequeños y medianos. | - Modelo freemium o bajo costo.<br>- “Tecnología para todos”.<br>- Interfaz intuitiva sin conocimientos técnicos. |
-| **Ritec** | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar **IoT básicos y económicos** con alertas automáticas y lenguaje sencillo. | - Kit inicial de bajo costo.<br>- Alertas prácticas: “riega hoy”, “falta luz”.<br>- Pilotos en zonas rurales con subsidios. |
+| **Space AG** | Imágenes satelitales y drones de alta precisión (costosas). | Ofrecer una solución simple, accesible y de bajo costo para agricultores pequeños y medianos. | - Modelo freemium o bajo costo.<br>- “Tecnología para todos”.<br>- Interfaz intuitiva sin conocimientos técnicos. |
+| **Agros** | Acceso a financiamiento, seguros e insumos agrícolas. | Diferenciarse con un sistema de recomendaciones inteligentes e IoT para optimizar la producción. | - Alianzas con cooperativas.<br>- Posicionar AgroApp como herramienta que convierte créditos en resultados productivos. |
+| **Ritec** | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar IoT básicos y económicos con alertas automáticas y lenguaje sencillo. | - Kit inicial de bajo costo.<br>- Alertas prácticas: “riega hoy”, “falta luz”.<br>- Pilotos en zonas rurales con subsidios. |
 
 ## 2.2. Entrevistas.
 
