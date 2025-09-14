@@ -120,14 +120,12 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
-   2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
-   2.4. [Big Picture Event Storming(#24-big-picture-event-storming)]<br>
+   2.4. [Big Picture Event Storming](#24-big-picture-event-storming)<br>
    2.5. [Ubiquitous Language](#25-ubiquitous-language)<br>
 3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
-   3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)<br>
-   3.2. [User Stories](#32-user-stories)<br>
-   3.3. [Impact Mapping](#33-impact-mapping)<br>
-   3.4. [Product Backlog](#34-product-backlog)<br>
+   3.1. [User Stories](#31-user-stories)<br>
+   3.2. [Impact Mapping](#32-impact-mapping)<br>
+   3.3. [Product Backlog](#33-product-backlog)<br>
 4. [Capítulo IV: Product Design](#capítulo-iv-product-design)<br>
    4.1. [Style Guidelines](#41-style-guidelines)<br>
    4.1.1. [General Style Guidelines](#411-general-style-guidelines)<br>
@@ -1162,12 +1160,58 @@ Conclusiones:
 ### 2.3.4. Empathy Mapping.
 
 ## 2.4. Big Picture Event Storming.
+- Big Picture Event Storming del proyecto AgroTech
+
+<img src="resources/Event_storming.jpg" alt="Imagen del Big Event Storming">
 
 ## 2.5. Ubiquitous Language.
 
+<table>
+  <thead>
+    <tr>
+      <th> Término (Ingles)</th>
+      <th> Término (Español)</th>
+      <th> Descripción (Español)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th> Farmers</th>
+      <th> Agricultores </th>
+      <th> Persona que se dedica o trabaja en el ambito de plantar, cuidar y cultivar alimentos </th>
+    </tr>
+    <tr>
+      <th> Crop</th>
+      <th> Cultivo </th>
+      <th> Area de trabajo de los agricultores donde realizan su labor de plantar y cosechar sus alimentos </th>
+    </tr>
+    <tr>
+      <th> Cultivation cycle</th>
+      <th> Ciclo de Cultivo </th>
+      <th> Eventos durante del proceso de un cultivo desde la siembra hasta la cosecha de este mismo </th>
+    </tr>
+    <tr>
+      <th> Organizations</th>
+      <th> Organizaciones </th>
+      <th> Empresas interesadas en brindar sus servicios dentro de la aplicacion teniendo una paga de por medio </th>
+    </tr>
+    <tr>
+      <th> Harvest</th>
+      <th> Cosecha </th>
+      <th> Producto extraido de un cultivo en el momento indicado </th>
+    </tr>
+    <tr>
+      <th> Sustainability</th>
+      <th> Sostenibilidad </th>
+      <th> Producto extraido de un cultivo en el momento indicado </th>
+    </tr>
+    <tr>
+  </tbody>
+</table>
+
 # Capítulo III: Requirements Specification
 
-## 3.1. User Stories.
+## 3.1. User Stories
 
 ## 3.2. Impact Mapping.
 
@@ -1215,19 +1259,38 @@ Conclusiones:
 
 ### 4.6.1. Design-Level Event Storming.
 
+<img src="resources/Desing Level - Event.jpg">
+
+<img src="resources/Desing Level - Event (2).jpg">
+
+<img src="resources/Desing Level - Event (3).jpg">
+
+<img src="resources/Desing Level - Event (1).jpg">
+
 ### 4.6.2. Software Architecture Context Diagram.
+
+<img src="resources/Context_Diagram.png">
 
 ### 4.6.3. Software Architecture Container Diagrams.
 
+<img src="resources/container_diagram.png">
+
 ### 4.6.4. Software Architecture Components Diagrams.
+
+<img src="resources/Components_diagram_API.png">
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
+- Diagrama de clases del proyecto AgroTech
+<img src="resources/Class_Diagram.png">
+
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagrams.
+- Diagrama de la base de datos del proyecto AgroTech
+<img src="resources/Data_base_diagram.JPG">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
