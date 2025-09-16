@@ -1357,6 +1357,106 @@ El sistema de etiquetado de AgroApp se basa en principios de claridad, brevedad 
 * Community ↔ Tips: los usuarios publican consejos asociados a cultivos o tareas.
 
 ### 4.2.3. SEO Tags and Meta Tags
+La estrategia de SEO y metaetiquetado de AgroApp busca optimizar la visibilidad del sitio en buscadores y mejorar la experiencia de descubrimiento tanto de la Landing Page (atracción y captación de usuarios) como de la Web Application (uso recurrente y valor agregado).
+
+Se definen las siguientes etiquetas base:
+
+Title: breve, descriptivo y único por página.
+Meta Description: entre 140–160 caracteres, explicando el propósito de la página.
+Meta Keywords: términos clave relacionados con agricultura, cultivos y tecnología.
+Meta Author: autoría del proyecto.
+
+#### 4.2.3.1. Landing Page (Sitio estático)
+
+Title:
+    
+    <title>AgroApp | Smart Farming for Small and Medium-Scale Farmers</title>
+
+Meta Description:
+    
+    <meta name="description" content="AgroApp is the digital companion for small and medium-scale farmers. Register your crops, track soil and water, and receive simple, personalized recommendations to grow smarter and harvest better.">
+
+Meta Keywords:
+
+    <meta name="keywords" content="AgroApp, smart farming, agriculture Peru, crop management, sustainable farming, farm technology, farmers app, digital agriculture">
+
+Meta Author:
+
+    <meta name="author" content="AgroTech Startup Team">
+
+#### 4.2.3.2. Web Application (Plataforma)
+
+**Dashboard**
+
+Title: 
+
+    <title>AgroApp Dashboard | Your Crops at a Glance</title>
+
+Meta Description: 
+
+    <meta name="description" content="View your fields, tasks, and crop recommendations in one simple dashboard. Stay on top of your farming with AgroApp.">
+
+Meta Keywords: 
+
+    <meta name="keywords" content="AgroApp dashboard, crop monitoring, farmer assistant, field management">
+
+Meta Author: 
+
+    <meta name="author" content="AgroTech Startup Team">
+
+**My Fields**
+
+Title: 
+
+    <title>AgroApp | My Fields</title>
+
+Meta Description: 
+
+    <meta name="description" content="Register and manage your agricultural fields. Add crops, track soil, water, and sunlight data easily with AgroApp.">
+
+Meta Keywords: 
+
+    <meta name="keywords" content="AgroApp fields, register crops, farm fields management, soil tracking">
+
+Meta Author: 
+
+    <meta name="author" content="AgroTech Startup Team">
+
+**My Crops**
+
+Title: 
+
+    <title>AgroApp | My Crops</title>
+
+Meta Description: 
+
+    <meta name="description" content="Organize and monitor your crops by species, planting date, and current status. AgroApp helps you optimize every harvest.">
+
+Meta Keywords: 
+    
+    <meta name="keywords" content="AgroApp crops, crop monitoring, harvest planning, agricultural app">
+
+Meta Author: 
+
+    <meta name="author" content="AgroTech Startup Team">
+
+**Community**
+
+Title: 
+
+    <title>AgroApp | Community</title>
+
+Meta Description: 
+
+    <meta name="description" content="Connect with other farmers, share experiences, and learn tips to improve your farming practices with AgroApp community.">
+
+Meta Keywords: 
+
+    <meta name="keywords" content="AgroApp community, farmer tips, agriculture forum, farming collaboration">
+
+Meta Author: 
+
+    <meta name="author" content="AgroTech Startup Team">
 
 ### 4.2.4. Searching Systems.
 
