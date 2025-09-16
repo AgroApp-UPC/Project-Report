@@ -1545,11 +1545,54 @@ En todo momento, los mockups aplican el Design System definido:
 * Lenguaje visual: Formal, respetuoso, claro y con un tono entusiasta que motiva al agricultor a usar la app.
 
 ## 4.4. Web Applications UX/UI Design.
+La experiencia de usuario en las aplicaciones web de AgroApp ha sido diseñada bajo principios de simplicidad, claridad y funcionalidad. El sistema ofrece a los agricultores una interfaz visual coherente con la identidad de marca, priorizando la navegación intuitiva, el acceso rápido a la información y la consistencia gráfica en todas las pantallas.
+<br><br>
+Cada módulo —Dashboard, My Crops, My Fields, My Tasks, Community y Profile— está concebido con layouts claros y jerarquía visual que permite a los usuarios identificar de inmediato sus cultivos, tareas pendientes y estado de los campos. El lenguaje visual se apoya en tipografías legibles, colores con función semántica (verde = healthy, naranja = atención, rojo = crítico) y componentes reutilizables como tarjetas, tablas, botones y formularios.
+<br><br>
+Además, se incorporan principios de diseño inclusivo: alto contraste en elementos clave, etiquetas claras en los formularios, tooltips explicativos y estados de interacción (hover, active, completed). Esto asegura que usuarios con diferentes niveles de alfabetización digital puedan desenvolverse sin fricción en la plataforma.
+
 ### 4.4.1. Web Applications Wireframes.
+<div align="center"> <img src="resources/figma/wireframes/wb1.png" alt="web applications wireframe 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb2.png" alt="web applications wireframe 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb3.png" alt="web applications wireframe 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb4.png" alt="web applications wireframe 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb5.png" alt="web applications wireframe 5" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb6.png" alt="web applications wireframe 6" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb7.png" alt="web applications wireframe 7" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb8.png" alt="web applications wireframe 8" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/wb9.png" alt="web applications wireframe 9" width="600"> </div>
+
+Los wireframes constituyen la base estructural de la experiencia digital de AgroApp, definiendo la arquitectura de información y la interacción antes de avanzar al diseño final.
+
+* Dashboard: muestra los cultivos activos, próximas fechas de cosecha, tareas por realizar y recomendaciones automatizadas. Se aplican principios de jerarquía al destacar lo inmediato (fecha, tareas de hoy) en la parte superior.
+* My Crops & My Fields: utilizan tablas y cards para organizar la información, lo que facilita la comparación rápida entre cultivos y campos.
+* Forms de registro (Add new crop / Add new field): priorizan simplicidad en el llenado, con inputs claros y secciones bien delimitadas.
+* Community: fomenta la interacción social mostrando contribuciones de otros usuarios en un listado lineal, optimizado para lectura rápida.
+* My Profile: mantiene consistencia de diseño con formularios editables y toggles simples para configuraciones.
+
+La representación en baja fidelidad evidencia cómo la aplicación organiza la información sin distracciones, aplicando principios de claridad, consistencia y usabilidad.
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.2. Web Applications Mock-ups.
+<div align="center"> <img src="resources/figma/mockups/wb1.png" alt="web applications mockup 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb2.png" alt="web applications mockup 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb3.png" alt="web applications mockup 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb4.png" alt="web applications mockup 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb5.png" alt="web applications mockup 5" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb6.png" alt="web applications mockup 6" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb7.png" alt="web applications mockup 7" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb8.png" alt="web applications mockup 8" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/wb9.png" alt="web applications mockup 9" width="600"> </div>
+
+Los mock-ups de AgroApp representan la transición de la estructura al diseño final, aplicando el Design System previamente establecido.
+
+* Dashboard: usa tarjetas con imágenes de cultivos y colores semánticos para reflejar el estado de cada campo. La tipografía en negrita resalta las fechas y tareas inmediatas, mientras que los bloques de recomendaciones se diferencian mediante bullets simples.
+* My Crops & My Fields: presentan tablas con líneas divisorias claras, botones de acción (editar, eliminar) y tarjetas con fotografías que humanizan y contextualizan la información agrícola.
+* Community: el feed se mantiene minimalista para dar protagonismo al contenido generado por los usuarios, reforzando la identidad colaborativa de AgroApp.
+* My Profile: combina formularios editables con switches de activación, transmitiendo simplicidad en la gestión de datos personales y configuraciones.
+
+El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión con el entorno real de los usuarios, mientras que la coherencia visual entre pantallas garantiza una experiencia profesional, confiable y alineada con las necesidades del sector agrícola.
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
