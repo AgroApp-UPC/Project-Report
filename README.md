@@ -1222,11 +1222,89 @@ Conclusiones:
 ## 4.1. Style Guidelines.
 
 ### 4.1.1. General Style Guidelines.
+La identidad visual de AgroApp se fundamenta en transmitir confianza, simplicidad y cercanía hacia agricultores de pequeña y mediana escala. Se optó por un estilo sereno pero entusiasta, con un tono de comunicación formal-casual: respetuoso en el lenguaje pero accesible, claro y amigable.
+<br><br>
+El sistema visual se inspira en Design Systems modernos, pero adaptado a la realidad agrícola, priorizando la legibilidad, el contraste y la claridad de los elementos.
+#### 4.1.1.1. Tipografía
+##### 4.1.1.1.1. Tipografía del logo
+
+<div align="center"> <img src="resources/figma/logoagroapp.png" alt="logo de agroapp" width="500"> </div>
+El logotipo utiliza la fuente Inter en estilo SemiBold, en minúsculas. Esta decisión transmite modernidad, cercanía y simplicidad, evitando un aspecto corporativo rígido. La elección en minúsculas aporta accesibilidad, mientras que el grosor SemiBold garantiza buena presencia visual en pantallas grandes y pequeñas.
+
+##### 4.1.1.1.2. Tipografía del texto regular
+
+<div align="center"><img src="resources/figma/tipografia.png" alt="tipografía de agroapp" width="600"></div>
+
+Para todo el contenido textual se utiliza también la familia tipográfica Inter, que ofrece una amplia gama de grosores desde ExtraLight hasta Bold. Esto asegura consistencia en el sistema y flexibilidad para jerarquizar títulos, subtítulos y párrafos.
+
+* Títulos principales: Inter Bold, tamaño 24–32px en web.
+* Subtítulos y secciones: Inter Medium, tamaño 18–20px.
+* Texto regular y descripciones: Inter Regular, tamaño 14–16px.
+* Notas o textos secundarios: Inter Light, tamaño 12px.
+
+La tipografía Inter fue elegida por su legibilidad en dispositivos móviles y su neutralidad estética, lo que permite destacar el contenido agrícola por encima del diseño.
+
+#### 4.1.1.2. Colores
+<div align="center"> <img src="resources/figma/color.png" alt="paleta de colores de agroapp" width="600"> </div>
+
+La paleta de colores se compone de tonos inspirados en la naturaleza agrícola del Perú:
+
+**Paleta principal:**
+
+* Verde claro (#A5BDA6) → representa crecimiento y frescura.
+* Verde medio (#577C61) → transmite confianza, estabilidad y conexión con el campo.
+* Negro (#000000) → usado para contraste y textos principales.
+
+**Paleta secundaria:**
+
+* Arena claro (#E3D3C3) → aporta calidez y neutralidad.
+* Blanco (#FFFFFF) → usado para fondos limpios y legibles.
+* Verde pálido (#C2D6B9) → soporte para resaltar recomendaciones o alertas suaves.
+* Marrón tierra (#826450) → conecta con el suelo, las raíces y la agricultura tradicional.
+
+La combinación de verdes y marrones evoca naturaleza, confianza y sustentabilidad, mientras que los neutros (blanco y arena) aseguran una interfaz limpia y ligera.
+
+#### 4.1.1.3. Iconografía
+<div align="center"> <img src="resources/figma/iconografia.png" alt="iconografía de agroapp" width="600"> </div>
+
+Los íconos siguen un estilo lineal, minimalista y de trazo uniforme, basados en un grid de 24px y con grosor de 2px–4px según el tamaño. Se emplean íconos de uso universal (hogar, usuario, añadir, editar, eliminar) para garantizar intuitividad y consistencia.
+
+* El ícono de inicio (home) es la referencia central, diseñado en distintos tamaños (30–90px) manteniendo proporción y grosor.
+* Íconos adicionales (agregar, usuario, tareas, comunidad) se alinean con el estilo lineal, asegurando coherencia visual.
+* La paleta de iconografía se mantiene en tonos oscuros (negro/gris) para máxima legibilidad sobre fondos claros, aunque puede incorporar acentos de verde en casos de estados activos.
+
+#### 4.1.1.4. Tono de comunicación y lenguaje aplicado
+
+El tono de comunicación de AgroApp busca ser cercano, claro y motivador, evitando tecnicismos innecesarios que puedan generar confusión en agricultores con poca o media experiencia. Se definió como un estilo formal-casual:
+
+* Formal en el respeto, claridad y precisión de la información técnica (ej. recomendaciones de riego, fertilización o riesgos).
+* Casual en la forma de dirigirse al usuario, utilizando mensajes breves, fáciles de entender y amigables.
 
 ### 4.1.2. Web Style Guidelines.
 
-## 4.2. Information Architecture.
+La experiencia web de AgroApp ha sido diseñada con un enfoque centrado en la funcionalidad, simplicidad y accesibilidad para agricultores de pequeña y mediana escala. La interfaz prioriza la claridad visual mediante una estructura jerarquizada, con menús laterales intuitivos, navegación fluida y componentes fáciles de identificar. Se emplean botones destacados, íconos representativos y etiquetas claras que facilitan la interacción, incluso para usuarios con poca experiencia en tecnología. Cada sección del sistema —desde el panel de campos hasta la comunidad— mantiene coherencia gráfica, asegurando una experiencia sin fricciones. Además, el diseño es completamente responsive, adaptándose automáticamente a distintos tamaños de pantalla, garantizando una experiencia óptima tanto en desktop como en dispositivos móviles de uso cotidiano. En conjunto, las Web Style Guidelines de AgroApp buscan crear una plataforma visual consistente, confiable y centrada en el usuario, optimizada para el entorno digital agrícola.
+<br><br>
+**Estructura de navegación**
 
+La estructura de navegación en AgroApp está pensada para ofrecer acceso rápido y organizado a las funcionalidades principales de la plataforma. El menú lateral fijo permite desplazarse entre secciones sin perder el contexto, con el soporte de íconos claros y etiquetas breves para reforzar la comprensión. En pantallas reducidas, este menú se transforma en un menú desplegable tipo hamburguesa, manteniendo todas las funciones accesibles. Se integran breadcrumbs (rutas de navegación) y botones de retroceso en secciones más profundas, asegurando que el usuario siempre tenga presente dónde se encuentra dentro del sistema.
+
+**Jerarquía visual**
+
+AgroApp establece una jerarquía visual clara que permite a los agricultores identificar con rapidez las áreas más relevantes. Los títulos de sección se diferencian con mayor tamaño y peso tipográfico, mientras que las acciones principales se destacan mediante botones con colores contrastantes. El uso del color cumple también una función informativa: verde para estados saludables, amarillo para riesgo medio y rojo para riesgo alto. Esta jerarquía visual favorece tanto a usuarios experimentados como a quienes utilizan la plataforma por primera vez, reduciendo la curva de aprendizaje.
+
+**Componentes de interfaz**
+
+La plataforma hace uso de componentes reutilizables y consistentes como tarjetas (cards), formularios, botones, tablas y modales, diseñados con un estilo minimalista y funcional. Los botones cuentan con distintos estilos según su propósito (primarios para acciones principales, secundarios para soporte, de alerta para situaciones críticas). Las tablas presentan espaciado suficiente para mejorar la legibilidad, y los formularios están acompañados de etiquetas claras y estados visuales para cada interacción (activo, hover, error, éxito). Estos componentes se adaptan a diferentes escenarios agrícolas y aseguran una interacción intuitiva en todo momento.
+
+**Responsive design**
+
+El diseño de AgroApp se adapta de forma fluida a cualquier dispositivo. Se implementan grids flexibles que reorganizan los elementos de acuerdo al ancho de pantalla, manteniendo la claridad y accesibilidad en todo momento. En versiones móviles, el menú lateral se convierte en menú desplegable, y los componentes como tarjetas o tablas se presentan en formato apilado para favorecer la legibilidad. Esta adaptabilidad es clave para agricultores que acceden desde teléfonos inteligentes en zonas rurales, donde la pantalla suele ser el dispositivo principal de interacción.
+
+**Accesibilidad y claridad**
+
+AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contraste entre textos y fondos sigue estándares mínimos de accesibilidad (WCAG AA), asegurando una lectura cómoda incluso en condiciones de baja iluminación. Los íconos cuentan con etiquetas o tooltips que refuerzan su significado, y los formularios incluyen mensajes breves y legibles para guiar al usuario. El lenguaje empleado es claro, directo y respetuoso, evitando tecnicismos innecesarios. De esta forma, AgroApp minimiza la curva de aprendizaje y maximiza la eficiencia de cada acción realizada por el agricultor.
+
+## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
 ### 4.2.2. Labeling Systems.
