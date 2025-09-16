@@ -1461,7 +1461,20 @@ Meta Author:
 ### 4.2.4. Searching Systems.
 
 ### 4.2.5. Navigation Systems.
+El sistema de navegación de AgroApp está diseñado para guiar a los usuarios de forma simple, predecible y eficiente, asegurando que puedan cumplir sus metas con el menor número de pasos posibles.
 
+**Landing Page:**
+* La navegación se estructura en un menú superior fijo con accesos directos a: Home, Plans, Contact Us, Sign up y Sign in.
+* Los call-to-action (CTA) en botones destacados redirigen a la vista correspondiente en la Web Application (ej. “Dashboard” → Login).
+* El contenido se presenta en scroll vertical progresivo, con secciones claras.
+
+**Web Application:**
+* La aplicación cuenta con un menú lateral persistente que incluye las secciones clave: Dashboard, My Fields, My Crops, My Tasks, Community y Profile.
+* En dispositivos móviles, este menú se repliega en un menú hamburguesa para mantener la funcionalidad sin sacrificar espacio.
+* Se integran breadcrumbs (rutas de navegación) en vistas más profundas, como el detalle de un campo o cultivo, para que el usuario nunca pierda el contexto.
+* Botones de retroceso y accesos rápidos en el encabezado facilitan regresar a la vista anterior.
+
+En conjunto, estas decisiones permiten que el usuario recorra la experiencia desde la Landing Page hasta la Web Application con continuidad visual y lógica, asegurando una interacción fluida.
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
