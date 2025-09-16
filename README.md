@@ -1228,12 +1228,12 @@ El sistema visual se inspira en Design Systems modernos, pero adaptado a la real
 #### 4.1.1.1. Tipografía
 ##### 4.1.1.1.1. Tipografía del logo
 
-<div align="center"> <img src="resources/figma/logoagroapp.png" alt="logo de agroapp" width="500"> </div>
+<div align="center"> <img src="resources/figma/logoagroapp.png" alt="logo de agroapp" width="400"> </div>
 El logotipo utiliza la fuente Inter en estilo SemiBold, en minúsculas. Esta decisión transmite modernidad, cercanía y simplicidad, evitando un aspecto corporativo rígido. La elección en minúsculas aporta accesibilidad, mientras que el grosor SemiBold garantiza buena presencia visual en pantallas grandes y pequeñas.
 
 ##### 4.1.1.1.2. Tipografía del texto regular
 
-<div align="center"><img src="resources/figma/tipografia.png" alt="tipografía de agroapp" width="600"></div>
+<div align="center"><img src="resources/figma/tipografia.png" alt="tipografía de agroapp" width="400"></div>
 
 Para todo el contenido textual se utiliza también la familia tipográfica Inter, que ofrece una amplia gama de grosores desde ExtraLight hasta Bold. Esto asegura consistencia en el sistema y flexibilidad para jerarquizar títulos, subtítulos y párrafos.
 
@@ -1245,7 +1245,7 @@ Para todo el contenido textual se utiliza también la familia tipográfica Inter
 La tipografía Inter fue elegida por su legibilidad en dispositivos móviles y su neutralidad estética, lo que permite destacar el contenido agrícola por encima del diseño.
 
 #### 4.1.1.2. Colores
-<div align="center"> <img src="resources/figma/color.png" alt="paleta de colores de agroapp" width="600"> </div>
+<div align="center"> <img src="resources/figma/color.png" alt="paleta de colores de agroapp" width="400"> </div>
 
 La paleta de colores se compone de tonos inspirados en la naturaleza agrícola del Perú:
 
@@ -1265,7 +1265,7 @@ La paleta de colores se compone de tonos inspirados en la naturaleza agrícola d
 La combinación de verdes y marrones evoca naturaleza, confianza y sustentabilidad, mientras que los neutros (blanco y arena) aseguran una interfaz limpia y ligera.
 
 #### 4.1.1.3. Iconografía
-<div align="center"> <img src="resources/figma/iconografia.png" alt="iconografía de agroapp" width="600"> </div>
+<div align="center"> <img src="resources/figma/iconografia.png" alt="iconografía de agroapp" width="400"> </div>
 
 Los íconos siguen un estilo lineal, minimalista y de trazo uniforme, basados en un grid de 24px y con grosor de 2px–4px según el tamaño. Se emplean íconos de uso universal (hogar, usuario, añadir, editar, eliminar) para garantizar intuitividad y consistencia.
 
@@ -1308,6 +1308,53 @@ AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contra
 ### 4.2.1. Organization Systems.
 
 ### 4.2.2. Labeling Systems.
+
+El sistema de etiquetado de AgroApp se basa en principios de claridad, brevedad y consistencia, asegurando que los agricultores puedan interpretar la información sin ambigüedades. Cada etiqueta está diseñada con un mínimo número de palabras y se utiliza de manera uniforme en toda la plataforma para evitar duplicidades o confusión.
+
+**Principios generales**
+* Lenguaje claro y directo: etiquetas fáciles de comprender, sin tecnicismos innecesarios.
+* Consistencia: las mismas palabras se usan en todos los módulos (ej. “My Fields” nunca cambia a “Crop Areas”).
+* Brevity first: máximo 1–2 palabras por etiqueta siempre que sea posible.
+* Asociación intuitiva: cada etiqueta se vincula directamente con la acción o dato representado.
+
+**Etiquetas principales (Navegación Global)**
+* Dashboard → Vista general de recomendaciones, tareas y estado de los cultivos.
+* My Crops → Lista y gestión de cultivos registrados.
+* My Fields → Información y detalles de los campos agrícolas.
+* My Tasks → Registro de tareas pendientes, en curso o completadas.
+* Community → Sección de intercambio de consejos y experiencias con otros agricultores.
+* Profile → Configuración de cuenta e información personal.
+
+**Etiquetas secundarias (Dentro de cada sección)**
+* Field Name → Nombre del campo.
+* Location → Ubicación (distrito, provincia, región).
+* Size → Tamaño del campo (ha o categorías: pequeño, mediano, grande).
+* Crop → Tipo de cultivo.
+* Variety → Variedad del cultivo.
+* Planting Date → Fecha de siembra.
+* Harvest Date → Fecha estimada de cosecha.
+* Soil Type → Tipo de suelo.
+* Watering → Registro de riego.
+* Sunlight → Horas de sol.
+* Status → Estado actual (Healthy, Medium Risk, High Risk).
+* Recommendation → Sugerencia generada por el sistema.
+* History → Registro de actividades realizadas.
+
+**Etiquetas para estados y acciones**
+* Add Field → Registrar nuevo campo.
+* Add Crop → Agregar cultivo a un campo.
+* Healthy → Estado óptimo del cultivo.
+* Attention → Requiere atención moderada.
+* Critical → Requiere atención urgente.
+* Save → Confirmar y guardar cambios.
+* Edit → Modificar.
+* Delete → Eliminar.
+
+**Asociaciones entre etiquetas**
+* Fields ↔ Crops: cada campo puede tener múltiples cultivos.
+* Crops ↔ Tasks: cada cultivo se vincula con tareas específicas (riego, fertilización, cosecha).
+* Crops ↔ Status/Recommendations: cada cultivo tiene un estado y recomendaciones asociadas.
+* Community ↔ Tips: los usuarios publican consejos asociados a cultivos o tareas.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
