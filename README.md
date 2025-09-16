@@ -583,33 +583,31 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 | **¿Por qué llevar a cabo este análisis?** | Lograr identificar como se posiciona **AgroApp** frente a sus competidores en Perú, evaluadno el mercado objetivo y ventajas competitivas. |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 
-| **Sección**                                | **AgroApp (Startup)**                                                                          | **Space AG**                                                   | **Agros**                                                                   | **Ritec**                                                                              |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Perfil**                                 |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Overview**                               | App web con recomendaciones inteligentes y alertas de riesgo usando IoT básico (humedad, luz). | Monitoreo con drones, satélites e IA para agroexportación.     | Plataforma digital que conecta agricultores con crédito, seguros e insumos. | Startup peruana de IoT agrícola: sensores de clima y suelo, riego inteligente.         |
-| **Ventaja competitiva / Valor al cliente** | Simple, accesible y pensada para pequeños agricultores con baja experiencia digital.           | Tecnología avanzada y escalable para grandes agroexportadores. | Democratiza el acceso a financiamiento agrícola.                            | Ahorro de agua y fertilizantes con sensores y automatización de riego.                 |
-| **Perfil de Marketing**                    |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Mercado objetivo**                       | Agricultores pequeños y medianos (1–20 ha), Sierra y Selva.                                    | Grandes agroexportadores de la Costa.                          | Agricultores pequeños y medianos organizados en cooperativas.               | Agricultores medianos en zonas de riego intensivo (Costa y Sierra).                    |
-| **Estrategias de marketing**               | Alianzas con cooperativas, talleres rurales, educación digital.                                | Alianzas B2B con agroexportadoras y empresas grandes.          | Convenios con bancos, ONGs y asociaciones agrícolas.                        | Venta directa de hardware + acompañamiento técnico.                                    |
-| **Perfil de Producto**                     |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Productos & Servicios**                  | App web, alertas inteligentes, integración con IoT básico (humedad y luz).                     | Imágenes satelitales, drones e inteligencia artificial.        | Marketplace agrícola, créditos y seguros digitales.                         | Sensores de clima , de suelo , y sistemas de riego automatizado. |
-| **Precios & Costos**                       | Freemium + planes accesibles.                                                                  | Premium (alto costo).                                          | Suscripción + comisiones sobre transacciones.                               | Venta de hardware + servicio de mantenimiento.                                         |
-| **Canales de distribución (Web/Móvil)**    | Web responsive y móvil.                                                                        | Web SaaS corporativo.                                          | Web y aplicación móvil.                                                     | Hardware IoT conectado a plataforma web.                                               |
-| **Análisis SWOT**                          |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Fortalezas**                             | Fácil de usar, accesible, enfocado en pequeños agricultores.                                   | Alta tecnología y prestigio internacional.                     | Amplia red de aliados financieros.                                          | Tecnología propia peruana, impacto directo en ahorro de agua y fertilizantes.          |
-| **Debilidades**                            | Requiere adopción digital en zonas rurales.                                                    | Costoso, inaccesible para pequeños agricultores.               | Poca innovación técnica en cultivos.                                        | Dependencia de hardware físico y costos iniciales altos.                               |
-| **Oportunidades**                          | Expansión en Sierra y Selva; integración de más sensores IoT.                                  | Crecimiento sostenido de agroexportaciones.                    | Mayor demanda de servicios financieros agrícolas.                           | Escasez hídrica que impulsa soluciones de riego eficiente.                             |
-| **Amenazas**                               | Competidores con más recursos tecnológicos.                                                    | Dependencia de grandes clientes corporativos.                  | Competencia de otras plataformas fintech agrícolas.                         | Competidores internacionales de IoT agrícola.                                          |
+| **Sección**                                | **AgroApp (Startup)**                                                                          | **Space AG**                                                   | **Agros**                                                                   | **Ritec**                                                                      |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Perfil**                                 |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Overview**                               | App web con recomendaciones inteligentes y alertas de riesgo usando IoT básico (humedad, luz). | Monitoreo con drones, satélites e IA para agroexportación.     | Plataforma digital que conecta agricultores con crédito, seguros e insumos. | Startup peruana de IoT agrícola: sensores de clima y suelo, riego inteligente. |
+| **Ventaja competitiva / Valor al cliente** | Simple, accesible y pensada para pequeños agricultores con baja experiencia digital.           | Tecnología avanzada y escalable para grandes agroexportadores. | Democratiza el acceso a financiamiento agrícola.                            | Ahorro de agua y fertilizantes con sensores y automatización de riego.         |
+| **Perfil de Marketing**                    |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Mercado objetivo**                       | Agricultores pequeños y medianos (1–20 ha), Sierra y Selva.                                    | Grandes agroexportadores de la Costa.                          | Agricultores pequeños y medianos organizados en cooperativas.               | Agricultores medianos en zonas de riego intensivo (Costa y Sierra).            |
+| **Estrategias de marketing**               | Alianzas con cooperativas, talleres rurales, educación digital.                                | Alianzas B2B con agroexportadoras y empresas grandes.          | Convenios con bancos, ONGs y asociaciones agrícolas.                        | Venta directa de hardware + acompañamiento técnico.                            |
+| **Perfil de Producto**                     |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Productos & Servicios**                  | App web, alertas inteligentes, integración con IoT básico (humedad y luz).                     | Imágenes satelitales, drones e inteligencia artificial.        | Marketplace agrícola, créditos y seguros digitales.                         | Sensores de clima , de suelo , y sistemas de riego automatizado.               |
+| **Precios & Costos**                       | Freemium + planes accesibles.                                                                  | Premium (alto costo).                                          | Suscripción + comisiones sobre transacciones.                               | Venta de hardware + servicio de mantenimiento.                                 |
+| **Canales de distribución (Web/Móvil)**    | Web responsive y móvil.                                                                        | Web SaaS corporativo.                                          | Web y aplicación móvil.                                                     | Hardware IoT conectado a plataforma web.                                       |
+| **Análisis SWOT**                          |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Fortalezas**                             | Fácil de usar, accesible, enfocado en pequeños agricultores.                                   | Alta tecnología y prestigio internacional.                     | Amplia red de aliados financieros.                                          | Tecnología propia peruana, impacto directo en ahorro de agua y fertilizantes.  |
+| **Debilidades**                            | Requiere adopción digital en zonas rurales.                                                    | Costoso, inaccesible para pequeños agricultores.               | Poca innovación técnica en cultivos.                                        | Dependencia de hardware físico y costos iniciales altos.                       |
+| **Oportunidades**                          | Expansión en Sierra y Selva; integración de más sensores IoT.                                  | Crecimiento sostenido de agroexportaciones.                    | Mayor demanda de servicios financieros agrícolas.                           | Escasez hídrica que impulsa soluciones de riego eficiente.                     |
+| **Amenazas**                               | Competidores con más recursos tecnológicos.                                                    | Dependencia de grandes clientes corporativos.                  | Competencia de otras plataformas fintech agrícolas.                         | Competidores internacionales de IoT agrícola.                                  |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-| Competidor | Fortalezas | Estrategia de AgroApp | Tácticas de AgroApp |
-|------------|------------|------------------------|----------------------|
-| **Space AG** | Imágenes satelitales y drones de alta precisión (costosas). | Ofrecer una solución simple, accesible y de bajo costo para agricultores pequeños y medianos. | - Modelo freemium o bajo costo.<br>- Tecnología para todos.<br>- Interfaz intuitiva sin conocimientos técnicos. |
-| **Agros** | Acceso a financiamiento, seguros e insumos agrícolas. | Diferenciarse con un sistema de recomendaciones inteligentes e IoT para optimizar la producción. | - Alianzas con cooperativas.<br>- Posicionar AgroApp como herramienta que convierte créditos en resultados productivos. |
-| **Ritec** | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar IoT básicos y económicos con alertas automáticas y lenguaje sencillo. | -Marketing educativo : Talleres virtuales y prácticos.<br>- Alertas accionables  para facilitar la toma de decisiones.<br>- Alianzas con ONG y gobiernos locales. |
-
-  
+| Competidor   | Fortalezas                                                   | Estrategia de AgroApp                                                                            | Tácticas de AgroApp                                                                                                                                              |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Space AG** | Imágenes satelitales y drones de alta precisión (costosas).  | Ofrecer una solución simple, accesible y de bajo costo para agricultores pequeños y medianos.    | - Modelo freemium o bajo costo.<br>- Tecnología para todos.<br>- Interfaz intuitiva sin conocimientos técnicos.                                                  |
+| **Agros**    | Acceso a financiamiento, seguros e insumos agrícolas.        | Diferenciarse con un sistema de recomendaciones inteligentes e IoT para optimizar la producción. | - Alianzas con cooperativas.<br>- Posicionar AgroApp como herramienta que convierte créditos en resultados productivos.                                          |
+| **Ritec**    | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar IoT básicos y económicos con alertas automáticas y lenguaje sencillo.                   | -Marketing educativo : Talleres virtuales y prácticos.<br>- Alertas accionables para facilitar la toma de decisiones.<br>- Alianzas con ONG y gobiernos locales. |
 
 ## 2.2. Entrevistas.
 
@@ -1160,6 +1158,7 @@ Conclusiones:
 ### 2.3.4. Empathy Mapping.
 
 ## 2.4. Big Picture Event Storming.
+
 - Big Picture Event Storming del proyecto AgroTech
 
 <img src="resources/Event_storming.jpg" alt="Imagen del Big Event Storming">
@@ -1282,15 +1281,16 @@ Conclusiones:
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-- Diagrama de clases del proyecto AgroTech
-<img src="resources/Class_Diagram.png">
 
+- Diagrama de clases del proyecto AgroTech
+  <img src="resources/Class_Diagram.png">
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagrams.
+
 - Diagrama de la base de datos del proyecto AgroTech
-<img src="resources/Data_base_diagram.JPG">
+  <img src="resources/Data_base_diagram.JPG">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1306,41 +1306,258 @@ Conclusiones:
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
-#### 5.2.X.2. Aspect Leaders and Collaborators.
+<table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-09-13</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>11:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Review Summary</td>
+    <td>No aplica por ser primer Sprint</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Retrospective Summary</td>
+    <td>No aplica por ser primer Sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint n Goal </td>
+    <td>Nuestro enfoque es tener un Landing Page . Creemos que dará confianza a los consumidores de ambos segmentos objetivos. Esto será confirmado cuando los consumidores tengan conocimiento de todas las funciones y beneficios que tiene la plataforma solo con mirar nuestro Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>X Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>X</td>
+  </tr>
+</table>
 
-#### 5.2.X.3. Sprint Backlog n.
+#### 5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.X.4. Development Evidence for Sprint Review.
+<table border="1">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Aspect Name 1 Leader (L) / Collaborator (C)</th>
+    <th>Aspect Name 2 Leader (L) / Collaborator (C)</th>
+    <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Chirito Torres, Jose Raul</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Palomares Andrade, Sean Farith</td>
+    <td>Sean6513201</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ventosilla Trujillo, Anderson Ricardo</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Via Luna, Bruce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Yalán Zhang, Angie Christina</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.3. Sprint Backlog 1.
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+<table border="1">
+  <tr>
+    <th colspan="8">Sprint # Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.4. Development Evidence for Sprint Review.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit</th>
+    <th>Commit</th>
+    <th>Commited</th>
+  </tr>
+  <tr>
+    <td>AgroApp-UPC/Project-Report</td>
+    <td>main</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AgroApp-UPC/Project-Report</td>
+    <td>develop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AgroApp-UPC/Project-Report</td>
+    <td>develop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AgroApp-UPC/Project-Report</td>
+    <td>develop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AgroApp-UPC/Project-Report</td>
+    <td>develop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-## 5.3. Validation Interviews.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
-### 5.3.1. Diseño de Entrevistas.
+En esta Sprint se alcanzó desplegar la Landing Page.
 
-### 5.3.2. Registro de Entrevistas.
+Screenshots:
 
-### 5.3.3. Evaluaciones según heurísticas.
+Enlace del video de ejecución y navegación en el Landing Page:
 
-## 5.4. Video About-the-Product.
+User Stories del landing page.
+
+<table>
+  <tr>
+    <th>Epic / Story Id</th>
+    <th>Titulo</th>
+    <th>Criterios de Aceptación</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr> 
+</table>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Este Sprint está enfocado al desarrollo y despliegue de nuestro Landing Page. Por ello no se incluye la relación de Endpoints documentados con OpenAPI.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Durante este primer Sprint los procesos de deployment realizados fueron exclusivamente para el Landing Page mediante GitHub Pages.
+
+Para empezar se accedió al apartado Pages de la configuración del repositorio.
+
+<div align="center"><img src="resources/" alt="deployment-evidence/repo-configuration"></div>
+
+Se seleccionó la rama main para el despliegue.
+
+<div align="center"><img src="resources/" alt="deployment-evidence/branch-selection"></div>
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Analíticos de colaboración y commits en GitHub.
 
 # Conclusiones
 
-# Conclusiones y recomendaciones.
-
-# Video About-the-Team.
-
-# Bibliografía
+# Bibliografía.
 
 Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf <br>
 Castillo, P. (2021). _Perú. Informe país de la agricultura familiar campesina e indígena._ https://www.fao.org/family-farming/detail/es/c/1644367/ <br>
