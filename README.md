@@ -1361,10 +1361,10 @@ La estrategia de SEO y metaetiquetado de AgroApp busca optimizar la visibilidad 
 
 Se definen las siguientes etiquetas base:
 
-Title: breve, descriptivo y único por página.
-Meta Description: entre 140–160 caracteres, explicando el propósito de la página.
-Meta Keywords: términos clave relacionados con agricultura, cultivos y tecnología.
-Meta Author: autoría del proyecto.
+* Title: breve, descriptivo y único por página.
+* Meta Description: entre 140–160 caracteres, explicando el propósito de la página.
+* Meta Keywords: términos clave relacionados con agricultura, cultivos y tecnología.
+* Meta Author: autoría del proyecto.
 
 #### 4.2.3.1. Landing Page (Sitio estático)
 
@@ -1483,12 +1483,68 @@ El sistema de navegación de AgroApp está diseñado para guiar a los usuarios d
 En conjunto, estas decisiones permiten que el usuario recorra la experiencia desde la Landing Page hasta la Web Application con continuidad visual y lógica, asegurando una interacción fluida.
 
 ## 4.3. Landing Page UI Design.
+La propuesta de UI del Landing Page de AgroApp traduce las decisiones de diseño del Design System en una interfaz clara, moderna y alineada con la identidad visual del producto.
+
+La arquitectura de información se organiza en bloques:
+
+1. Hero section con slogan central y botones de acción (Join now / Dashboard), destacando la propuesta de valor.
+2. Features section, que explica de manera resumida los beneficios principales (registro de cultivos, alertas claras, calendario agrícola, comunidad).
+3. Audience section, segmentando a los usuarios (pequeños agricultores y agricultores medianos) con tarjetas diferenciadas, cada una con features adaptados.
+4. Contact section, que integra íconos de redes sociales, información de soporte/ventas y un formulario de contacto.
+5. Authentication pages (Sign in / Sign up), con diseño minimalista y visual agrícola para generar confianza.
+
+El diseño prioriza la claridad visual, con tipografía limpia (Inter), botones de contraste alto y uso consistente de la paleta verde–tierra. Además, se aplica un lenguaje visual accesible, con iconografía representativa y espacios amplios que facilitan la lectura.
+
 ### 4.3.1. Landing Page Wireframe.
+<div align="center"> <img src="resources/figma/wireframes/lp1.png" alt="landing page wireframe 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/lp2.png" alt="landing page wireframe 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/lp3.png" alt="landing page wireframe 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/lp4.png" alt="landing page wireframe 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/lp5.png" alt="landing page wireframe 5" width="600"> </div>
+
+Los wireframes establecen la estructura inicial de la experiencia:
+
+**Desktop Web Browser:**
+
+* Barra superior fija con navegación clara (Home, Plans, Contact us, Sign up/Sign in).
+* Hero section al centro con un mensaje fuerte y CTA.
+* Secciones en cards (features, audiencias) que permiten escaneo rápido.
+* Footer con links secundarios y redes sociales.
+
+**Mobile Web Browser:**
+
+* Menú simplificado en formato hamburguesa para optimizar el espacio.
+* Hero section con slogan centrado y un botón CTA principal.
+* Features y audiencias en scroll vertical, manteniendo jerarquía de títulos e iconografía para no perder claridad.
+* Contacto con formulario compacto y acceso directo a redes sociales.
+
+En ambos casos, se aplican principios de diseño inclusivo:
+* Contraste suficiente en tipografía y botones.
+* Espaciado amplio para legibilidad.
+* Formularios con etiquetas claras y accesibles.
+* Arquitectura de información que evita sobrecarga cognitiva.
 
 ### 4.3.2. Landing Page Mock-up.
+<div align="center"> <img src="resources/figma/mockups/lp1.png" alt="landing page mockup 1" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/lp2.png" alt="landing page mockup 2" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/lp3.png" alt="landing page mockup 3" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/lp4.png" alt="landing page mockup 4" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/lp5.png" alt="landing page mockup 5" width="600"> </div>
+
+Los mockups transforman los wireframes en propuestas visuales finales:
+* Desktop version: Se emplea fotografía de campo agrícola como fondo de la hero section, reforzando el contexto de AgroApp. Los botones principales combinan verde (asociado a naturaleza y confianza) con marrón (tierra, estabilidad).
+* Features: Cada beneficio aparece con iconos simples y texto breve, evitando ambigüedad.
+* Audience cards: Diferenciadas con títulos en negrita y bullets con emojis (plant pot 🌱) que transmiten calidez y accesibilidad.
+* Contact section: Fondo limpio, íconos de redes en verde y formulario sencillo, alineado al tono formal pero cercano.
+* Mobile version: Ajusta la disposición de columnas a bloques verticales, manteniendo coherencia en color, tipografía e iconos, optimizados para pantallas pequeñas.
+
+En todo momento, los mockups aplican el Design System definido:
+* Colores (paleta verde, marrón, negro y tonos claros de apoyo).
+* Tipografía (Inter, en jerarquías claras: títulos bold, párrafos regular).
+* Iconografía (líneas simples, consistentes, asociadas a agricultura).
+* Lenguaje visual: Formal, respetuoso, claro y con un tono entusiasta que motiva al agricultor a usar la app.
 
 ## 4.4. Web Applications UX/UI Design.
-
 ### 4.4.1. Web Applications Wireframes.
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
