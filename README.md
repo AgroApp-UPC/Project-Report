@@ -1459,6 +1459,12 @@ Meta Author:
     <meta name="author" content="AgroTech Startup Team">
 
 ### 4.2.4. Searching Systems.
+El sistema de búsqueda en AgroApp tiene como objetivo facilitar el acceso rápido a la información dentro de la plataforma, evitando que los agricultores se sientan abrumados por el volumen de datos registrados (campos, cultivos, tareas y publicaciones de la comunidad).
+
+**Filtros**
+* Campos: tamaño (pequeño, mediano, grande), región.
+* Cultivos: estado (Healthy, Medium Risk, High Risk), fecha de siembra.
+* Tareas: urgencia (Hoy, Esta semana, Próximas), estado (pendiente, completada).
 
 ### 4.2.5. Navigation Systems.
 El sistema de navegación de AgroApp está diseñado para guiar a los usuarios de forma simple, predecible y eficiente, asegurando que puedan cumplir sus metas con el menor número de pasos posibles.
@@ -1475,8 +1481,8 @@ El sistema de navegación de AgroApp está diseñado para guiar a los usuarios d
 * Botones de retroceso y accesos rápidos en el encabezado facilitan regresar a la vista anterior.
 
 En conjunto, estas decisiones permiten que el usuario recorra la experiencia desde la Landing Page hasta la Web Application con continuidad visual y lógica, asegurando una interacción fluida.
-## 4.3. Landing Page UI Design.
 
+## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
 ### 4.3.2. Landing Page Mock-up.
@@ -1493,8 +1499,8 @@ En conjunto, estas decisiones permiten que el usuario recorra la experiencia des
 
 ## 4.5. Web Applications Prototyping.
 
-## 4.6. Domain-Driven Software Architecture.
 
+## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 
 <img src="resources/Desing Level - Event.jpg">
