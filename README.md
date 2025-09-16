@@ -749,7 +749,7 @@ En la tercera entrevista tenemos a un agricultor que menciona que le gustaría t
 
 ## 2.3. Needfinding.
 
-Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo información relevante para poder identificar, comprender y priorizar las necesidades reales de los agricultores que usarán AgroTech. Las herramientas desarrolladas para el análisis del usuario: User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping.
+Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo información relevante para poder identificar, comprender y priorizar las necesidades reales de los agricultores que usarán AgroApp. Las herramientas desarrolladas para el análisis del usuario: User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping.
 
 ### 2.3.1. User Personas.
 
@@ -869,7 +869,7 @@ Conclusiones:
 
 ## 2.4. Big Picture Event Storming.
 
-- Big Picture Event Storming del proyecto AgroTech
+En esta sección, presentamos el ejercicio de Big Picture Event Storming realizado para nuestro proyecto AgroApp. Esta dinámica nos permitió explorar de manera colaborativa los procesos clave del dominio, identificar eventos relevantes y descubrir oportunidades de mejora. Gracias a este enfoque, logramos una visión compartida entre los distintos actores involucrados, lo que asegura que las necesidades del negocio y de los usuarios estén claramente representadas
 
 <img src="resources/Event_storming.jpg" alt="Imagen del Big Event Storming">
 
@@ -902,19 +902,78 @@ Conclusiones:
     <tr>
       <th> Organizations</th>
       <th> Organizaciones </th>
-      <th> Empresas interesadas en brindar sus servicios dentro de la aplicacion teniendo una paga de por medio </th>
+      <th> Empresas interesadas en brindar sus servicios dentro de la aplicacion teniendo una paga de por medio. </th>
     </tr>
     <tr>
       <th> Harvest</th>
       <th> Cosecha </th>
-      <th> Producto extraido de un cultivo en el momento indicado </th>
+      <th> Producto de extraccion de un cultivo en el momento indicado. </th>
     </tr>
     <tr>
       <th> Sustainability</th>
       <th> Sostenibilidad </th>
-      <th> Producto extraido de un cultivo en el momento indicado </th>
+      <th> Capacidad de gastar menos recursos de los que se generan para el bien ambiental del cultivo. </th>
     </tr>
     <tr>
+      <th> Cultivation history</th>
+      <th> Historial de cultivo </th>
+      <th> Registro actualizado que guarda la informacion de los estados y cuidados del cultivo. </th>
+    </tr>
+    <tr>
+      <th> Adviser</th>
+      <th> Asesor </th>
+      <th> Persona enviada por la empresa a evaluar los cultivos registrado en el momento que es necesario. </th>
+    </tr>
+    <tr>
+      <th> Payment gateway</th>
+      <th> Pasarela de pago </th>
+      <th> Proceso de verificacion que presta su servicio para transacciones dentro de la aplicacion. </th>
+    </tr>
+    <tr>
+      <th> Platform</th>
+      <th> Plataforma </th>
+      <th> Sistema digital donde los agricultores y asesores interactúan y  comparten información. </th>
+    </tr>
+    <tr>
+      <th> Alert system</th>
+      <th> Sistema de alertas </th>
+      <th> Mecanismo digital de notificaciones que recuerdan el estado y necesidades del cultivo. </th>
+    </tr>
+    <tr>
+      <th> Cultivation status</th>
+      <th> Estado de cultivo </th>
+      <th> Mecanismo digital de notificaciones que recuerdan el estado y necesidades del cultivo. </th>
+    </tr>
+    <tr>
+      <th> Resources</th>
+      <th> Recursos </th>
+      <th> Medios fisicos que sirven para el mantenimiento correcto de un cultivo. </th>
+    </tr>
+    <tr>
+      <th> Crop evaluation</th>
+      <th> Evaluacion de cultivo </th>
+      <th> Evaluacion de expertos que muestra el estado del cultivo y si es necesario modificar sus caracteristicas. </th>
+    </tr>
+    <tr>
+      <th> Irrigation schedule</th>
+      <th> Calendario de riego </th>
+      <th> Recordatorio apropiado de la cantidad de dias que faltan para que un cultivo sea regado. </th>
+    </tr>
+    <tr>
+      <th> Cultivation area </th>
+      <th> Area de cultivo </th>
+      <th> Limites medidos del cultivo para su evaluacion y delimitacion.</th>
+    </tr>
+    <tr>
+      <th> Performance reports</th>
+      <th> Reportes de rendimiento</th>
+      <th> Analisis documentados de todo la cosecha del cultivo y como puede mejorar. </th>
+    </tr>
+    <tr>
+      <th> Digital Profile</th>
+      <th> Perfil digital</th>
+      <th> Perfil publico en la aplicacion con la informacion del agricultor, caracteristicas, fotos, cultivos registrados visibles para los usuarios. </th>
+    </tr>
   </tbody>
 </table>
 
@@ -922,9 +981,622 @@ Conclusiones:
 
 ## 3.1. User Stories
 
+**Epicas para AgroApp**
+
+<table>
+  <thead>
+    <tr>
+      <th> EPIC (ID)</th>
+      <th> Titulo</th>
+      <th> Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th> 01</th>
+      <th> Gestion de usuarios </th>
+      <th> Como usuario de AgroApp, quiero crear un perfil, modificarlo, abrir y cerrar sension en cualquier dispositivo y recuperar la contraseña de mi cuenta para crear mi identidad dentro de la aplicacion y acceder a sus funcionalidades. </th>
+    </tr>
+    <tr>
+      <th> 02</th>
+      <th> Publicacion de Cultivos </th>
+      <th> Como usuario de AgroApp, quier crear, eliminar y editar cultivos para tener un control de ellos en tiempo real y actualizado usando las funcionalidades de AgroApp.  </th>
+    </tr>
+    <tr>
+      <th> 03</th>
+      <th> Evaluaciones de cultivos </th>
+      <th> Como usuario a AgroApp, quiero pedir y recibir evaluaciones de los cultivos que sienta que puedan mejorar para evitar perdidas o una posible muerte de los cultivos por un mal cuidado del que no sepa. </th>
+    </tr>
+    <tr>
+      <th> 04</th>
+      <th> Mantenimiento de cultivos </th>
+      <th> Como usuario de AgroApp, quiero señalar y recibir señales de datos que necesiten mantenimiento en mi cultivo para asi enfocarme en mejorar y revisar evitando perdidas. </th>
+    </tr>
+    <tr>
+      <th> 05</th>
+      <th> Notificaciones de estado del cultivo</th>
+      <th> Como usuario de AgroApp, quiero recibir notificaciones personalizadas y adaptadas a mis cultivos para no olvidar los cuidados o si muchos de sus datos estan desactualizados antes de perdir una evaluacion. </th>
+    </tr>
+    <tr>
+      <th> 06</th>
+      <th> Seguridad de informacion </th>
+      <th> Como administrador de AgroApp, quiero gestionar y cuidar el perfil de mis usuario, para asegurar su estadia dentro de la aplicacion y no sientan un riesgo de ssu datos al navegar dentro de ella. </th>
+    </tr>
+    <tr>
+      <th> 07</th>
+      <th> Historial de cultivo </th>
+      <th> Como usuario de AgroApp, quiero tener un historial actualizado de los cambios y modificaciones que pueda hacerle a mi cultivo, para saber en que paso pudo cambiar el rendimiento de mi cultivo. </th>
+    </tr>
+    <tr>
+      <th> 08</th>
+      <th> Verificacion de identidad </th>
+      <th> Como administrador de AgroApp, quiero un sistema de verificacion de identidades de mis usuarios, para asegurarme de que no existan cuentas duplicadas o falsificadores de identidad. </th>
+    </tr>
+    <tr>
+      <th> 09</th>
+      <th> Accesibilidad  </th>
+      <th> Como usuario de AgroApp, quiero funcionalidades que ayuden a que la aplicacion sea mas accesible en aspectos como color, configuracion y optimizacion para no tener problemas durante su uso. </th>
+    </tr>
+    <tr>
+      <th> 10</th>
+      <th> User Experience en la Landing Page </th>
+      <th> Como usuario de AgroApp, quiero navegar por una Landing Page con una experiencia de usuario fluida y agil, para verificar y experimentar sus funcionalidades y el acceso a la informacion util del producto. </th>
+    </tr>
+  </tbody>
+</table>
+
+**Historias de Usuario para AgroApp**
+
+
+<table>
+  <thead>
+    <tr>
+      <th> Storie ID</th>
+      <th> Titulo</th>
+      <th> Descripción</th>
+      <th> Acceptance Criteria</th> 
+      <th> Epic ID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th> 01</th>
+      <th> Registro de cuenta </th>
+      <th> Como usuario, quiero registrarme en la aplicacion, para acceder a sus funciones</th>
+      <th> Scenario 1: Registro correcto <br>
+      Given el usuario ha ingresado los datos <br>
+      When el usuario presiona el boton "Create Account" <br>
+      Then la cuenta es creada exitosamente y se accede a la aplicacion <br>
+      <br>
+      Scenario 2: Registro incorrecto<br>
+      Given el usuario no ha ingresado ningun dato <br>
+      When el usuario presiona el boton "Create Account" <br>
+      Then el sistema muestra un mensaje de campos incompletos <br> 
+      </th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 02</th>
+      <th> Inicio de Sesión </th>
+      <th> Como usuario, quiero iniciar sesion, para acceder a mi cuenta</th>
+      <th> Scenario 1: Login Exitoso <br>
+      Given el usuario ingrese sus datos de cuenta correctamente<br>
+      When el usuario presione el boton "Iniciar Sesión" <br>
+      Then el sistema abrira la sesion del usuario con sus datos <br>
+      <br>
+      Scenario 2: Login Fallido <br>
+      Given el usuario ingrese datos incorrectos <br>
+      When el usuario presione el boton "Inciar Sesion"<br>
+      Then el sistema negara el acceso e indicara un mensaje de datos erroneos<br><br>
+      Scenario 3: Cerrar sesion<br>
+      Given el usuario ingrese a su perfil<br>
+      When el usuario presione el boton "Cerrar Sesion"<br>
+      Then el sistema cerrar la sesion del usuario
+      <th>01</th>
+      </th>
+    </tr>
+    <tr>
+      <th> 03</th>
+      <th> Recuperar Contraseña </th>
+      <th> Como usuario, quiero recuperar la contraseña de mi cuenta, para recuperar el acceso a ella en caso se me olvide </th>
+      <th>Scenario 1: Pedir contraseña <br>
+      Given el usuario no recuerde la contraseña de su cuenta<br>
+      When el usuario presione el boton de "Recuperar contraseña"<br>
+      Then el sustema iniciaria el proceso para recuperar o reemplazar su anterior contraseña<br>
+      </th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 04</th>
+      <th> Editar perfil </th>
+      <th> Como usuario, quiero modificar mi perfil, para mantenerlo actualizado todo el tiempo </th>
+      <th>Scenario 1: Acceso a la ediion<br>
+      Given el usuario esta en al seccion "Mi Perfil"<br>
+      When el usuario presione el boton "Editar Perfil"<br>
+      Then el sistema iniciara el formulario de datos editables del perfil de usuario<br><br>
+      Scenario 2: Edicion de Perfil<br>
+      Given el usuario esta en el formulario de editar perfil<br>
+      When el usuario modifique los datos que desee<br>
+      Then el sistema lo actualizara y su perfil mostrara los nuevos datos<br>
+      </th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 05</th>
+      <th> Registrar cultivos</th>
+      <th> Como agricultor, quiero registrar diferentes cultivos, para mantener un registro a mi alcance </th>
+      <th>Scenario 1: Registrar cultivo<br>
+      Given el agricultor quiere registrar un ultivo en la aplicacion <br>
+      When el agricultor seleccione el boton "Agregar Cultivo"<br>
+      Then el sistema abrira un formulario para llenar con los datos de su cultivo<br>
+      </th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> 06</th>
+      <th> Eliminar cultivos</th>
+      <th> Como agricultor, quiero eliminar los cultivos que desee, para mantener un registro actualizado </th>
+      <th>Scenario 1: Eliminar cultivo<br>
+      Given el agricultor desee eliminar un ultivo previamente registrado <br>
+      When el agricultor este en el cultivo que desee eliminar<br>
+      When el agricultor presione el boton "Elimar Cultivo"<br>
+      Then el sistema eliminara el registro del cultivo con toda su informacion<br>
+      </th>
+      <th>02</th>
+    <tr>
+      <th> 07</th>
+      <th> Editar cultivos</th>
+      <th> Como agricultor, quiero editar los cultivos que tenga registrados, para asegurarme que siempre esten actualizados </th>
+      <th>Scenario 1: Formulario de edicion<br>
+      Given el agricultor se encuentre en el registro del cultivo deseado <br>
+      When el agricultor presione el boton "Editar Cultivo"<br>
+      Then el sistema abrira un registro para editar datos del cultivo<br>
+      <br>
+      Scenario 2: Edicion de cultivo
+      Given el agricultor se encuentre en el formulario de edicion <br>
+      When el agricultor cambie los datos que desee<br>
+      When el agricultor presione el boton "Actualizar Cultivo"
+      Then el sistema actualizara los datos<br>
+      </th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> 08</th>
+      <th> Peticion de evaluacion </th>
+      <th> Como agricultor, quiero pedir una revision, para comprobar si el estado de mis cultivos es el adecuado </th>
+      <th>Scenario 1: Llamado de evaluacion<br>
+      Given el agricultor este en el cultivo que desee pedir una revision<br>
+      When el agricultor presione el boton "Pedir Revision"<br>
+      Then el sistema iniciara una proceso de evaluacion con un asesor
+      </th>
+      <th>03</th>
+    <tr>
+      <th> 09</th>
+      <th> Recepción de evaluación </th>
+      <th> Como agricultor, quiero recibir una evaluacion de mi cultivo, para identificar problemas de mi cultivo</th>
+      <th>Scenario 1: Llegada de evaluación<br>
+      Given el usuario pidio una evaluacion de forma previa<br>
+      When el sistema envie una evaluaion acorde al cultivo que el agricultor haya seleccionado<br>
+      Then el usuario podra ver la evaluacion <br>
+      </th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th>10</th>
+      <th> Pago por evaluaciones </th>
+      <th> Como usuario, quiero pagar por una evaluacion de mi cultivo para asegurar un trabajo de calidad </th>
+      <th>Scenario 1: Pago realizado<br>
+      Given el usuario pidio una evaluacion previamente<br>
+      When el sistema informe que la evaluacion ya esta lista<br>
+      Then el sistema mostrara metodos de pago para recibir la evaluacion<br>
+      </th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th> 11</th>
+      <th> Señalaciones </th>
+      <th> Como agricultor, quiero ver la señalaciones en mis cultivos, para saber si algo puede estar mal</th>
+      <th>Scenario 1: Visualizacion de señales<br>
+      Given el usuario ya recibio una evaluacion de su cultivo<br>
+      When el usuario acceda a su cultivo<br>
+      Then el sistema mostrara señalaciones en partes de su registro que puedan necesitar cambios
+      </th>
+      <th>04</th>
+    </tr>
+    <tr>
+      <th> 12</th>
+      <th> Datos adicionales </th>
+      <th> Como agricultor, quiero señalar si mi cultivo tiene caracteristias adicionales, para recibir mejor informacion </th>
+      <th>Scenario 1: Señalar datos <br>
+      Given el agricultor esta registrando su cultivo<br>
+      When el agriculto presione el boton "Cuidados Adicionales"<br>
+      Then el sistema abrira una formulario que permita señalar nuevos datos<br>
+      <br>
+      Scenario 2: Eleccion de datos<br>
+      Given el agriculto señalo la opcion "Cuidados adicionales"<br>
+      When el sistema muestre formularios adiionales<br>
+      Then el agriultor podra señalar que cuidados necesitara<br>
+      </th>
+      <th>04</th>
+    </tr>
+    <tr>
+      <th> 13</th>
+      <th> Notificacion de riego </th>
+      <th> Como agricultor, quiero recibir recordatorios en forma de mensajes, para saber cuando regar mis cultivos </th>
+      <th>Scenario 1: Activar recordatorios<br>
+      Given el agricultor registro en los datos los dias de cultivo<br>
+      When el sistema detecte el dia de riego<br>
+      Then el sistema mandara recordatorios mediante señalando el dia de riego<br>
+      <br>
+      Scenario 2: Desactivar recordatorios<br>
+      Given el agricultor registro en los datos los dias de cultivo<br>
+      When el usuario no quiera recibir recordatorios<br>
+      And el usuario marque la opcion "No recibir recordatorio"<br>
+      Then el sistema no enviara recordatorios<br>
+      </th>
+      <th>05</th>
+    </tr>
+    <tr>
+      <th> 14</th>
+      <th> Recordatorio de datos del cultivo</th>
+      <th> Como agricultor, quiero recibir recordatorios de los datos de mi cultivo, en caso necesite actualizarlos </th>
+      <th>Scenario 1: Recordatorio de datos<br>
+      Given el usuario ya registro su cultivo<br>
+      When el sistema detecte que ha pasado demasiado tiempo<br>
+      Then el sistema enviara un recordatorio sobre los datos del cultivo en caso necesiten un cambio<br>
+      </th>
+      <th>05</th>
+    </tr>
+    <tr>
+      <th> 15</th>
+      <th> Gestionar usuarios </th>
+      <th> Como administrador, quiero verifiar y gestionar a los usuarios registrados, para una correcta administracion de la aplicacion </th>
+      <th>Scenario 1: Acceso a gestion<br>
+      Given el adminitrador ingrese al sistema <br>
+      And el administrador inicie la sesion<br>
+      When el administrador entre al modulo de gestion de usuarios<br>
+      Then el sistema mostrara una lista de todos los usuarios registrados<br>
+      </th>
+      <th>06</th>
+    </tr>
+    <tr>
+      <th> 16</th>
+      <th> Bloqueo de cuenta </th>
+      <th> Como administrador, quiero asegurar el acceso al perfil de los usuarios, para mantener su informacion segura </th>
+      <th>Scenario 1: Acceso bloqueado<br>
+      Given el sistema detecta un ingreso fallido a una cuenta<br>
+      When el sistema detecte mas de 10 intentos fallidos de aeder a una cuenta<br>
+      Then el sistema bloqueara el acceso a la cuenta por un tiempo definido<br>
+      </th>
+      <th>06</th>
+    </tr>
+    <tr>
+      <th> 17</th>
+      <th> Creacion de historial </th>
+      <th> Como agricultor, quiero acceder a un historial de los cambios del cultivo para mantener un registro detallado </th>
+      <th>Scenario 1: Historial creado<br>
+      Given el agricultor realizo una edicion de su cultivo en la aplicacion<br>
+      When el agricultor este por guardar el cambio <br>
+      Then el sistema creara un historial y lo enviara al agricultor
+      </th>
+      <th>07</th>
+    </tr>
+    <tr>
+      <th> 18</th>
+      <th> Atajos sencillos </th>
+      <th> Como usuario, quiero tener acceso a atajos de organización para
+      una mejor navegación dentro de la aplicacion </th>
+      <th>Scenario 1: Regreso al inicio<br>
+      Given el usuario quiere regresar a la sección de “Inicio”<br>
+      When el usuario presione el logo del producto<br>
+      Then se regresará a la sección de “Inicio” nuevamente cargada<br>
+      </th>
+      <th>09</th>
+    </tr>
+    <tr>
+      <th> 19</th>
+      <th> Disponibilidad de sistema </th>
+      <th> Como usuario, quiero un sistema que esté disponible en cualquier
+      hora para acceder cuando quiero sin problema de disponibilidad o
+      mantenimiento</th>
+      <th>Scenario 1: Uso del sistema<br>
+      Given el usuario necesite usar el sistema<br>
+      When el usuario ingrese a la página del producto<br>
+      Then entrara con normalidad sin problemas de coneccion o
+      soporte<br>
+      </th>
+      <th>09</th>
+    </tr>
+    <tr>
+      <th> 20</th>
+      <th> Visualizar página de inicio </th>
+      <th> Como usuario, quiero visualizar una página de inicio clara para
+      comprender rápidamente de qué trata AgroApp. </th>
+      <th>Scenario 1: Acceso a la página principal<br>
+      Given  el usuario accede al landing page de AgroApp<br>
+      When el sistema cargue la página <br>
+      Then el sistema mostrara el nombre del producto, una descripción
+      breve y una pagina correctamente diseñada.<br>
+      </th>
+      <th>10</th>
+    </tr>
+    <tr>
+      <th> 21</th>
+      <th> Navegación desde el footer </th>
+      <th> Como usuario, quiero acceder a enlaces de navegación en el footer
+      para moverme entre secciones fácilmente </th>
+      <th>Scenario 1: Acceso a secciones desde el footer<br>
+      Given el usuario está visualizando el footer<br>
+      When haga clic en un enlace de sección (Inicio, Características, etc)<br>
+      Then será desplazado automáticamente a la sección correspondiente del landing.
+      </th>
+      <th>10</th>
+    </tr>
+  </tbody>
+</table>
+
 ## 3.2. Impact Mapping.
 
 ## 3.3. Product Backlog.
+
+<table>
+  <thead>
+    <tr>
+      <th> #Orden</th>
+      <th> User Story ID</th>
+      <th> Título</th>
+      <th> Descripción</th>
+      <th> Story Points (1/2/3/5/8)</th>
+      <th> Epic ID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th> EP01</th>
+      <th> Gestion de usuarios </th>
+      <th></th>
+      <th>Como usuario de AgroApp, quiero crear un perfil, modificarlo, abrir y cerrar sension en cualquier dispositivo y recuperar la contraseña de mi cuenta para crear mi identidad dentro de la aplicacion y acceder a sus funcionalidades.</th>
+      <th></th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 1</th>
+      <th> US01 </th>
+      <th>Registro de cuenta</th>
+      <th>Como usuario, quiero registrarme en la aplicacion, para acceder a sus funciones</th>
+      <th>2</th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 2</th>
+      <th> US02 </th>
+      <th>Inicio de Sesión</th>
+      <th>Como usuario, quiero iniciar sesion, para acceder a mi cuenta</th>
+      <th>1</th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 3</th>
+      <th> US03 </th>
+      <th>Recuperar Contraseña</th>
+      <th>Como usuario, quiero recuperar la contraseña de mi cuenta, para recuperar el acceso a ella en caso se me olvide</th>
+      <th>3</th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 4</th>
+      <th> US04 </th>
+      <th>Editar perfil</th>
+      <th>Como usuario, quiero modificar mi perfil, para mantenerlo actualizado todo el tiempo</th>
+      <th>1</th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> EP02</th>
+      <th> Publicacion de Cultivos </th>
+      <th></th>
+      <th> Como usuario de AgroApp, quier crear, eliminar y editar cultivos para tener un control de ellos en tiempo real y actualizado usando las funcionalidades de AgroApp.  </th>
+      <th></th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> 5</th>
+      <th> US05 </th>
+      <th>Registrar cultivos</th>
+      <th>Como agricultor, quiero registrar diferentes cultivos, para mantener un registro a mi alcance</th>
+      <th>3</th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> 6</th>
+      <th> US06 </th>
+      <th>Eliminar cultivos</th>
+      <th>Como agricultor, quiero eliminar los cultivos que desee, para mantener un registro actualizado</th>
+      <th>2</th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> 7</th>
+      <th> US07 </th>
+      <th>Editar cultivos</th>
+      <th>Como agricultor, quiero editar los cultivos que tenga registrados, para asegurarme que siempre esten actualizados</th>
+      <th>1</th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> EP03</th>
+      <th> Evaluaciones de cultivos </th>
+      <th></th>
+      <th> Como usuario a AgroApp, quiero pedir y recibir evaluaciones de los cultivos que sienta que puedan mejorar para evitar perdidas o una posible muerte de los cultivos por un mal cuidado del que no sepa. </th>
+      <th></th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th> 8</th>
+      <th> US08 </th>
+      <th>Peticion de evaluacion</th>
+      <th>Como agricultor, quiero pedir una revision, para comprobar si el estado de mis cultivos es el adecuado</th>
+      <th>3</th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th> 9</th>
+      <th> US09 </th>
+      <th>Recepción de evaluación</th>
+      <th>Como agricultor, quiero reibir una evaluacion de mi cultivo, para identificar problemas de mi cultivo</th>
+      <th>5</th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th> 10</th>
+      <th> US10 </th>
+      <th>Pago por evaluaciones</th>
+      <th>Como usuario, quiero pagar por una evaluacion de mi cultivo para asegurar un trabajo de calidad</th>
+      <th>5</th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th> EP04</th>
+      <th> Mantenimiento de cultivos </th>
+      <th></th>
+      <th> Como usuario de AgroApp, quiero señalar y recibir señales de datos que necesiten mantenimiento en mi cultivo para asi enfocarme en mejorar y revisar evitando perdidas. </th>
+      <th></th>
+      <th>04</th>
+    </tr>
+    <tr>
+      <th> 11</th>
+      <th> US11 </th>
+      <th>Señalaciones</th>
+      <th>Como agricultor, quiero ver la señalaciones en mis cultivos, para saber si algo puede estar mal</th>
+      <th>2</th>
+      <th>04</th>
+    </tr>
+      <th> 12</th>
+      <th> US12 </th>
+      <th>Datos adicionales</th>
+      <th>Como agricultor, quiero señalar si mi cultivo tiene características adicionales, para recibir mejor informacion</th>
+      <th>2</th>
+      <th>04</th>
+    </tr>
+    <tr>
+      <th> EP05</th>
+      <th> Notificaciones de estado del cultivo</th>
+      <th></th>
+      <th> Como usuario de AgroApp, quiero recibir notificaciones personalizadas y adaptadas a mis cultivos para no olvidar los cuidados o si muchos de sus datos estan desactualizados antes de perdir una evaluacion. </th>
+      <th></th>
+      <th>05</th>
+    </tr>
+    </tr>
+      <th> 13</th>
+      <th> US13 </th>
+      <th>Notificacion de riego</th>
+      <th>Como agriultor, quiero reibir recordatorios en forma de mensajes, para saber cuando regar mis cultivos</th>
+      <th>1</th>
+      <th>05</th>
+    </tr>
+    </tr>
+      <th> 14</th>
+      <th> US14 </th>
+      <th>Recordatorio de datos del cultivo</th>
+      <th>Como agricultor, quiero recibir recordatios de los datos de mi cultivo, en caso necesite actualizarlos</th>
+      <th>2</th>
+      <th>05</th>
+    </tr>
+    <tr>
+      <th> EP06</th>
+      <th> Seguridad de informacion </th>
+      <th></th>
+      <th> Como administrador de AgroApp, quiero gestionar y cuidar el perfil de mis usuario, para asegurar su estadia dentro de la aplicacion y no sientan un riesgo de ssu datos al navegar dentro de ella. </th>
+      <th></th>
+      <th>06</th>
+    </tr>
+    </tr>
+      <th> 15</th>
+      <th> US15 </th>
+      <th>Gestionar usuarios</th>
+      <th>Como administrador, quiero verificar y gestionar a los usuarios registrados, para una correcta administracion de la aplicacion</th>
+      <th>5</th>
+      <th>06</th>
+    </tr>
+    </tr>
+      <th> 16</th>
+      <th> US16 </th>
+      <th>Bloqueo de cuenta</th>
+      <th>Como administrador, quiero asegurar el acceso al perfil de los usuarios, para mantener su informacion segura</th>
+      <th>3</th>
+      <th>06</th>
+    </tr>
+    <tr>
+      <th> EP07</th>
+      <th> Historial de cultivo </th>
+      <th></th>
+      <th> Como usuario de AgroApp, quiero tener un historial actualizado de los cambios y modificaciones que pueda hacerle a mi cultivo, para saber en que paso pudo cambiar el rendimiento de mi cultivo. </th>
+      <th></th>
+      <th>07</th>
+    </tr>
+    </tr>
+      <th> 17</th>
+      <th> US17 </th>
+      <th>Creacion de historial</th>
+      <th>Como agricultor, quiero acceder a un historial de los cambios del cultivo para mantener un registro detallado</th>
+      <th>3</th>
+      <th>07</th>
+    </tr>
+    <tr>
+      <th> EP09</th>
+      <th> Accesibilidad  </th>
+      <th></th>
+      <th> Como usuario de AgroApp, quiero funcionalidades que ayuden a que la aplicacion sea mas accesible en aspectos como color, configuracion y optimizacion para no tener problemas durante su uso. </th>
+      <th></th>
+      <th>09</th>
+    </tr>
+    </tr>
+      <th> 18</th>
+      <th> US18 </th>
+      <th>Atajos sencillos</th>
+      <th>Como usuario, quiero tener acceso a atajos de organización para
+      una mejor navegación dentro de la aplicacion</th>
+      <th>2</th>
+      <th>09</th>
+    </tr>
+    </tr>
+      <th> 19</th>
+      <th> US19 </th>
+      <th>Disponibilidad de sistema</th>
+      <th>Como usuario, quiero un sistema que esté disponible en cualquier
+      hora para acceder cuando quiero sin problema de disponibilidad o
+      mantenimiento</th>
+      <th>1</th>
+      <th>09</th>
+    </tr>
+    <tr>
+      <th> EP10</th>
+      <th> User Experience en la Landing Page </th>
+      <th></th>
+      <th> Como usuario de AgroApp, quiero navegar por una Landing Page con una experiencia de usuario fluida y agil, para verificar y experimentar sus funcionalidades y el acceso a la informacion util del producto. </th>
+      <th></th>
+      <th>10</th>
+    </tr>
+    </tr>
+      <th> 20</th>
+      <th> US20 </th>
+      <th>Visualizar página de inicio</th>
+      <th>Como usuario, quiero visualizar una página de inicio clara para
+      comprender rápidamente de qué trata AgroApp</th>
+      <th>3</th>
+      <th>10</th>
+    </tr>
+    </tr>
+      <th> 21</th>
+      <th> US21 </th>
+      <th>Navegación desde el footer</th>
+      <th>Como usuario, quiero acceder a enlaces de navegación en el footer
+      para moverme entre secciones fácilmente</th>
+      <th>2</th>
+      <th>10</th>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo IV: Product Design
 
@@ -1409,41 +2081,65 @@ Web Applications Prototyping web view: _[Web Applications Prototyping](https://w
 
 ## 4.6. Domain-Driven Software Architecture.
 
+En esta parte se expone la arquitectura de software del proyecto AgroApp. La propuesta fue elaborada con un enfoque orientado al dominio, de manera que los elementos más relevantes de la plataforma estén correctamente representados y respondan a los requerimientos de los usuarios. Seguidamente, se incluyen diagramas esenciales que ilustran la interacción entre los distintos componentes del sistema y los actores externos.
+
 ### 4.6.1. Design-Level Event Storming.
 
-<img src="resources/Desing Level - Event.jpg">
+En esta sección, presentamos el Design Level Event Storming desarrollado para nuestro proyecto AgroApp. Esta actividad nos permitió profundizar en los detalles del dominio, definiendo de manera clara los eventos, comandos, agregados y políticas que guían el comportamiento del sistema. El objetivo fue transformar la visión general en un diseño más estructurado, asegurando que los límites contextuales y las interacciones entre componentes quedaran bien definidos
 
-<img src="resources/Desing Level - Event (2).jpg">
+- Bounded Context User Management
 
-<img src="resources/Desing Level - Event (3).jpg">
+<img src="resources/Desing Level - Event.jpg" alt="Bounded Context User Management">
 
-<img src="resources/Desing Level - Event (1).jpg">
+- Bounded Context Cultivos Management
+
+<img src="resources/Desing Level - Event (2).jpg" alt="Bounded Context Cultivos Management">
+
+- Bounded Context Area Management
+
+<img src="resources/Desing Level - Event (3).jpg" alt="Bounded Context Area Management">
+
+- Bounded Context Evaluation Management
+
+<img src="resources/Desing Level - Event (1).jpg" alt="Bounded Context Evaluation Management">
 
 ### 4.6.2. Software Architecture Context Diagram.
 
-<img src="resources/Context_Diagram.png">
+El diagrama de contexto de AgroApp ofrece una visión global de las interacciones principales entre el sistema central y los actores externos que lo rodean. La plataforma está orientada a simplificar la gestión y supervisión de cultivos por parte de los usuarios. En este nivel, se identifican actores clave como el Agricultor, encargado de registrar y administrar sus cultivos, y la Asociación, que envía las evaluaciones correspondientes. Asimismo, se muestran las integraciones externas más relevantes: la Pasarela de Pago para procesar transacciones con las asociaciones, el Servicio de Mapas para visualizar la ubicación de los cultivos y las Redes Sociales para compartir información de manera pública. Esta representación de alto nivel permite entender de manera clara cómo AgroApp se relaciona y coopera con su ecosistema digital y humano.
+
+<img src="resources/Context_Diagram.png" alt="C4 Context Diagram">
 
 ### 4.6.3. Software Architecture Container Diagrams.
 
-<img src="resources/container_diagram.png">
+El diagrama de contenedores detalla la organización interna de AgroApp, mostrando cómo los diferentes componentes de software trabajan en conjunto para brindar la funcionalidad de la plataforma. La Aplicación Web, implementada en React, sirve como punto de interacción donde los usuarios pueden registrar y gestionar sus cultivos. Esta interfaz se conecta con una API en Node.js, que cumple el rol de enlace entre la capa de presentación y los servicios del backend. La información esencial de usuarios, cultivos, registros, evaluaciones y pagos se almacena en una Base de Datos PostgreSQL. Asimismo, se integran contenedores adicionales como el Servicio de Mapas (basado en Google Maps API) para la visualización de ubicaciones y la Pasarela de Pago (Stripe), destinada a la gestión de transacciones. En conjunto, este nivel del modelo permite comprender cómo se estructuran y comunican las partes técnicas del sistema.
+
+<img src="resources/container_diagram.png" alt="C4 Container Diagram">
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
-<img src="resources/Components_diagram_API.png">
+El diagrama de componentes pone el foco en la arquitectura interna de la API de AgroApp, encargada de coordinar la lógica de negocio central de la plataforma. Esta API, desarrollada en Node.js, se organiza en distintos componentes especializados, cada uno orientado a un dominio concreto. El Componente de Gestión de Usuarios administra la autenticación y los perfiles; Gestión de Cultivos permite realizar operaciones sobre los cultivos registrados; Control de Cultivos abarca el ciclo completo de cuidado de cada cultivo; Ubicaciones y Terrenos gestiona la localización de los cultivos registrados; y Reporte de Evaluaciones procesa tanto los informes como los pagos asociados a dichas evaluaciones. La interacción entre estos módulos sigue un flujo funcional definido: los agricultores administran cultivos, estos se asocian a cuentas y pueden ser evaluados. Esta separación de responsabilidades refleja un diseño guiado por el dominio, donde cada componente encapsula una función específica y colabora con los demás para dar soporte integral a la plataforma junto a los Bounded Countext desarrollados que explicacion de forma aun mas detallada la funcionalidad de cada componente existente de la plataforma AgroApp.
+
+<img src="resources/Components_diagram_API.png" alt="C4 Componente API Diagram">
+
+<img src="resources/Components_diagram_users.jpg" alt="C4 Componente User Diagram">
+
+<img src="resources/Components_diagram_cultivo.jpg" alt="C4 Componente Cultivo Diagram">
+
+<img src="resources/Components_diagram_maps.jpg" alt="C4 Componente Maps Diagram">
+
+<img src="resources/Components_diagram_evaluacion.jpg" alt="C4 Componente Evaluacion Diagram">
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-
-- Diagrama de clases del proyecto AgroTech
-  <img src="resources/Class_Diagram.png">
+- Diagrama de clases del proyecto AgroApp
+<img src="resources/Class_Diagram.png" alt="Class Diagram">
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagrams.
-
-- Diagrama de la base de datos del proyecto AgroTech
-  <img src="resources/Data_base_diagram.JPG">
+- Diagrama de la base de datos del proyecto AgroApp
+<img src="resources/Data_base_diagram.JPG" alt="Data Base Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
