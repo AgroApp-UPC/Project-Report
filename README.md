@@ -1653,6 +1653,9 @@ El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión c
 
 ## 4.5. Web Applications Prototyping.
 
+Video: *[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eblgu9ZKBBdFuFEVEuDIlpsBbKIO-H_TpjLgVCCi2fptjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1ZYHp6)*
+
+Web Applications Prototyping web view: *[Web Applications Prototyping](https://www.figma.com/proto/ZBulGqbgy8UqeVVcz7505E/AgroApp?node-id=107-687&p=f&t=zTIr6yNub1GBQw11-1&scaling=contain&content-scaling=fixed&page-id=107%3A658&starting-point-node-id=107%3A687&show-proto-sidebar=1)*
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
