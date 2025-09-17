@@ -1576,14 +1576,14 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 #### Segmento objetivo #1: Agricultores de pequeña escala
 **User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
 * **Task Flow:** 
-<div align="center"> <img src="resources/wireflow1.png" alt="wireflow 1" width="600"> </div>
+<div align="center"> <img src="resources/wireflow1.png" alt="wireflow 1" width="300"> </div>
 
 * **Wireflow:** 
 <div align="center"> <img src="resources/wirefloww1.png" alt="wireflow 1" width="600"> </div>
 
 **User Goal:** Visualizar un tip o consejo en la sección de Community.
 * **Task Flow:** 
-<div align="center"> <img src="resources/wireflow4.png" alt="wireflow 2" width="600"> </div>
+<div align="center"> <img src="resources/wireflow4.png" alt="wireflow 2" width="300"> </div>
 
 * **Wireflow:** 
 <div align="center"> <img src="resources/wirefloww4.png" alt="wireflow 2" width="600"> </div>
@@ -1591,14 +1591,14 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 #### Segmento objetivo #2: Agricultores de mediana escala
 **User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
 * **Task Flow:** 
-<div align="center"> <img src="resources/wireflow2.png" alt="wireflow 3" width="600"> </div>
+<div align="center"> <img src="resources/wireflow2.png" alt="wireflow 3" width="300"> </div>
 
 * **Wireflow:**
 <div align="center"> <img src="resources/wirefloww2.png" alt="wireflow 3" width="600"> </div>
 
 **User Goal:** Marcar como realizada una tarea pendiente en su campo de maíz.
 * **Task Flow:**
-<div align="center"> <img src="resources/wireflow3.png" alt="wireflow 4" width="600"> </div>
+<div align="center"> <img src="resources/wireflow3.png" alt="wireflow 4" width="300"> </div>
 
 * **Wireflow:**
 <div align="center"> <img src="resources/wirefloww3.png" alt="wireflow 4" width="600"> </div>
