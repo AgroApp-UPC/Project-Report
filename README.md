@@ -714,19 +714,20 @@ Preguntas:
 
 ##### Datos del Entrevistado #2
 
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
+- **Nombre completo:** Victor Otto Reinoso Díaz
+- **Segmento Objetivo:** Agricultor de mediana escala
+- **Edad:** 30
+- **Distrito:** Lurigancho-Chosica
 - **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista2]()
+- **Screenshot del cuadro de video:** ![Entrevista2](resources/entrevista2s2.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 02]()_
 
 **Resumen:**
+El entrevistado administra 14 hectáreas en total: 8 de palta, 4 de maíz y 2 de maracuyá, siendo la palta el cultivo más relevante por su alta demanda comercial en supermercados. Recibe apoyo ocasional de un ingeniero agrónomo para la gestión de los cultivos. Actualmente lleva el control mediante registros en Excel (gastos, inventario y seguimiento de cultivos). Su principal dificultad es la falta de información estructurada sobre el uso de recursos y estadísticas comparativas de otros periodos, lo que limita su capacidad de análisis y planificación. Considera muy valioso contar con recomendaciones automatizadas, notificaciones y un calendario agrícola que facilite la gestión y optimización de sus cultivos.
 
 ##### Datos del Entrevistado #3
 
+- **Duración:**
 - **Nombre completo:**
 - **Segmento Objetivo:**
 - **Edad:**
