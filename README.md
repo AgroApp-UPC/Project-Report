@@ -1561,6 +1561,8 @@ Cada módulo —Dashboard, My Crops, My Fields, My Tasks, Community y Profile—
 Además, se incorporan principios de diseño inclusivo: alto contraste en elementos clave, etiquetas claras en los formularios, tooltips explicativos y estados de interacción (hover, active, completed). Esto asegura que usuarios con diferentes niveles de alfabetización digital puedan desenvolverse sin fricción en la plataforma.
 
 ### 4.4.1. Web Applications Wireframes.
+<div align="center"> <img src="resources/figma/wireframes/lp4.png" alt="login wireframe" width="600"> </div>
+<div align="center"> <img src="resources/figma/wireframes/lp5.png" alt="register wireframe" width="600"> </div>
 <div align="center"> <img src="resources/figma/wireframes/wb1.png" alt="web applications wireframe 1" width="600"> </div>
 <div align="center"> <img src="resources/figma/wireframes/wb2.png" alt="web applications wireframe 2" width="600"> </div>
 <div align="center"> <img src="resources/figma/wireframes/wb3.png" alt="web applications wireframe 3" width="600"> </div>
@@ -1613,6 +1615,8 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 <div align="center"> <img src="resources/wirefloww3.png" alt="wireflow 4" width="600"> </div>
 
 ### 4.4.2. Web Applications Mock-ups.
+<div align="center"> <img src="resources/figma/mockups/lp4.png" alt="login page mockup" width="600"> </div>
+<div align="center"> <img src="resources/figma/mockups/lp5.png" alt="register mockup" width="600"> </div>
 <div align="center"> <img src="resources/figma/mockups/wb1.png" alt="web applications mockup 1" width="600"> </div>
 <div align="center"> <img src="resources/figma/mockups/wb2.png" alt="web applications mockup 2" width="600"> </div>
 <div align="center"> <img src="resources/figma/mockups/wb3.png" alt="web applications mockup 3" width="600"> </div>
@@ -1652,6 +1656,7 @@ El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión c
 <div align="center"> <img src="resources/userwireflow4.png" alt="wireflow 4" width="600"> </div>
 
 ## 4.5. Web Applications Prototyping.
+<div align="center"> <img src="resources/prototype.png" alt="Web Applications Prototyping" width="400"> </div>
 
 Video: *[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eblgu9ZKBBdFuFEVEuDIlpsBbKIO-H_TpjLgVCCi2fptjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1ZYHp6)*
 
