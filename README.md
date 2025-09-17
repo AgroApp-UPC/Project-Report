@@ -1312,10 +1312,10 @@ AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contra
 El sistema de etiquetado de AgroApp se basa en principios de claridad, brevedad y consistencia, asegurando que los agricultores puedan interpretar la información sin ambigüedades. Cada etiqueta está diseñada con un mínimo número de palabras y se utiliza de manera uniforme en toda la plataforma para evitar duplicidades o confusión.
 
 **Principios generales**
-* Lenguaje claro y directo: etiquetas fáciles de comprender, sin tecnicismos innecesarios.
-* Consistencia: las mismas palabras se usan en todos los módulos (ej. “My Fields” nunca cambia a “Crop Areas”).
-* Brevity first: máximo 1–2 palabras por etiqueta siempre que sea posible.
-* Asociación intuitiva: cada etiqueta se vincula directamente con la acción o dato representado.
+* **Lenguaje claro y directo:** etiquetas fáciles de comprender, sin tecnicismos innecesarios.
+* **Consistencia:** las mismas palabras se usan en todos los módulos (ej. “My Fields” nunca cambia a “Crop Areas”).
+* **Brevity first:** máximo 1–2 palabras por etiqueta siempre que sea posible.
+* **Asociación intuitiva:** cada etiqueta se vincula directamente con la acción o dato representado.
 
 **Etiquetas principales (Navegación Global)**
 * Dashboard → Vista general de recomendaciones, tareas y estado de los cultivos.
@@ -1361,102 +1361,102 @@ La estrategia de SEO y metaetiquetado de AgroApp busca optimizar la visibilidad 
 
 Se definen las siguientes etiquetas base:
 
-* Title: breve, descriptivo y único por página.
-* Meta Description: entre 140–160 caracteres, explicando el propósito de la página.
-* Meta Keywords: términos clave relacionados con agricultura, cultivos y tecnología.
-* Meta Author: autoría del proyecto.
+* **Title:** breve, descriptivo y único por página.
+* **Meta Description:** entre 140–160 caracteres, explicando el propósito de la página.
+* **Meta Keywords:** términos clave relacionados con agricultura, cultivos y tecnología.
+* **Meta Author:** autoría del proyecto.
 
 #### 4.2.3.1. Landing Page (Sitio estático)
 
-Title:
+* Title:
     
-    <title>AgroApp | Smart Farming for Small and Medium-Scale Farmers</title>
+        <title>AgroApp | Smart Farming for Small and Medium-Scale Farmers</title>
 
-Meta Description:
+* Meta Description:
     
-    <meta name="description" content="AgroApp is the digital companion for small and medium-scale farmers. Register your crops, track soil and water, and receive simple, personalized recommendations to grow smarter and harvest better.">
+        <meta name="description" content="AgroApp is the digital companion for small and medium-scale farmers. Register your crops, track soil and water, and receive simple, personalized recommendations to grow smarter and harvest better.">
 
-Meta Keywords:
+* Meta Keywords:
 
-    <meta name="keywords" content="AgroApp, smart farming, agriculture Peru, crop management, sustainable farming, farm technology, farmers app, digital agriculture">
+        <meta name="keywords" content="AgroApp, smart farming, agriculture Peru, crop management, sustainable farming, farm technology, farmers app, digital agriculture">
 
-Meta Author:
+* Meta Author:
 
-    <meta name="author" content="AgroTech Startup Team">
+        <meta name="author" content="AgroTech Startup Team">
 
 #### 4.2.3.2. Web Application (Plataforma)
 
 **Dashboard**
 
-Title: 
+* Title:
 
-    <title>AgroApp Dashboard | Your Crops at a Glance</title>
+        <title>AgroApp Dashboard | Your Crops at a Glance</title>
 
-Meta Description: 
+* Meta Description: 
 
-    <meta name="description" content="View your fields, tasks, and crop recommendations in one simple dashboard. Stay on top of your farming with AgroApp.">
+        <meta name="description" content="View your fields, tasks, and crop recommendations in one simple dashboard. Stay on top of your farming with AgroApp.">
 
-Meta Keywords: 
+*   Meta Keywords: 
 
-    <meta name="keywords" content="AgroApp dashboard, crop monitoring, farmer assistant, field management">
+        <meta name="keywords" content="AgroApp dashboard, crop monitoring, farmer assistant, field management">
 
-Meta Author: 
-
-    <meta name="author" content="AgroTech Startup Team">
+* Meta Author: 
+        
+        <meta name="author" content="AgroTech Startup Team">
 
 **My Fields**
 
-Title: 
+*   Title: 
 
-    <title>AgroApp | My Fields</title>
+        <title>AgroApp | My Fields</title>
 
-Meta Description: 
+* Meta Description: 
 
-    <meta name="description" content="Register and manage your agricultural fields. Add crops, track soil, water, and sunlight data easily with AgroApp.">
+        <meta name="description" content="Register and manage your agricultural fields. Add crops, track soil, water, and sunlight data easily with AgroApp.">
 
-Meta Keywords: 
+* Meta Keywords: 
 
-    <meta name="keywords" content="AgroApp fields, register crops, farm fields management, soil tracking">
+        <meta name="keywords" content="AgroApp fields, register crops, farm fields management, soil tracking">
 
-Meta Author: 
+* Meta Author: 
 
-    <meta name="author" content="AgroTech Startup Team">
+        <meta name="author" content="AgroTech Startup Team">
 
 **My Crops**
 
-Title: 
+* Title: 
 
-    <title>AgroApp | My Crops</title>
+        <title>AgroApp | My Crops</title>
 
-Meta Description: 
+* Meta Description: 
 
-    <meta name="description" content="Organize and monitor your crops by species, planting date, and current status. AgroApp helps you optimize every harvest.">
+        <meta name="description" content="Organize and monitor your crops by species, planting date, and current status. AgroApp helps you optimize every harvest.">
 
-Meta Keywords: 
+* Meta Keywords: 
     
-    <meta name="keywords" content="AgroApp crops, crop monitoring, harvest planning, agricultural app">
+        <meta name="keywords" content="AgroApp crops, crop monitoring, harvest planning, agricultural app">
 
-Meta Author: 
+* Meta Author: 
 
-    <meta name="author" content="AgroTech Startup Team">
+        <meta name="author" content="AgroTech Startup Team">
 
 **Community**
 
-Title: 
+* Title: 
 
-    <title>AgroApp | Community</title>
+        <title>AgroApp | Community</title>
 
-Meta Description: 
+* Meta Description: 
 
-    <meta name="description" content="Connect with other farmers, share experiences, and learn tips to improve your farming practices with AgroApp community.">
+        <meta name="description" content="Connect with other farmers, share experiences, and learn tips to improve your farming practices with AgroApp community.">
 
-Meta Keywords: 
+* Meta Keywords: 
 
-    <meta name="keywords" content="AgroApp community, farmer tips, agriculture forum, farming collaboration">
+        <meta name="keywords" content="AgroApp community, farmer tips, agriculture forum, farming collaboration">
 
-Meta Author: 
+* Meta Author: 
 
-    <meta name="author" content="AgroTech Startup Team">
+        <meta name="author" content="AgroTech Startup Team">
 
 ### 4.2.4. Searching Systems.
 El sistema de búsqueda en AgroApp tiene como objetivo facilitar el acceso rápido a la información dentro de la plataforma, evitando que los agricultores se sientan abrumados por el volumen de datos registrados (campos, cultivos, tareas y publicaciones de la comunidad).
@@ -1532,17 +1532,17 @@ En ambos casos, se aplican principios de diseño inclusivo:
 <div align="center"> <img src="resources/figma/mockups/lp5.png" alt="landing page mockup 5" width="600"> </div>
 
 Los mockups transforman los wireframes en propuestas visuales finales:
-* Desktop version: Se emplea fotografía de campo agrícola como fondo de la hero section, reforzando el contexto de AgroApp. Los botones principales combinan verde (asociado a naturaleza y confianza) con marrón (tierra, estabilidad).
-* Features: Cada beneficio aparece con iconos simples y texto breve, evitando ambigüedad.
-* Audience cards: Diferenciadas con títulos en negrita y bullets con emojis (plant pot 🌱) que transmiten calidez y accesibilidad.
-* Contact section: Fondo limpio, íconos de redes en verde y formulario sencillo, alineado al tono formal pero cercano.
-* Mobile version: Ajusta la disposición de columnas a bloques verticales, manteniendo coherencia en color, tipografía e iconos, optimizados para pantallas pequeñas.
+* **Desktop version:** Se emplea fotografía de campo agrícola como fondo de la hero section, reforzando el contexto de AgroApp. Los botones principales combinan verde (asociado a naturaleza y confianza) con marrón (tierra, estabilidad).
+* **Features:** Cada beneficio aparece con iconos simples y texto breve, evitando ambigüedad.
+* **Audience cards:** Diferenciadas con títulos en negrita y bullets con emojis (plant pot 🌱) que transmiten calidez y accesibilidad.
+* **Contact section:** Fondo limpio, íconos de redes en verde y formulario sencillo, alineado al tono formal pero cercano.
+* **Mobile version:** Ajusta la disposición de columnas a bloques verticales, manteniendo coherencia en color, tipografía e iconos, optimizados para pantallas pequeñas.
 
 En todo momento, los mockups aplican el Design System definido:
-* Colores (paleta verde, marrón, negro y tonos claros de apoyo).
-* Tipografía (Inter, en jerarquías claras: títulos bold, párrafos regular).
-* Iconografía (líneas simples, consistentes, asociadas a agricultura).
-* Lenguaje visual: Formal, respetuoso, claro y con un tono entusiasta que motiva al agricultor a usar la app.
+* **Colores** (paleta verde, marrón, negro y tonos claros de apoyo).
+* **Tipografía** (Inter, en jerarquías claras: títulos bold, párrafos regular).
+* **Iconografía** (líneas simples, consistentes, asociadas a agricultura).
+* **Lenguaje visual:** Formal, respetuoso, claro y con un tono entusiasta que motiva al agricultor a usar la app.
 
 ## 4.4. Web Applications UX/UI Design.
 La experiencia de usuario en las aplicaciones web de AgroApp ha sido diseñada bajo principios de simplicidad, claridad y funcionalidad. El sistema ofrece a los agricultores una interfaz visual coherente con la identidad de marca, priorizando la navegación intuitiva, el acceso rápido a la información y la consistencia gráfica en todas las pantallas.
@@ -1564,11 +1564,11 @@ Además, se incorporan principios de diseño inclusivo: alto contraste en elemen
 
 Los wireframes constituyen la base estructural de la experiencia digital de AgroApp, definiendo la arquitectura de información y la interacción antes de avanzar al diseño final.
 
-* Dashboard: muestra los cultivos activos, próximas fechas de cosecha, tareas por realizar y recomendaciones automatizadas. Se aplican principios de jerarquía al destacar lo inmediato (fecha, tareas de hoy) en la parte superior.
-* My Crops & My Fields: utilizan tablas y cards para organizar la información, lo que facilita la comparación rápida entre cultivos y campos.
-* Forms de registro (Add new crop / Add new field): priorizan simplicidad en el llenado, con inputs claros y secciones bien delimitadas.
-* Community: fomenta la interacción social mostrando contribuciones de otros usuarios en un listado lineal, optimizado para lectura rápida.
-* My Profile: mantiene consistencia de diseño con formularios editables y toggles simples para configuraciones.
+* **Dashboard:** muestra los cultivos activos, próximas fechas de cosecha, tareas por realizar y recomendaciones automatizadas. Se aplican principios de jerarquía al destacar lo inmediato (fecha, tareas de hoy) en la parte superior.
+* **My Crops & My Fields:** utilizan tablas y cards para organizar la información, lo que facilita la comparación rápida entre cultivos y campos.
+* **Forms de registro (Add new crop / Add new field):** priorizan simplicidad en el llenado, con inputs claros y secciones bien delimitadas.
+* **Community:** fomenta la interacción social mostrando contribuciones de otros usuarios en un listado lineal, optimizado para lectura rápida.
+* **My Profile:** mantiene consistencia de diseño con formularios editables y toggles simples para configuraciones.
 
 La representación en baja fidelidad evidencia cómo la aplicación organiza la información sin distracciones, aplicando principios de claridad, consistencia y usabilidad.
 
@@ -1616,10 +1616,10 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 
 Los mock-ups de AgroApp representan la transición de la estructura al diseño final, aplicando el Design System previamente establecido.
 
-* Dashboard: usa tarjetas con imágenes de cultivos y colores semánticos para reflejar el estado de cada campo. La tipografía en negrita resalta las fechas y tareas inmediatas, mientras que los bloques de recomendaciones se diferencian mediante bullets simples.
-* My Crops & My Fields: presentan tablas con líneas divisorias claras, botones de acción (editar, eliminar) y tarjetas con fotografías que humanizan y contextualizan la información agrícola.
-* Community: el feed se mantiene minimalista para dar protagonismo al contenido generado por los usuarios, reforzando la identidad colaborativa de AgroApp.
-* My Profile: combina formularios editables con switches de activación, transmitiendo simplicidad en la gestión de datos personales y configuraciones.
+* **Dashboard:** usa tarjetas con imágenes de cultivos y colores semánticos para reflejar el estado de cada campo. La tipografía en negrita resalta las fechas y tareas inmediatas, mientras que los bloques de recomendaciones se diferencian mediante bullets simples.
+* **My Crops & My Fields:** presentan tablas con líneas divisorias claras, botones de acción (editar, eliminar) y tarjetas con fotografías que humanizan y contextualizan la información agrícola.
+* **Community:** el feed se mantiene minimalista para dar protagonismo al contenido generado por los usuarios, reforzando la identidad colaborativa de AgroApp.
+* **My Profile:** combina formularios editables con switches de activación, transmitiendo simplicidad en la gestión de datos personales y configuraciones.
 
 El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión con el entorno real de los usuarios, mientras que la coherencia visual entre pantallas garantiza una experiencia profesional, confiable y alineada con las necesidades del sector agrícola.
 
