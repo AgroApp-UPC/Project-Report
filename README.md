@@ -1574,22 +1574,34 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 #### Segmento objetivo #1: Agricultores de pequeña escala
-* **User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
+**User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
 * **Task Flow:** 
 <div align="center"> <img src="resources/wireflow1.png" alt="wireflow 1" width="600"> </div>
 
-* **User Goal:** Visualizar un tip o consejo en la sección de Community.
+* **Wireflow:** 
+<div align="center"> <img src="resources/wirefloww1.png" alt="wireflow 1" width="600"> </div>
+
+**User Goal:** Visualizar un tip o consejo en la sección de Community.
 * **Task Flow:** 
 <div align="center"> <img src="resources/wireflow4.png" alt="wireflow 2" width="600"> </div>
 
+* **Wireflow:** 
+<div align="center"> <img src="resources/wirefloww4.png" alt="wireflow 2" width="600"> </div>
+
 #### Segmento objetivo #2: Agricultores de mediana escala
-* **User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
+**User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
 * **Task Flow:** 
 <div align="center"> <img src="resources/wireflow2.png" alt="wireflow 3" width="600"> </div>
 
-* **User Goal:** Marcar como realizada una tarea pendiente en su campo de maíz.
+* **Wireflow:**
+<div align="center"> <img src="resources/wirefloww2.png" alt="wireflow 3" width="600"> </div>
+
+**User Goal:** Marcar como realizada una tarea pendiente en su campo de maíz.
 * **Task Flow:**
-<div align="center"> <img src="resources/wireflow3.png" alt="wireflow 1" width="600"> </div>
+<div align="center"> <img src="resources/wireflow3.png" alt="wireflow 4" width="600"> </div>
+
+* **Wireflow:**
+<div align="center"> <img src="resources/wirefloww3.png" alt="wireflow 4" width="600"> </div>
 
 ### 4.4.2. Web Applications Mock-ups.
 <div align="center"> <img src="resources/figma/mockups/wb1.png" alt="web applications mockup 1" width="600"> </div>
@@ -1612,6 +1624,23 @@ Los mock-ups de AgroApp representan la transición de la estructura al diseño f
 El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión con el entorno real de los usuarios, mientras que la coherencia visual entre pantallas garantiza una experiencia profesional, confiable y alineada con las necesidades del sector agrícola.
 
 ### 4.4.3. Web Applications User Flow Diagrams.
+#### Segmento objetivo #1: Agricultores de pequeña escala
+**User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
+
+<div align="center"> <img src="resources/userwireflow1.png" alt="wireflow 1" width="600"> </div>
+
+**User Goal:** Visualizar un tip o consejo en la sección de Community.
+
+<div align="center"> <img src="resources/userwireflow2.png" alt="wireflow 2" width="600"> </div>
+
+#### Segmento objetivo #2: Agricultores de mediana escala
+**User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
+
+<div align="center"> <img src="resources/userwireflow3.png" alt="wireflow 3" width="600"> </div>
+
+**User Goal:** Marcar como realizada una tarea pendiente en su campo de maíz.
+
+<div align="center"> <img src="resources/userwireflow4.png" alt="wireflow 4" width="600"> </div>
 
 ## 4.5. Web Applications Prototyping.
 
