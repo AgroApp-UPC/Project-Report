@@ -1629,6 +1629,8 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 ## 3.2. Impact Mapping.
 
+<img src="resources/Impact map 1.png" alt="Impact Mapping">
+
 ## 3.3. Product Backlog.
 
 <table>
@@ -1956,7 +1958,7 @@ En esta sección, presentamos el Design Level Event Storming desarrollado para n
 
 El diagrama de contexto de AgroApp ofrece una visión global de las interacciones principales entre el sistema central y los actores externos que lo rodean. La plataforma está orientada a simplificar la gestión y supervisión de cultivos por parte de los usuarios. En este nivel, se identifican actores clave como el Agricultor, encargado de registrar y administrar sus cultivos, y la Asociación, que envía las evaluaciones correspondientes. Asimismo, se muestran las integraciones externas más relevantes: la Pasarela de Pago para procesar transacciones con las asociaciones, el Servicio de Mapas para visualizar la ubicación de los cultivos y las Redes Sociales para compartir información de manera pública. Esta representación de alto nivel permite entender de manera clara cómo AgroApp se relaciona y coopera con su ecosistema digital y humano.
 
-<img src="resources/Context_Diagram.png" alt="C4 Context Diagram">
+<img src="resources/C4 CONTEXTO.png" alt="C4 Context Diagram">
 
 ### 4.6.3. Software Architecture Container Diagrams.
 
