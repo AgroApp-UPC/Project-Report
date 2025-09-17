@@ -1306,6 +1306,14 @@ AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contra
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+* **Landing page Diagram:** 
+<div align="center"> <img src="resources/organizational1.png" alt="organization system landing page" width="600"> </div>
+
+* **Homepage Diagram:**
+<div align="center"> <img src="resources/organizational2.png" alt="organization system homepage" width="600"> </div>
+
+* **Dashboard Diagram:**
+<div align="center"> <img src="resources/organizational3.png" alt="organization system dashboard" width="600"> </div>
 
 ### 4.2.2. Labeling Systems.
 
