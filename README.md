@@ -1372,7 +1372,7 @@ Conclusiones:
   </tr>
   <tr>
     <td>Chirito Torres, Jose Raul</td>
-    <td></td>
+    <td>JoseR044</td>
     <td></td>
     <td></td>
     <td></td>
