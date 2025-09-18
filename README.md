@@ -225,13 +225,13 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 
 ### 1.1.2. Perfiles de los integrantes del equipo
 
-| Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Foto |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |      |
-| **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |      |
-|**Jose Chirito:** <br> Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |      |
-| **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         |  <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200">     |
+| Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Foto                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                               |
+| **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |                                                                               |
+| **Jose Chirito:** <br> Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.                                                                                                                                                                                                                                                                                                                                                         |                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                               |
+| **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200"> |
 
 ## 1.2. Solution Profile
 
@@ -583,33 +583,31 @@ Agricultores de pequeña y mediana escala que buscan mejorar la eficiencia de ri
 | **¿Por qué llevar a cabo este análisis?** | Lograr identificar como se posiciona **AgroApp** frente a sus competidores en Perú, evaluadno el mercado objetivo y ventajas competitivas. |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 
-| **Sección**                                | **AgroApp (Startup)**                                                                          | **Space AG**                                                   | **Agros**                                                                   | **Ritec**                                                                              |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Perfil**                                 |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Overview**                               | App web con recomendaciones inteligentes y alertas de riesgo usando IoT básico (humedad, luz). | Monitoreo con drones, satélites e IA para agroexportación.     | Plataforma digital que conecta agricultores con crédito, seguros e insumos. | Startup peruana de IoT agrícola: sensores de clima y suelo, riego inteligente.         |
-| **Ventaja competitiva / Valor al cliente** | Simple, accesible y pensada para pequeños agricultores con baja experiencia digital.           | Tecnología avanzada y escalable para grandes agroexportadores. | Democratiza el acceso a financiamiento agrícola.                            | Ahorro de agua y fertilizantes con sensores y automatización de riego.                 |
-| **Perfil de Marketing**                    |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Mercado objetivo**                       | Agricultores pequeños y medianos (1–20 ha), Sierra y Selva.                                    | Grandes agroexportadores de la Costa.                          | Agricultores pequeños y medianos organizados en cooperativas.               | Agricultores medianos en zonas de riego intensivo (Costa y Sierra).                    |
-| **Estrategias de marketing**               | Alianzas con cooperativas, talleres rurales, educación digital.                                | Alianzas B2B con agroexportadoras y empresas grandes.          | Convenios con bancos, ONGs y asociaciones agrícolas.                        | Venta directa de hardware + acompañamiento técnico.                                    |
-| **Perfil de Producto**                     |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Productos & Servicios**                  | App web, alertas inteligentes, integración con IoT básico (humedad y luz).                     | Imágenes satelitales, drones e inteligencia artificial.        | Marketplace agrícola, créditos y seguros digitales.                         | Sensores de clima , de suelo , y sistemas de riego automatizado. |
-| **Precios & Costos**                       | Freemium + planes accesibles.                                                                  | Premium (alto costo).                                          | Suscripción + comisiones sobre transacciones.                               | Venta de hardware + servicio de mantenimiento.                                         |
-| **Canales de distribución (Web/Móvil)**    | Web responsive y móvil.                                                                        | Web SaaS corporativo.                                          | Web y aplicación móvil.                                                     | Hardware IoT conectado a plataforma web.                                               |
-| **Análisis SWOT**                          |                                                                                                |                                                                |                                                                             |                                                                                        |
-| **Fortalezas**                             | Fácil de usar, accesible, enfocado en pequeños agricultores.                                   | Alta tecnología y prestigio internacional.                     | Amplia red de aliados financieros.                                          | Tecnología propia peruana, impacto directo en ahorro de agua y fertilizantes.          |
-| **Debilidades**                            | Requiere adopción digital en zonas rurales.                                                    | Costoso, inaccesible para pequeños agricultores.               | Poca innovación técnica en cultivos.                                        | Dependencia de hardware físico y costos iniciales altos.                               |
-| **Oportunidades**                          | Expansión en Sierra y Selva; integración de más sensores IoT.                                  | Crecimiento sostenido de agroexportaciones.                    | Mayor demanda de servicios financieros agrícolas.                           | Escasez hídrica que impulsa soluciones de riego eficiente.                             |
-| **Amenazas**                               | Competidores con más recursos tecnológicos.                                                    | Dependencia de grandes clientes corporativos.                  | Competencia de otras plataformas fintech agrícolas.                         | Competidores internacionales de IoT agrícola.                                          |
+| **Sección**                                | **AgroApp (Startup)**                                                                          | **Space AG**                                                   | **Agros**                                                                   | **Ritec**                                                                      |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Perfil**                                 |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Overview**                               | App web con recomendaciones inteligentes y alertas de riesgo usando IoT básico (humedad, luz). | Monitoreo con drones, satélites e IA para agroexportación.     | Plataforma digital que conecta agricultores con crédito, seguros e insumos. | Startup peruana de IoT agrícola: sensores de clima y suelo, riego inteligente. |
+| **Ventaja competitiva / Valor al cliente** | Simple, accesible y pensada para pequeños agricultores con baja experiencia digital.           | Tecnología avanzada y escalable para grandes agroexportadores. | Democratiza el acceso a financiamiento agrícola.                            | Ahorro de agua y fertilizantes con sensores y automatización de riego.         |
+| **Perfil de Marketing**                    |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Mercado objetivo**                       | Agricultores pequeños y medianos (1–20 ha), Sierra y Selva.                                    | Grandes agroexportadores de la Costa.                          | Agricultores pequeños y medianos organizados en cooperativas.               | Agricultores medianos en zonas de riego intensivo (Costa y Sierra).            |
+| **Estrategias de marketing**               | Alianzas con cooperativas, talleres rurales, educación digital.                                | Alianzas B2B con agroexportadoras y empresas grandes.          | Convenios con bancos, ONGs y asociaciones agrícolas.                        | Venta directa de hardware + acompañamiento técnico.                            |
+| **Perfil de Producto**                     |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Productos & Servicios**                  | App web, alertas inteligentes, integración con IoT básico (humedad y luz).                     | Imágenes satelitales, drones e inteligencia artificial.        | Marketplace agrícola, créditos y seguros digitales.                         | Sensores de clima , de suelo , y sistemas de riego automatizado.               |
+| **Precios & Costos**                       | Freemium + planes accesibles.                                                                  | Premium (alto costo).                                          | Suscripción + comisiones sobre transacciones.                               | Venta de hardware + servicio de mantenimiento.                                 |
+| **Canales de distribución (Web/Móvil)**    | Web responsive y móvil.                                                                        | Web SaaS corporativo.                                          | Web y aplicación móvil.                                                     | Hardware IoT conectado a plataforma web.                                       |
+| **Análisis SWOT**                          |                                                                                                |                                                                |                                                                             |                                                                                |
+| **Fortalezas**                             | Fácil de usar, accesible, enfocado en pequeños agricultores.                                   | Alta tecnología y prestigio internacional.                     | Amplia red de aliados financieros.                                          | Tecnología propia peruana, impacto directo en ahorro de agua y fertilizantes.  |
+| **Debilidades**                            | Requiere adopción digital en zonas rurales.                                                    | Costoso, inaccesible para pequeños agricultores.               | Poca innovación técnica en cultivos.                                        | Dependencia de hardware físico y costos iniciales altos.                       |
+| **Oportunidades**                          | Expansión en Sierra y Selva; integración de más sensores IoT.                                  | Crecimiento sostenido de agroexportaciones.                    | Mayor demanda de servicios financieros agrícolas.                           | Escasez hídrica que impulsa soluciones de riego eficiente.                     |
+| **Amenazas**                               | Competidores con más recursos tecnológicos.                                                    | Dependencia de grandes clientes corporativos.                  | Competencia de otras plataformas fintech agrícolas.                         | Competidores internacionales de IoT agrícola.                                  |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-| Competidor | Fortalezas | Estrategia de AgroApp | Tácticas de AgroApp |
-|------------|------------|------------------------|----------------------|
-| **Space AG** | Imágenes satelitales y drones de alta precisión (costosas). | Ofrecer una solución simple, accesible y de bajo costo para agricultores pequeños y medianos. | - Modelo freemium o bajo costo.<br>- Tecnología para todos.<br>- Interfaz intuitiva sin conocimientos técnicos. |
-| **Agros** | Acceso a financiamiento, seguros e insumos agrícolas. | Diferenciarse con un sistema de recomendaciones inteligentes e IoT para optimizar la producción. | - Alianzas con cooperativas.<br>- Posicionar AgroApp como herramienta que convierte créditos en resultados productivos. |
-| **Ritec** | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar IoT básicos y económicos con alertas automáticas y lenguaje sencillo. | -Marketing educativo : Talleres virtuales y prácticos.<br>- Alertas accionables  para facilitar la toma de decisiones.<br>- Alianzas con ONG y gobiernos locales. |
-
-  
+| Competidor   | Fortalezas                                                   | Estrategia de AgroApp                                                                            | Tácticas de AgroApp                                                                                                                                              |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Space AG** | Imágenes satelitales y drones de alta precisión (costosas).  | Ofrecer una solución simple, accesible y de bajo costo para agricultores pequeños y medianos.    | - Modelo freemium o bajo costo.<br>- Tecnología para todos.<br>- Interfaz intuitiva sin conocimientos técnicos.                                                  |
+| **Agros**    | Acceso a financiamiento, seguros e insumos agrícolas.        | Diferenciarse con un sistema de recomendaciones inteligentes e IoT para optimizar la producción. | - Alianzas con cooperativas.<br>- Posicionar AgroApp como herramienta que convierte créditos en resultados productivos.                                          |
+| **Ritec**    | IoT avanzado en riego y monitoreo (sensores especializados). | Integrar IoT básicos y económicos con alertas automáticas y lenguaje sencillo.                   | -Marketing educativo : Talleres virtuales y prácticos.<br>- Alertas accionables para facilitar la toma de decisiones.<br>- Alianzas con ONG y gobiernos locales. |
 
 ## 2.2. Entrevistas.
 
@@ -749,178 +747,11 @@ Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo informac
 
 - User Persona del Segmento Objetivo 1:
 
-<table>
-  <colgroup>
-    <col style="width:10%;">
-    <col style="width:90%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <th>Nombre</th>
-      <th>Miguel Gutiérrez</th>
-    </tr>
-    <tr>
-      <th>Rol</th>
-      <th>Agricultores de pequeña escala</th>
-    </tr>
-    <tr>
-      <th>Edad</th>
-      <th>25 años</th>
-    </tr>
-    <tr>
-      <th>Ocupación</th>
-      <th>Estudiante universitario</th>
-    </tr>
-    <tr>
-      <th>Residencia</th>
-      <th>Ayacucho</th>
-    </tr>
-    <tr>
-      <th>Imagen</th>
-      <th style="width:150px;height:150px">
-            <img src="resources/user-persona-segmento-1.jpg" alt="Imagen del user persona del segmento 1">
-      </th>
-    <tr>
-      <th>Biografía</th>
-      <th>Miguel es un joven universitario que desde hace un año obtiene parte de sus alimentos mediante el trabajo que realiza en su chacra. Quiere aplicar lo que aprende en la universidad a su terreno, pero carece de herramientas prácticas para gestionar el riego y prevenir pérdidas. Usa un smartphone básico y está familiarizado con apps populares como WhatsApp, Facebook y YouTube.</th>
-    </tr>
-    <tr>
-      <th>Motivaciones</th>
-      <th>
-      <ul>
-      <li>Incentivo: 60 de 100</li>
-      <li>Miedo: 30 de 100</li>
-      <li>Crecimiento: 90 de 100</li>
-      <li>Seguridad: 90 de 100</li>
-      <li>Contribución: 60 de 100</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Objetivos</th>
-      <th>
-      <ul>
-      <li>Mejorar el rendimiento de sus cultivos.</li>
-      <li>Aprender buenas prácticas agrícolas.</li>
-      <li>Asegurar la estabilidad económica de su familia</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Frustraciones</th>
-      <th>
-      <ul>
-      <li>No tiene suficiente tiempo para estar pendiente de la chacra todos los días.</li>
-      <li>Depende mucho de la experiencia de sus padres y vecinos.</li>
-      <li>Duda sobre la cantidad correcta de agua y fertilizantes.</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Personalidad</th>
-      <th>
-      <ul>
-      <li>Extroversión: 60 de 100</li>
-      <li>Innovador: 80 de 100</li>
-      <li>Emocional: 70 de 100</li>
-      <li>Planificador: 40 de 100</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Tecnologías</th>
-      <th>Smartphone</th>
-    </tr>
-  </tbody>
-</table>
+<div align="center"><img src="resources/user-persona-segment-1.png" alt="user-persona-segment-1.png"></div>
 
 - User Persona del Segmento Objetivo 2:
 
-<table>
-  <colgroup>
-    <col style="width:10%;">
-    <col style="width:90%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <th>Nombre</th>
-      <th>Gustavo Cárdenas</th>
-    </tr>
-    <tr>
-      <th>Rol</th>
-      <th>Agricultores de mediana escala</th>
-    </tr>
-    <tr>
-      <th>Edad</th>
-      <th>40 años</th>
-    </tr>
-    <tr>
-      <th>Ocupación</th>
-      <th>Productor agrícola</th>
-    </tr>
-    <tr>
-      <th>Residencia</th>
-      <th>Arequipa</th>
-    </tr>
-    <tr>
-      <th>Imagen</th>
-      <th style="width:150px;height:200px;">
-            <img src="resources/user-persona-segmento-2.jpg" alt="Imagen del user persona del segmento 2">
-      </th>
-    </tr>
-    <tr>
-      <th>Biografía</th>
-      <th>Gustavo depende de su producción para mantener a su familia. Tiene experiencia, pero no suele llevar registros detallados. Suele confiar en su memoria y en recomendaciones de técnicos agrícolas que visita de vez en cuando. Usa un smartphone básico, está familiarizado con apps populares como WhatsApp, Facebook y YouTube, pero no apps complejas.</th>
-    </tr>
-    <tr>
-      <th>Motivaciones</th>
-      <th>
-      <ul>
-      <li>Incentivo: 60 de 100</li>
-      <li>Miedo: 90 de 100</li>
-      <li>Crecimiento: 60 de 100</li>
-      <li>Seguridad: 90 de 100</li>
-      <li>Contribución: 60 de 100</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Objetivos</th>
-      <th>
-      <ul>
-      <li>Reducir pérdidas por plagas y cambios de clima.</li>
-      <li>Aprender y aplicar prácticas más modernas y sostenibles en sus cultivos.</li>
-      <li>Tener mayor control de gastos en agua, fertilizantes e insumos.</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Frustraciones</th>
-      <th>
-      <ul>
-      <li>No puede predecir con exactitud cuánto gastará ni cuánto rendirá cada cosecha.</li>
-      <li>Siente que no siempre detecta a tiempo las plagas.</li>
-      <li>No tiene las herramientas para mejorar su producción.</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Personalidad</th>
-      <th>
-      <ul>
-      <li>Extroversión: 60 de 100</li>
-      <li>Innovador: 30 de 100</li>
-      <li>Emocional: 30 de 100</li>
-      <li>Planificador: 60 de 100</li>
-      </ul>
-      </th>
-    </tr>
-    <tr>
-      <th>Tecnologías</th>
-      <th>Smartphone</th>
-    </tr>
-  </tbody>
-</table>
+<div align="center"><img src="resources/user-persona-segment-2.png" alt="user-persona-segment-2.png"></div>
 
 ### 2.3.2. User Task Matrix.
 
@@ -1012,133 +843,11 @@ Conclusiones:
 
 - User Journey: Miguel - Agricultores de pequeña escala.
 
-<table>
-  <thead>
-    <tr>
-      <th>Fase</th>
-      <th>Acciones</th>
-      <th>Emociones</th>
-      <th>Puntos de dolor</th>
-      <th>Oportunidades de mejora</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Concientización</th>
-      <th>Escucha de AgroTech por una campaña de aprendizaje o por otro agricultor de su comunidad.</th>
-      <th>Curiosidad</th>
-      <th>No siempre tiene acceso a internet. En su comunidad hay zonas donde no llega la cobertura.</th>
-      <th>Difusión en centros de estudios y comunidades.</th>
-    </tr>
-    <tr>
-      <th>Consideración</th>
-      <th>Revisa si tiene los medios para usar la aplicación y si es fácil de usar.</th>
-      <th>Duda y expectativa</th>
-      <th>Temor a que la aplicación sea dificil de usar</th>
-      <th>Garantizar una interfaz intuitiva y fácil de usar. Optimizar la aplicación para dispositivos de bajos recursos.</th>
-    </tr>
-    <tr>
-      <th>Adopción</th>
-      <th>Descarga la aplicación, se registra e ingresa los datos de su terreno de cultivo.</th>
-      <th>Entusiasmo</th>
-      <th>No le gusta llenar formularios extensos.</th>
-      <th>Asegurarse que el proceso de adopción sea simple y con tutoriales paso a paso.</th>
-    </tr>
-    <tr>
-      <th>Planificación</th>
-      <th>Configura recordatorios básicos de siembra, riego, fertilización y cosecha.</th>
-      <th>Esperanza</th>
-      <th>No está seguro de ingresar correctamente los datos.</th>
-      <th>Plantillas rápidas según tipo de cultivo.</th>
-    </tr>
-    <tr>
-      <th>Monitoreo</th>
-      <th>Consulta alertas sobre riego y estadísticas de las plantas.</th>
-      <th>Confianza</th>
-      <th>Olvida registrar algunas tareas.</th>
-      <th>Alertas simples sobre tareas diarias.</th>
-    </tr>
-    <tr>
-      <th>Cosecha</th>
-      <th>Registra cuanto logró cosechar y compara con cosechas anteriores.</th>
-      <th>Satisfacción</th>
-      <th>Dificultad para medir el rendimiento.</th>
-      <th>Comparación visual de cosechas usando gráficos simples.</th>
-    </tr>
-    <tr>
-      <th>Fidelización</th>
-      <th>Cuenta su experiencia a amigos o familiares. Sigue utilizando la aplicación.</th>
-      <th>Motivación</th>
-      <th>Si no se mantiene un canal de ayuda ante problemas de la aplicación puede sentirse abandonado y buscar otras soluciones.</th>
-      <th>Mantener un canal de soporte.</th>
-    </tr>
-  </tbody>
-</table>
+<div align="center"><img src="resources/user-journey-segment-1.png" alt="user-journey-segment-1.png"></div>
 
 - User Journey: Gustavo - Agricultores de mediana escala.
 
-<table>
-  <thead>
-    <tr>
-      <th>Fase</th>
-      <th>Acciónes</th>
-      <th>Emociones</th>
-      <th>Puntos de dolor</th>
-      <th>Oportunidades de mejora</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Concientización</th>
-      <th>Escucha de AgroTech en una feria agrícola o por recomendación de otro agricultor.</th>
-      <th>Curiosidad</th>
-      <th>Hay muchas aplicaciones en el mercado y duda de su valor real.</th>
-      <th>Difusión en ferias agrícolas, asociaciones de productores y programas estatales.</th>
-    </tr>
-    <tr>
-      <th>Consideración</th>
-      <th>Evalúa si la aplicación le puede ahorrar tiempo y mejorar su rentabilidad.</th>
-      <th>Expectativa</th>
-      <th>No quiere invertir tiempo en algo que no tenga retorno claro.</th>
-      <th>Demostrar casos de éxito y beneficios económicos concretos.</th>
-    </tr>
-    <tr>
-      <th>Adopción</th>
-      <th>Descarga la app, registra su terreno de cultivo y principales cosechas.</th>
-      <th>Esperanza</th>
-      <th>Le puede parecer tedioso tener que registrar tantos datos al inicio.</th>
-      <th>Permitir la importación de datos de cultivo.</th>
-    </tr>
-    <tr>
-      <th>Planificación</th>
-      <th>Configura calendario de siembra, riego, fertilización y control de plagas.</th>
-      <th>Enfocado</th>
-      <th>Necesita que la app se ajuste a varios cultivos distintos.</th>
-      <th>Ofrecer un calendario agrícola visual y personalizable.</th>
-    </tr>
-    <tr>
-      <th>Monitoreo</th>
-      <th>Revisa alertas y genera reportes de consumo de agua y rendimiento esperado.</th>
-      <th>Confianza</th>
-      <th>Puede frustrarse si el reporte no es claro o detallado.</th>
-      <th>Reportes claros y recomendaciones clasificadas por riesgo.</th>
-    </tr>
-    <tr>
-      <th>Cosecha</th>
-      <th>Compara costos vs. ganancias y rendimiento de la cosecha.</th>
-      <th>Satisfacción</th>
-      <th>Dificultad en traducir datos a decisiones económicas claras.</th>
-      <th>KPI simples de rentabilidad y productividad por hectárea.</th>
-    </tr>
-    <tr>
-      <th>Fidelización</th>
-      <th>Considera pagar plan premium y recomienda la aplicación a otros productores.</th>
-      <th>Lealtad</th>
-      <th>Puede abandonar el plan premium si siente que no justifica el costo.</th>
-      <th>Plan premium con reportes avanzados y asesorías.</th>
-    </tr>
-  </tbody>
-</table>
+<div align="center"><img src="resources/user-journey-segment-2.png" alt="user-journey-segment-2.png"></div>
 
 ### 2.3.4. Empathy Mapping.
 
@@ -1150,9 +859,8 @@ Conclusiones:
 
 <img src="resources/empathy-map-segmento-2.png" alt="Imagen del empathy map del segmento 2">
 
-[Enlace al Empathy Map de ambos segmentos](https://www.canva.com/design/DAGym1XDCOM/f4WrAIG_4ahN6e6Wt7Bgrg/edit)
-
 ## 2.4. Big Picture Event Storming.
+
 - Big Picture Event Storming del proyecto AgroTech
 
 <img src="resources/Event_storming.jpg" alt="Imagen del Big Event Storming">
@@ -1215,10 +923,13 @@ Conclusiones:
 ## 4.1. Style Guidelines.
 
 ### 4.1.1. General Style Guidelines.
+
 La identidad visual de AgroApp se fundamenta en transmitir confianza, simplicidad y cercanía hacia agricultores de pequeña y mediana escala. Se optó por un estilo sereno pero entusiasta, con un tono de comunicación formal-casual: respetuoso en el lenguaje pero accesible, claro y amigable.
 <br><br>
 El sistema visual se inspira en Design Systems modernos, pero adaptado a la realidad agrícola, priorizando la legibilidad, el contraste y la claridad de los elementos.
+
 #### 4.1.1.1. Tipografía
+
 ##### 4.1.1.1.1. Tipografía del logo
 
 <div align="center"> <img src="resources/figma/logoagroapp.png" alt="logo de agroapp" width="400"> </div>
@@ -1230,48 +941,50 @@ El logotipo utiliza la fuente Inter en estilo SemiBold, en minúsculas. Esta dec
 
 Para todo el contenido textual se utiliza también la familia tipográfica Inter, que ofrece una amplia gama de grosores desde ExtraLight hasta Bold. Esto asegura consistencia en el sistema y flexibilidad para jerarquizar títulos, subtítulos y párrafos.
 
-* Títulos principales: Inter Bold, tamaño 24–32px en web.
-* Subtítulos y secciones: Inter Medium, tamaño 18–20px.
-* Texto regular y descripciones: Inter Regular, tamaño 14–16px.
-* Notas o textos secundarios: Inter Light, tamaño 12px.
+- Títulos principales: Inter Bold, tamaño 24–32px en web.
+- Subtítulos y secciones: Inter Medium, tamaño 18–20px.
+- Texto regular y descripciones: Inter Regular, tamaño 14–16px.
+- Notas o textos secundarios: Inter Light, tamaño 12px.
 
 La tipografía Inter fue elegida por su legibilidad en dispositivos móviles y su neutralidad estética, lo que permite destacar el contenido agrícola por encima del diseño.
 
 #### 4.1.1.2. Colores
+
 <div align="center"> <img src="resources/figma/color.png" alt="paleta de colores de agroapp" width="400"> </div>
 
 La paleta de colores se compone de tonos inspirados en la naturaleza agrícola del Perú:
 
 **Paleta principal:**
 
-* Verde claro (#A5BDA6) → representa crecimiento y frescura.
-* Verde medio (#577C61) → transmite confianza, estabilidad y conexión con el campo.
-* Negro (#000000) → usado para contraste y textos principales.
+- Verde claro (#A5BDA6) → representa crecimiento y frescura.
+- Verde medio (#577C61) → transmite confianza, estabilidad y conexión con el campo.
+- Negro (#000000) → usado para contraste y textos principales.
 
 **Paleta secundaria:**
 
-* Arena claro (#E3D3C3) → aporta calidez y neutralidad.
-* Blanco (#FFFFFF) → usado para fondos limpios y legibles.
-* Verde pálido (#C2D6B9) → soporte para resaltar recomendaciones o alertas suaves.
-* Marrón tierra (#826450) → conecta con el suelo, las raíces y la agricultura tradicional.
+- Arena claro (#E3D3C3) → aporta calidez y neutralidad.
+- Blanco (#FFFFFF) → usado para fondos limpios y legibles.
+- Verde pálido (#C2D6B9) → soporte para resaltar recomendaciones o alertas suaves.
+- Marrón tierra (#826450) → conecta con el suelo, las raíces y la agricultura tradicional.
 
 La combinación de verdes y marrones evoca naturaleza, confianza y sustentabilidad, mientras que los neutros (blanco y arena) aseguran una interfaz limpia y ligera.
 
 #### 4.1.1.3. Iconografía
+
 <div align="center"> <img src="resources/figma/iconografia.png" alt="iconografía de agroapp" width="400"> </div>
 
 Los íconos siguen un estilo lineal, minimalista y de trazo uniforme, basados en un grid de 24px y con grosor de 2px–4px según el tamaño. Se emplean íconos de uso universal (hogar, usuario, añadir, editar, eliminar) para garantizar intuitividad y consistencia.
 
-* El ícono de inicio (home) es la referencia central, diseñado en distintos tamaños (30–90px) manteniendo proporción y grosor.
-* Íconos adicionales (agregar, usuario, tareas, comunidad) se alinean con el estilo lineal, asegurando coherencia visual.
-* La paleta de iconografía se mantiene en tonos oscuros (negro/gris) para máxima legibilidad sobre fondos claros, aunque puede incorporar acentos de verde en casos de estados activos.
+- El ícono de inicio (home) es la referencia central, diseñado en distintos tamaños (30–90px) manteniendo proporción y grosor.
+- Íconos adicionales (agregar, usuario, tareas, comunidad) se alinean con el estilo lineal, asegurando coherencia visual.
+- La paleta de iconografía se mantiene en tonos oscuros (negro/gris) para máxima legibilidad sobre fondos claros, aunque puede incorporar acentos de verde en casos de estados activos.
 
 #### 4.1.1.4. Tono de comunicación y lenguaje aplicado
 
 El tono de comunicación de AgroApp busca ser cercano, claro y motivador, evitando tecnicismos innecesarios que puedan generar confusión en agricultores con poca o media experiencia. Se definió como un estilo formal-casual:
 
-* Formal en el respeto, claridad y precisión de la información técnica (ej. recomendaciones de riego, fertilización o riesgos).
-* Casual en la forma de dirigirse al usuario, utilizando mensajes breves, fáciles de entender y amigables.
+- Formal en el respeto, claridad y precisión de la información técnica (ej. recomendaciones de riego, fertilización o riesgos).
+- Casual en la forma de dirigirse al usuario, utilizando mensajes breves, fáciles de entender y amigables.
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -1298,14 +1011,16 @@ El diseño de AgroApp se adapta de forma fluida a cualquier dispositivo. Se impl
 AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contraste entre textos y fondos sigue estándares mínimos de accesibilidad (WCAG AA), asegurando una lectura cómoda incluso en condiciones de baja iluminación. Los íconos cuentan con etiquetas o tooltips que refuerzan su significado, y los formularios incluyen mensajes breves y legibles para guiar al usuario. El lenguaje empleado es claro, directo y respetuoso, evitando tecnicismos innecesarios. De esta forma, AgroApp minimiza la curva de aprendizaje y maximiza la eficiencia de cada acción realizada por el agricultor.
 
 ## 4.2. Information Architecture.
+
 ### 4.2.1. Organization Systems.
-* **Landing page Diagram:** 
+
+- **Landing page Diagram:**
 <div align="center"> <img src="resources/organizational1.png" alt="organization system landing page" width="600"> </div>
 
-* **Homepage Diagram:**
+- **Homepage Diagram:**
 <div align="center"> <img src="resources/organizational2.png" alt="organization system homepage" width="600"> </div>
 
-* **Dashboard Diagram:**
+- **Dashboard Diagram:**
 <div align="center"> <img src="resources/organizational3.png" alt="organization system dashboard" width="600"> </div>
 
 ### 4.2.2. Labeling Systems.
@@ -1313,75 +1028,81 @@ AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contra
 El sistema de etiquetado de AgroApp se basa en principios de claridad, brevedad y consistencia, asegurando que los agricultores puedan interpretar la información sin ambigüedades. Cada etiqueta está diseñada con un mínimo número de palabras y se utiliza de manera uniforme en toda la plataforma para evitar duplicidades o confusión.
 
 **Principios generales**
-* **Lenguaje claro y directo:** etiquetas fáciles de comprender, sin tecnicismos innecesarios.
-* **Consistencia:** las mismas palabras se usan en todos los módulos (ej. “My Fields” nunca cambia a “Crop Areas”).
-* **Brevity first:** máximo 1–2 palabras por etiqueta siempre que sea posible.
-* **Asociación intuitiva:** cada etiqueta se vincula directamente con la acción o dato representado.
+
+- **Lenguaje claro y directo:** etiquetas fáciles de comprender, sin tecnicismos innecesarios.
+- **Consistencia:** las mismas palabras se usan en todos los módulos (ej. “My Fields” nunca cambia a “Crop Areas”).
+- **Brevity first:** máximo 1–2 palabras por etiqueta siempre que sea posible.
+- **Asociación intuitiva:** cada etiqueta se vincula directamente con la acción o dato representado.
 
 **Etiquetas principales (Navegación Global)**
-* Dashboard → Vista general de recomendaciones, tareas y estado de los cultivos.
-* My Crops → Lista y gestión de cultivos registrados.
-* My Fields → Información y detalles de los campos agrícolas.
-* My Tasks → Registro de tareas pendientes, en curso o completadas.
-* Community → Sección de intercambio de consejos y experiencias con otros agricultores.
-* Profile → Configuración de cuenta e información personal.
+
+- Dashboard → Vista general de recomendaciones, tareas y estado de los cultivos.
+- My Crops → Lista y gestión de cultivos registrados.
+- My Fields → Información y detalles de los campos agrícolas.
+- My Tasks → Registro de tareas pendientes, en curso o completadas.
+- Community → Sección de intercambio de consejos y experiencias con otros agricultores.
+- Profile → Configuración de cuenta e información personal.
 
 **Etiquetas secundarias (Dentro de cada sección)**
-* Field Name → Nombre del campo.
-* Location → Ubicación (distrito, provincia, región).
-* Size → Tamaño del campo (ha o categorías: pequeño, mediano, grande).
-* Crop → Tipo de cultivo.
-* Variety → Variedad del cultivo.
-* Planting Date → Fecha de siembra.
-* Harvest Date → Fecha estimada de cosecha.
-* Soil Type → Tipo de suelo.
-* Watering → Registro de riego.
-* Sunlight → Horas de sol.
-* Status → Estado actual (Healthy, Medium Risk, High Risk).
-* Recommendation → Sugerencia generada por el sistema.
-* History → Registro de actividades realizadas.
+
+- Field Name → Nombre del campo.
+- Location → Ubicación (distrito, provincia, región).
+- Size → Tamaño del campo (ha o categorías: pequeño, mediano, grande).
+- Crop → Tipo de cultivo.
+- Variety → Variedad del cultivo.
+- Planting Date → Fecha de siembra.
+- Harvest Date → Fecha estimada de cosecha.
+- Soil Type → Tipo de suelo.
+- Watering → Registro de riego.
+- Sunlight → Horas de sol.
+- Status → Estado actual (Healthy, Medium Risk, High Risk).
+- Recommendation → Sugerencia generada por el sistema.
+- History → Registro de actividades realizadas.
 
 **Etiquetas para estados y acciones**
-* Add Field → Registrar nuevo campo.
-* Add Crop → Agregar cultivo a un campo.
-* Healthy → Estado óptimo del cultivo.
-* Attention → Requiere atención moderada.
-* Critical → Requiere atención urgente.
-* Save → Confirmar y guardar cambios.
-* Edit → Modificar.
-* Delete → Eliminar.
+
+- Add Field → Registrar nuevo campo.
+- Add Crop → Agregar cultivo a un campo.
+- Healthy → Estado óptimo del cultivo.
+- Attention → Requiere atención moderada.
+- Critical → Requiere atención urgente.
+- Save → Confirmar y guardar cambios.
+- Edit → Modificar.
+- Delete → Eliminar.
 
 **Asociaciones entre etiquetas**
-* Fields ↔ Crops: cada campo puede tener múltiples cultivos.
-* Crops ↔ Tasks: cada cultivo se vincula con tareas específicas (riego, fertilización, cosecha).
-* Crops ↔ Status/Recommendations: cada cultivo tiene un estado y recomendaciones asociadas.
-* Community ↔ Tips: los usuarios publican consejos asociados a cultivos o tareas.
+
+- Fields ↔ Crops: cada campo puede tener múltiples cultivos.
+- Crops ↔ Tasks: cada cultivo se vincula con tareas específicas (riego, fertilización, cosecha).
+- Crops ↔ Status/Recommendations: cada cultivo tiene un estado y recomendaciones asociadas.
+- Community ↔ Tips: los usuarios publican consejos asociados a cultivos o tareas.
 
 ### 4.2.3. SEO Tags and Meta Tags
+
 La estrategia de SEO y metaetiquetado de AgroApp busca optimizar la visibilidad del sitio en buscadores y mejorar la experiencia de descubrimiento tanto de la Landing Page (atracción y captación de usuarios) como de la Web Application (uso recurrente y valor agregado).
 
 Se definen las siguientes etiquetas base:
 
-* **Title:** breve, descriptivo y único por página.
-* **Meta Description:** entre 140–160 caracteres, explicando el propósito de la página.
-* **Meta Keywords:** términos clave relacionados con agricultura, cultivos y tecnología.
-* **Meta Author:** autoría del proyecto.
+- **Title:** breve, descriptivo y único por página.
+- **Meta Description:** entre 140–160 caracteres, explicando el propósito de la página.
+- **Meta Keywords:** términos clave relacionados con agricultura, cultivos y tecnología.
+- **Meta Author:** autoría del proyecto.
 
 #### 4.2.3.1. Landing Page (Sitio estático)
 
-* Title:
-    
+- Title:
+
         <title>AgroApp | Smart Farming for Small and Medium-Scale Farmers</title>
 
-* Meta Description:
-    
+- Meta Description:
+
         <meta name="description" content="AgroApp is the digital companion for small and medium-scale farmers. Register your crops, track soil and water, and receive simple, personalized recommendations to grow smarter and harvest better.">
 
-* Meta Keywords:
+- Meta Keywords:
 
         <meta name="keywords" content="AgroApp, smart farming, agriculture Peru, crop management, sustainable farming, farm technology, farmers app, digital agriculture">
 
-* Meta Author:
+- Meta Author:
 
         <meta name="author" content="AgroTech Startup Team">
 
@@ -1389,101 +1110,106 @@ Se definen las siguientes etiquetas base:
 
 **Dashboard**
 
-* Title:
+- Title:
 
         <title>AgroApp Dashboard | Your Crops at a Glance</title>
 
-* Meta Description: 
+- Meta Description:
 
         <meta name="description" content="View your fields, tasks, and crop recommendations in one simple dashboard. Stay on top of your farming with AgroApp.">
 
-*   Meta Keywords: 
+- Meta Keywords:
 
-        <meta name="keywords" content="AgroApp dashboard, crop monitoring, farmer assistant, field management">
+      <meta name="keywords" content="AgroApp dashboard, crop monitoring, farmer assistant, field management">
 
-* Meta Author: 
-        
-        <meta name="author" content="AgroTech Startup Team">
+- Meta Author:
+  <meta name="author" content="AgroTech Startup Team">
 
 **My Fields**
 
-*   Title: 
+- Title:
 
-        <title>AgroApp | My Fields</title>
+      <title>AgroApp | My Fields</title>
 
-* Meta Description: 
+- Meta Description:
 
         <meta name="description" content="Register and manage your agricultural fields. Add crops, track soil, water, and sunlight data easily with AgroApp.">
 
-* Meta Keywords: 
+- Meta Keywords:
 
         <meta name="keywords" content="AgroApp fields, register crops, farm fields management, soil tracking">
 
-* Meta Author: 
+- Meta Author:
 
         <meta name="author" content="AgroTech Startup Team">
 
 **My Crops**
 
-* Title: 
+- Title:
 
         <title>AgroApp | My Crops</title>
 
-* Meta Description: 
+- Meta Description:
 
         <meta name="description" content="Organize and monitor your crops by species, planting date, and current status. AgroApp helps you optimize every harvest.">
 
-* Meta Keywords: 
-    
+- Meta Keywords:
+
         <meta name="keywords" content="AgroApp crops, crop monitoring, harvest planning, agricultural app">
 
-* Meta Author: 
+- Meta Author:
 
         <meta name="author" content="AgroTech Startup Team">
 
 **Community**
 
-* Title: 
+- Title:
 
         <title>AgroApp | Community</title>
 
-* Meta Description: 
+- Meta Description:
 
         <meta name="description" content="Connect with other farmers, share experiences, and learn tips to improve your farming practices with AgroApp community.">
 
-* Meta Keywords: 
+- Meta Keywords:
 
         <meta name="keywords" content="AgroApp community, farmer tips, agriculture forum, farming collaboration">
 
-* Meta Author: 
+- Meta Author:
 
         <meta name="author" content="AgroTech Startup Team">
 
 ### 4.2.4. Searching Systems.
+
 El sistema de búsqueda en AgroApp tiene como objetivo facilitar el acceso rápido a la información dentro de la plataforma, evitando que los agricultores se sientan abrumados por el volumen de datos registrados (campos, cultivos, tareas y publicaciones de la comunidad).
 
 **Filtros**
-* Campos: tamaño (pequeño, mediano, grande), región.
-* Cultivos: estado (Healthy, Medium Risk, High Risk), fecha de siembra.
-* Tareas: urgencia (Hoy, Esta semana, Próximas), estado (pendiente, completada).
+
+- Campos: tamaño (pequeño, mediano, grande), región.
+- Cultivos: estado (Healthy, Medium Risk, High Risk), fecha de siembra.
+- Tareas: urgencia (Hoy, Esta semana, Próximas), estado (pendiente, completada).
 
 ### 4.2.5. Navigation Systems.
+
 El sistema de navegación de AgroApp está diseñado para guiar a los usuarios de forma simple, predecible y eficiente, asegurando que puedan cumplir sus metas con el menor número de pasos posibles.
 
 **Landing Page:**
-* La navegación se estructura en un menú superior fijo con accesos directos a: Home, Plans, Contact Us, Sign up y Sign in.
-* Los call-to-action (CTA) en botones destacados redirigen a la vista correspondiente en la Web Application (ej. “Dashboard” → Login).
-* El contenido se presenta en scroll vertical progresivo, con secciones claras.
+
+- La navegación se estructura en un menú superior fijo con accesos directos a: Home, Plans, Contact Us, Sign up y Sign in.
+- Los call-to-action (CTA) en botones destacados redirigen a la vista correspondiente en la Web Application (ej. “Dashboard” → Login).
+- El contenido se presenta en scroll vertical progresivo, con secciones claras.
 
 **Web Application:**
-* La aplicación cuenta con un menú lateral persistente que incluye las secciones clave: Dashboard, My Fields, My Crops, My Tasks, Community y Profile.
-* En dispositivos móviles, este menú se repliega en un menú hamburguesa para mantener la funcionalidad sin sacrificar espacio.
-* Se integran breadcrumbs (rutas de navegación) en vistas más profundas, como el detalle de un campo o cultivo, para que el usuario nunca pierda el contexto.
-* Botones de retroceso y accesos rápidos en el encabezado facilitan regresar a la vista anterior.
+
+- La aplicación cuenta con un menú lateral persistente que incluye las secciones clave: Dashboard, My Fields, My Crops, My Tasks, Community y Profile.
+- En dispositivos móviles, este menú se repliega en un menú hamburguesa para mantener la funcionalidad sin sacrificar espacio.
+- Se integran breadcrumbs (rutas de navegación) en vistas más profundas, como el detalle de un campo o cultivo, para que el usuario nunca pierda el contexto.
+- Botones de retroceso y accesos rápidos en el encabezado facilitan regresar a la vista anterior.
 
 En conjunto, estas decisiones permiten que el usuario recorra la experiencia desde la Landing Page hasta la Web Application con continuidad visual y lógica, asegurando una interacción fluida.
 
 ## 4.3. Landing Page UI Design.
+
 La propuesta de UI del Landing Page de AgroApp traduce las decisiones de diseño del Design System en una interfaz clara, moderna y alineada con la identidad visual del producto.
 
 La arquitectura de información se organiza en bloques:
@@ -1497,6 +1223,7 @@ La arquitectura de información se organiza en bloques:
 El diseño prioriza la claridad visual, con tipografía limpia (Inter), botones de contraste alto y uso consistente de la paleta verde–tierra. Además, se aplica un lenguaje visual accesible, con iconografía representativa y espacios amplios que facilitan la lectura.
 
 ### 4.3.1. Landing Page Wireframe.
+
 <div align="center"> <img src="resources/figma/wireframes/lp1.png" alt="landing page wireframe 1" width="600"> </div>
 <div align="center"> <img src="resources/figma/wireframes/lp2.png" alt="landing page wireframe 2" width="600"> </div>
 <div align="center"> <img src="resources/figma/wireframes/lp3.png" alt="landing page wireframe 3" width="600"> </div>
@@ -1507,25 +1234,27 @@ Los wireframes establecen la estructura inicial de la experiencia:
 
 **Desktop Web Browser:**
 
-* Barra superior fija con navegación clara (Home, Plans, Contact us, Sign up/Sign in).
-* Hero section al centro con un mensaje fuerte y CTA.
-* Secciones en cards (features, audiencias) que permiten escaneo rápido.
-* Footer con links secundarios y redes sociales.
+- Barra superior fija con navegación clara (Home, Plans, Contact us, Sign up/Sign in).
+- Hero section al centro con un mensaje fuerte y CTA.
+- Secciones en cards (features, audiencias) que permiten escaneo rápido.
+- Footer con links secundarios y redes sociales.
 
 **Mobile Web Browser:**
 
-* Menú simplificado en formato hamburguesa para optimizar el espacio.
-* Hero section con slogan centrado y un botón CTA principal.
-* Features y audiencias en scroll vertical, manteniendo jerarquía de títulos e iconografía para no perder claridad.
-* Contacto con formulario compacto y acceso directo a redes sociales.
+- Menú simplificado en formato hamburguesa para optimizar el espacio.
+- Hero section con slogan centrado y un botón CTA principal.
+- Features y audiencias en scroll vertical, manteniendo jerarquía de títulos e iconografía para no perder claridad.
+- Contacto con formulario compacto y acceso directo a redes sociales.
 
 En ambos casos, se aplican principios de diseño inclusivo:
-* Contraste suficiente en tipografía y botones.
-* Espaciado amplio para legibilidad.
-* Formularios con etiquetas claras y accesibles.
-* Arquitectura de información que evita sobrecarga cognitiva.
+
+- Contraste suficiente en tipografía y botones.
+- Espaciado amplio para legibilidad.
+- Formularios con etiquetas claras y accesibles.
+- Arquitectura de información que evita sobrecarga cognitiva.
 
 ### 4.3.2. Landing Page Mock-up.
+
 <div align="center"> <img src="resources/figma/mockups/lp1.png" alt="landing page mockup 1" width="600"> </div>
 <div align="center"> <img src="resources/figma/mockups/lp2.png" alt="landing page mockup 2" width="600"> </div>
 <div align="center"> <img src="resources/figma/mockups/lp3.png" alt="landing page mockup 3" width="600"> </div>
@@ -1533,19 +1262,22 @@ En ambos casos, se aplican principios de diseño inclusivo:
 <div align="center"> <img src="resources/figma/mockups/lp5.png" alt="landing page mockup 5" width="600"> </div>
 
 Los mockups transforman los wireframes en propuestas visuales finales:
-* **Desktop version:** Se emplea fotografía de campo agrícola como fondo de la hero section, reforzando el contexto de AgroApp. Los botones principales combinan verde (asociado a naturaleza y confianza) con marrón (tierra, estabilidad).
-* **Features:** Cada beneficio aparece con iconos simples y texto breve, evitando ambigüedad.
-* **Audience cards:** Diferenciadas con títulos en negrita y bullets con emojis (plant pot 🌱) que transmiten calidez y accesibilidad.
-* **Contact section:** Fondo limpio, íconos de redes en verde y formulario sencillo, alineado al tono formal pero cercano.
-* **Mobile version:** Ajusta la disposición de columnas a bloques verticales, manteniendo coherencia en color, tipografía e iconos, optimizados para pantallas pequeñas.
+
+- **Desktop version:** Se emplea fotografía de campo agrícola como fondo de la hero section, reforzando el contexto de AgroApp. Los botones principales combinan verde (asociado a naturaleza y confianza) con marrón (tierra, estabilidad).
+- **Features:** Cada beneficio aparece con iconos simples y texto breve, evitando ambigüedad.
+- **Audience cards:** Diferenciadas con títulos en negrita y bullets con emojis (plant pot 🌱) que transmiten calidez y accesibilidad.
+- **Contact section:** Fondo limpio, íconos de redes en verde y formulario sencillo, alineado al tono formal pero cercano.
+- **Mobile version:** Ajusta la disposición de columnas a bloques verticales, manteniendo coherencia en color, tipografía e iconos, optimizados para pantallas pequeñas.
 
 En todo momento, los mockups aplican el Design System definido:
-* **Colores** (paleta verde, marrón, negro y tonos claros de apoyo).
-* **Tipografía** (Inter, en jerarquías claras: títulos bold, párrafos regular).
-* **Iconografía** (líneas simples, consistentes, asociadas a agricultura).
-* **Lenguaje visual:** Formal, respetuoso, claro y con un tono entusiasta que motiva al agricultor a usar la app.
+
+- **Colores** (paleta verde, marrón, negro y tonos claros de apoyo).
+- **Tipografía** (Inter, en jerarquías claras: títulos bold, párrafos regular).
+- **Iconografía** (líneas simples, consistentes, asociadas a agricultura).
+- **Lenguaje visual:** Formal, respetuoso, claro y con un tono entusiasta que motiva al agricultor a usar la app.
 
 ## 4.4. Web Applications UX/UI Design.
+
 La experiencia de usuario en las aplicaciones web de AgroApp ha sido diseñada bajo principios de simplicidad, claridad y funcionalidad. El sistema ofrece a los agricultores una interfaz visual coherente con la identidad de marca, priorizando la navegación intuitiva, el acceso rápido a la información y la consistencia gráfica en todas las pantallas.
 <br><br>
 Cada módulo —Dashboard, My Crops, My Fields, My Tasks, Community y Profile— está concebido con layouts claros y jerarquía visual que permite a los usuarios identificar de inmediato sus cultivos, tareas pendientes y estado de los campos. El lenguaje visual se apoya en tipografías legibles, colores con función semántica (verde = healthy, naranja = atención, rojo = crítico) y componentes reutilizables como tarjetas, tablas, botones y formularios.
@@ -1553,6 +1285,7 @@ Cada módulo —Dashboard, My Crops, My Fields, My Tasks, Community y Profile—
 Además, se incorporan principios de diseño inclusivo: alto contraste en elementos clave, etiquetas claras en los formularios, tooltips explicativos y estados de interacción (hover, active, completed). Esto asegura que usuarios con diferentes niveles de alfabetización digital puedan desenvolverse sin fricción en la plataforma.
 
 ### 4.4.1. Web Applications Wireframes.
+
 <div align="center"> <img src="resources/figma/wireframes/lp4.png" alt="login wireframe" width="600"> </div>
 <div align="center"> <img src="resources/figma/wireframes/lp5.png" alt="register wireframe" width="600"> </div>
 <div align="center"> <img src="resources/figma/wireframes/wb1.png" alt="web applications wireframe 1" width="600"> </div>
@@ -1567,46 +1300,54 @@ Además, se incorporan principios de diseño inclusivo: alto contraste en elemen
 
 Los wireframes constituyen la base estructural de la experiencia digital de AgroApp, definiendo la arquitectura de información y la interacción antes de avanzar al diseño final.
 
-* **Dashboard:** muestra los cultivos activos, próximas fechas de cosecha, tareas por realizar y recomendaciones automatizadas. Se aplican principios de jerarquía al destacar lo inmediato (fecha, tareas de hoy) en la parte superior.
-* **My Crops & My Fields:** utilizan tablas y cards para organizar la información, lo que facilita la comparación rápida entre cultivos y campos.
-* **Forms de registro (Add new crop / Add new field):** priorizan simplicidad en el llenado, con inputs claros y secciones bien delimitadas.
-* **Community:** fomenta la interacción social mostrando contribuciones de otros usuarios en un listado lineal, optimizado para lectura rápida.
-* **My Profile:** mantiene consistencia de diseño con formularios editables y toggles simples para configuraciones.
+- **Dashboard:** muestra los cultivos activos, próximas fechas de cosecha, tareas por realizar y recomendaciones automatizadas. Se aplican principios de jerarquía al destacar lo inmediato (fecha, tareas de hoy) en la parte superior.
+- **My Crops & My Fields:** utilizan tablas y cards para organizar la información, lo que facilita la comparación rápida entre cultivos y campos.
+- **Forms de registro (Add new crop / Add new field):** priorizan simplicidad en el llenado, con inputs claros y secciones bien delimitadas.
+- **Community:** fomenta la interacción social mostrando contribuciones de otros usuarios en un listado lineal, optimizado para lectura rápida.
+- **My Profile:** mantiene consistencia de diseño con formularios editables y toggles simples para configuraciones.
 
 La representación en baja fidelidad evidencia cómo la aplicación organiza la información sin distracciones, aplicando principios de claridad, consistencia y usabilidad.
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
 #### Segmento objetivo #1: Agricultores de pequeña escala
+
 **User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
-* **Task Flow:** 
+
+- **Task Flow:**
 <div align="center"> <img src="resources/wireflow1.png" alt="wireflow 1" width="300"> </div>
 
-* **Wireflow:** 
+- **Wireflow:**
 <div align="center"> <img src="resources/wirefloww1.png" alt="wireflow 1" width="600"> </div>
 
 **User Goal:** Visualizar un tip o consejo en la sección de Community.
-* **Task Flow:** 
+
+- **Task Flow:**
 <div align="center"> <img src="resources/wireflow4.png" alt="wireflow 2" width="300"> </div>
 
-* **Wireflow:** 
+- **Wireflow:**
 <div align="center"> <img src="resources/wirefloww4.png" alt="wireflow 2" width="600"> </div>
 
 #### Segmento objetivo #2: Agricultores de mediana escala
+
 **User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
-* **Task Flow:** 
+
+- **Task Flow:**
 <div align="center"> <img src="resources/wireflow2.png" alt="wireflow 3" width="300"> </div>
 
-* **Wireflow:**
+- **Wireflow:**
 <div align="center"> <img src="resources/wirefloww2.png" alt="wireflow 3" width="600"> </div>
 
 **User Goal:** Marcar como realizada una tarea pendiente en su campo de maíz.
-* **Task Flow:**
+
+- **Task Flow:**
 <div align="center"> <img src="resources/wireflow3.png" alt="wireflow 4" width="300"> </div>
 
-* **Wireflow:**
+- **Wireflow:**
 <div align="center"> <img src="resources/wirefloww3.png" alt="wireflow 4" width="600"> </div>
 
 ### 4.4.2. Web Applications Mock-ups.
+
 <div align="center"> <img src="resources/figma/mockups/lp4.png" alt="login page mockup" width="600"> </div>
 <div align="center"> <img src="resources/figma/mockups/lp5.png" alt="register mockup" width="600"> </div>
 <div align="center"> <img src="resources/figma/mockups/wb1.png" alt="web applications mockup 1" width="600"> </div>
@@ -1621,15 +1362,17 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 
 Los mock-ups de AgroApp representan la transición de la estructura al diseño final, aplicando el Design System previamente establecido.
 
-* **Dashboard:** usa tarjetas con imágenes de cultivos y colores semánticos para reflejar el estado de cada campo. La tipografía en negrita resalta las fechas y tareas inmediatas, mientras que los bloques de recomendaciones se diferencian mediante bullets simples.
-* **My Crops & My Fields:** presentan tablas con líneas divisorias claras, botones de acción (editar, eliminar) y tarjetas con fotografías que humanizan y contextualizan la información agrícola.
-* **Community:** el feed se mantiene minimalista para dar protagonismo al contenido generado por los usuarios, reforzando la identidad colaborativa de AgroApp.
-* **My Profile:** combina formularios editables con switches de activación, transmitiendo simplicidad en la gestión de datos personales y configuraciones.
+- **Dashboard:** usa tarjetas con imágenes de cultivos y colores semánticos para reflejar el estado de cada campo. La tipografía en negrita resalta las fechas y tareas inmediatas, mientras que los bloques de recomendaciones se diferencian mediante bullets simples.
+- **My Crops & My Fields:** presentan tablas con líneas divisorias claras, botones de acción (editar, eliminar) y tarjetas con fotografías que humanizan y contextualizan la información agrícola.
+- **Community:** el feed se mantiene minimalista para dar protagonismo al contenido generado por los usuarios, reforzando la identidad colaborativa de AgroApp.
+- **My Profile:** combina formularios editables con switches de activación, transmitiendo simplicidad en la gestión de datos personales y configuraciones.
 
 El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión con el entorno real de los usuarios, mientras que la coherencia visual entre pantallas garantiza una experiencia profesional, confiable y alineada con las necesidades del sector agrícola.
 
 ### 4.4.3. Web Applications User Flow Diagrams.
+
 #### Segmento objetivo #1: Agricultores de pequeña escala
+
 **User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
 
 <div align="center"> <img src="resources/userwireflow1.png" alt="wireflow 1" width="600"> </div>
@@ -1639,6 +1382,7 @@ El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión c
 <div align="center"> <img src="resources/userwireflow2.png" alt="wireflow 2" width="600"> </div>
 
 #### Segmento objetivo #2: Agricultores de mediana escala
+
 **User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
 
 <div align="center"> <img src="resources/userwireflow3.png" alt="wireflow 3" width="600"> </div>
@@ -1648,13 +1392,15 @@ El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión c
 <div align="center"> <img src="resources/userwireflow4.png" alt="wireflow 4" width="600"> </div>
 
 ## 4.5. Web Applications Prototyping.
+
 <div align="center"> <img src="resources/prototype.png" alt="Web Applications Prototyping" width="400"> </div>
 
-Video: *[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eblgu9ZKBBdFuFEVEuDIlpsBbKIO-H_TpjLgVCCi2fptjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1ZYHp6)*
+Video: _[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eblgu9ZKBBdFuFEVEuDIlpsBbKIO-H_TpjLgVCCi2fptjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1ZYHp6)_
 
-Web Applications Prototyping web view: *[Web Applications Prototyping](https://www.figma.com/proto/ZBulGqbgy8UqeVVcz7505E/AgroApp?node-id=107-687&p=f&t=zTIr6yNub1GBQw11-1&scaling=contain&content-scaling=fixed&page-id=107%3A658&starting-point-node-id=107%3A687&show-proto-sidebar=1)*
+Web Applications Prototyping web view: _[Web Applications Prototyping](https://www.figma.com/proto/ZBulGqbgy8UqeVVcz7505E/AgroApp?node-id=107-687&p=f&t=zTIr6yNub1GBQw11-1&scaling=contain&content-scaling=fixed&page-id=107%3A658&starting-point-node-id=107%3A687&show-proto-sidebar=1)_
 
 ## 4.6. Domain-Driven Software Architecture.
+
 ### 4.6.1. Design-Level Event Storming.
 
 <img src="resources/Desing Level - Event.jpg">
@@ -1680,15 +1426,16 @@ Web Applications Prototyping web view: *[Web Applications Prototyping](https://w
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-- Diagrama de clases del proyecto AgroTech
-<img src="resources/Class_Diagram.png">
 
+- Diagrama de clases del proyecto AgroTech
+  <img src="resources/Class_Diagram.png">
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagrams.
+
 - Diagrama de la base de datos del proyecto AgroTech
-<img src="resources/Data_base_diagram.JPG">
+  <img src="resources/Data_base_diagram.JPG">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
