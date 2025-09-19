@@ -48,7 +48,7 @@
    </tr>
    <tr>
    <td>Ventosilla Trujillo, Anderson Ricardo</td>
-   <td></td>
+   <td>U202319025</td>
    </tr>
    <tr>
    <td>Via Luna, Bruce </td>
@@ -89,7 +89,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | ------------------- | ---------------- |
 | José Chirito        |                  |
 | Sean Palomares      |                  |
-| Anderson Ventosilla |                  |
+| Anderson Ventosilla | Landing Page, Software Deployment Configuration                 |
 | Bruce Via           |                  |
 | Angie Yalán         |                  |
 
@@ -1379,7 +1379,36 @@ Con el fin de mantener el código claro, legible y consistente en todo el proyec
 
 ### 5.1.4. Software Deployment Configuration.
 
-En este segmento explicaremos como se realizó el despligue de la Landing Page usando el servicio de GitHub Pages.
+En esta sección se explica el proceso de despliegue de la Landing Page utilizando el servicio **Vercel**, una plataforma que facilita la implementación continua de aplicaciones web con integración directa a GitHub.
+
+**Pasos realizados:**
+
+1. **Conexión con el repositorio:**  
+   Se enlazó el repositorio de la organización en GitHub con la cuenta de Vercel, lo que permitió habilitar el despliegue automático.
+
+   ![Conexión con GitHub](https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless)
+
+2. **Selección del proyecto:**  
+   Se seleccionó el repositorio correspondiente a la Landing Page y se configuró como un nuevo proyecto dentro de Vercel.
+
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418728555025793204/image.png?ex=68cf2d6e&is=68cddbee&hm=a31f1ae93173f26327887a752e7ff74def1e95b4b025315b659f4bd1497eb7c0&=&format=webp&quality=lossless)
+
+3. **Configuración del framework:**  
+   Durante el setup, Vercel detectó el framework **Astro** empleado en el desarrollo. No fue necesario realizar configuraciones adicionales, ya que Vercel cuenta con soporte nativo.
+
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418728951597240361/image.png?ex=68cf2dcc&is=68cddc4c&hm=49bf28cf58625e9ea0f5c6652899bab5117c559e07546b515dce1e78b6608a1f&=&format=webp&quality=lossless)
+
+5. **Deploy automático:**  
+   Con cada cambio realizado en la rama principal del repositorio, Vercel ejecuta automáticamente un nuevo build y despliega la versión actualizada de la Landing Page.
+
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418730308064514151/image.png?ex=68cf2f10&is=68cddd90&hm=f2a8a7acf24d6d4c6e2b43cae9d50b942cd5bbbe036e4998e8f24ec4cd14b6ad&=&format=webp&quality=lossless)
+
+**Resultado:**  
+La Landing Page quedó publicada en un dominio proporcionado por Vercel, garantizando disponibilidad inmediata y actualizaciones automáticas con cada commit al repositorio y disponible en el siguiente enlace:  
+👉 [https://landing-page-j8amn4de5-and12326s-projects.vercel.app/](https://landing-page-j8amn4de5-and12326s-projects.vercel.app/) 
+
+![Resultado de la landing page](https://media.discordapp.net/attachments/814677457042276372/1418729607485460481/image.png?ex=68cf2e69&is=68cddce9&hm=841ba0824bb500322536faf390ce5661b61a754ac973b4b2efbcbe3183312021&=&format=webp&quality=lossless&width=1414&height=771) 
+
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
