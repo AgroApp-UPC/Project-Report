@@ -1548,15 +1548,19 @@ Este primer Sprint está enfocado al desarrollo y despliegue de nuestro Landing 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Durante este primer Sprint los procesos de deployment realizados fueron exclusivamente para el Landing Page mediante GitHub Pages.
+Durante este primer Sprint los procesos de deployment realizados fueron exclusivamente para el Landing Page mediante Vercel.
 
 Para empezar se accedió al apartado Pages de la configuración del repositorio.
 
-<div align="center"><img src="resources/" alt="deployment-evidence/repo-configuration"></div>
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless&width=1356&height=845" alt="deployment-evidence/repo-configuration"></div>
 
 Se seleccionó la rama main para el despliegue.
 
-<div align="center"><img src="resources/" alt="deployment-evidence/branch-selection"></div>
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418730236371013663/image.png?ex=68cf2eff&is=68cddd7f&hm=6292db7943bc272304e7746bc9f8c6d92671f08f53670bf38e80ffba100045bb&=&format=webp&quality=lossless&width=1127&height=875" alt="deployment-evidence/branch-selection"></div>
+
+Muestra de la organizacion, donde se encuentra el repositorio de la landing page.
+
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418738604901142660/image.png?ex=68cf36ca&is=68cde54a&hm=13a2b49713f055b08f014660590294f8d9c55e0f3b3e5a967f36efcab9c8817e&=&format=webp&quality=lossless&width=1369&height=771" alt="deployment-evidence/branch-selection"></div>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
