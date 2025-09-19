@@ -1521,6 +1521,10 @@ En esta Sprint se alcanzó desplegar la Landing Page.
 
 Screenshots:
 
+![Evidencia repositorio](https://media.discordapp.net/attachments/814677457042276372/1418738604901142660/image.png?ex=68cf36ca&is=68cde54a&hm=13a2b49713f055b08f014660590294f8d9c55e0f3b3e5a967f36efcab9c8817e&=&format=webp&quality=lossless&width=1369&height=771) 
+
+![Evidencia commits](https://media.discordapp.net/attachments/814677457042276372/1418731257088708701/image.png?ex=68cf2ff2&is=68cdde72&hm=7be10f1808567099bdd48acdcabdaa1c9a6b9b0cf1dff2a2626343d227c9a72a&=&format=webp&quality=lossless&width=1372&height=771)  
+
 Enlace del video de ejecución y navegación en el Landing Page:
 
 User Stories del landing page.
