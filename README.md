@@ -658,40 +658,40 @@ Preguntas:
 
 ##### Datos del Entrevistado #1
 
-- **Nombre completo:**
-- **Segmento Objetivo:**
+- **Nombre completo:** Rosa Chavez
+- **Segmento Objetivo:** Agricultores de pequeña escala
 - **Edad:**
 - **Distrito:**
 - **Inicio de la entrevista:**
 - **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista1]()
-- **URL del video (Microsoft Stream):** _[Entrevista 01]()_
+- **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1s1.png)
+- **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
 
 ##### Datos del Entrevistado #2
 
-- **Nombre completo:**
-- **Segmento Objetivo:**
+- **Nombre completo:** Miguel Rojas
+- **Segmento Objetivo:** Agricultores de pequeña escala
 - **Edad:**
 - **Distrito:**
 - **Inicio de la entrevista:**
 - **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista2]()
-- **URL del video (Microsoft Stream):** _[Entrevista 02]()_
+- **Screenshot del cuadro de video:** ![Entrevista2](resources/entrevista2s1.png)
+- **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
 
 ##### Datos del Entrevistado #3
 
-- **Nombre completo:**
-- **Segmento Objetivo:**
+- **Nombre completo:** Carmen Díaz
+- **Segmento Objetivo:** Agricultores de pequeña escala
 - **Edad:**
 - **Distrito:**
 - **Inicio de la entrevista:**
 - **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista3]()
-- **URL del video (Microsoft Stream):** _[Entrevista 03]()_
+- **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s1.png)
+- **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
 
@@ -699,14 +699,14 @@ Preguntas:
 
 ##### Datos del Entrevistado #1
 
-- **Nombre completo:**
-- **Segmento Objetivo:**
+- **Nombre completo:** Walter Sanchez
+- **Segmento Objetivo:** Agricultor de mediana escala
 - **Edad:**
 - **Distrito:**
 - **Inicio de la entrevista:**
 - **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista1]()
-- **URL del video (Microsoft Stream):** _[Entrevista 01]()_
+- **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1s2.png)
+- **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
 
@@ -717,23 +717,23 @@ Preguntas:
 - **Edad:** 30
 - **Distrito:** Lurigancho-Chosica
 - **Inicio de la entrevista:**
+- **Duración:** 
 - **Screenshot del cuadro de video:** ![Entrevista2](resources/entrevista2s2.png)
-- **URL del video (Microsoft Stream):** _[Entrevista 02]()_
+- **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
 El entrevistado administra 14 hectáreas en total: 8 de palta, 4 de maíz y 2 de maracuyá, siendo la palta el cultivo más relevante por su alta demanda comercial en supermercados. Recibe apoyo ocasional de un ingeniero agrónomo para la gestión de los cultivos. Actualmente lleva el control mediante registros en Excel (gastos, inventario y seguimiento de cultivos). Su principal dificultad es la falta de información estructurada sobre el uso de recursos y estadísticas comparativas de otros periodos, lo que limita su capacidad de análisis y planificación. Considera muy valioso contar con recomendaciones automatizadas, notificaciones y un calendario agrícola que facilite la gestión y optimización de sus cultivos.
 
 ##### Datos del Entrevistado #3
 
-- **Duración:**
 - **Nombre completo:**
-- **Segmento Objetivo:**
+- **Segmento Objetivo:** Agricultor de mediana escala
 - **Edad:**
 - **Distrito:**
 - **Inicio de la entrevista:**
 - **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista3]()
-- **URL del video (Microsoft Stream):** _[Entrevista 03]()_
+- **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s2.png)
+- **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
 
