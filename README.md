@@ -229,10 +229,11 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |      |
 | **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |      |
-|  **Jose Chirito:**<br>
-Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.También tengo conocimiento en varios lenguajes de programación. Y considero que aprendo rápido los temas y el trabajo grupal.                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |      |
-| **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         |      |
+
+| **Jose Chirito:**<br>
+Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.También tengo conocimiento en varios lenguajes de programación. Y considero que aprendo rápido los temas y el trabajo grupal. | |
+| | |
+| **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello. | |
 
 ## 1.2. Solution Profile
 
@@ -1311,6 +1312,8 @@ Conclusiones:
 
 #### 5.2.1.1. Sprint Planning 1.
 
+En esta sección se detalla la reunion de planificación para iniciar con el desarrollo de la Landing Page de AgroApp.
+
 <table border="1">
   <tr>
     <th>Sprint #</th>
@@ -1330,11 +1333,11 @@ Conclusiones:
   </tr>
   <tr>
     <td>Prepared By</td>
-    <td></td>
+    <td>Ventosilla Trujillo, Anderson Ricardo</td>
   </tr>
   <tr>
     <td>Attendees (to planning meeting)</td>
-    <td></td>
+    <td>Chirito Torres, Jose Raul<br>Palomares Andrade, Sean Farith<br>Ventosilla Trujillo, Anderson Ricardo<br>Via Luna, Bruce<br>Yalán Zhang, Angie Christina</td>
   </tr>
   <tr>
     <td>Sprint n – 1 Review Summary</td>
@@ -1349,7 +1352,7 @@ Conclusiones:
   </tr>
   <tr>
     <td>Sprint n Goal </td>
-    <td>Nuestro enfoque es tener un Landing Page . Creemos que dará confianza a los consumidores de ambos segmentos objetivos. Esto será confirmado cuando los consumidores tengan conocimiento de todas las funciones y beneficios que tiene la plataforma solo con mirar nuestro Landing Page.</td>
+    <td>Nuestro enfoque es desarrollar el Landing Page de AgroApp. Creemos que dará confianza a los usuarios de ambos segmentos objetivos. Esto será confirmado cuando los usuarios tengan conocimiento de todas las funciones y beneficios que tiene la plataforma con solo mirar nuestro Landing Page.</td>
   </tr>
   <tr>
     <td>Sprint n Velocity</td>
@@ -1538,7 +1541,7 @@ User Stories del landing page.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Este Sprint está enfocado al desarrollo y despliegue de nuestro Landing Page. Por ello no se incluye la relación de Endpoints documentados con OpenAPI.
+Este primer Sprint está enfocado al desarrollo y despliegue de nuestro Landing Page. Por ello no se incluye la relación de Endpoints documentados con OpenAPI.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
@@ -1554,7 +1557,11 @@ Se seleccionó la rama main para el despliegue.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+En este sprint las teareas de desarrollo y despliegue del Landing Page fueron llevadas a cabo por Anderson Ventosilla.
+
 Analíticos de colaboración y commits en GitHub.
+
+<div align="center"><img src="resources/sprint1-collaboration-analytics.png" alt="deployment-evidence/sprint1-collaboration-analytics"></div>
 
 # Conclusiones
 
