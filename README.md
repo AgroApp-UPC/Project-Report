@@ -87,7 +87,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Integrantes         | Tareas Asignadas |
 | ------------------- | ---------------- |
-| José Chirito        |                  |
+| José Chirito        |  Competidores, tabla comparativa de análisis competitivo y estrategias y tácticas de la startup.|
 | Sean Palomares      |                  |
 | Anderson Ventosilla |                  |
 | Bruce Via           |                  |
@@ -204,8 +204,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Criterio específico                                                   | Acciones realizadas                                                                                                                                                        | Conclusiones |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva realicé los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia.  <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito comuniqué de manera clara y estructurada el análisis competitivo a distinto público. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
 
 # Capítulo I: Introducción
 
