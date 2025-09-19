@@ -662,8 +662,8 @@ Preguntas:
 - **Segmento Objetivo:** Agricultores de pequeña escala
 - **Edad:**
 - **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
+- **Inicio de la entrevista:** 00:18
+- **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1s1.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
@@ -675,8 +675,8 @@ Preguntas:
 - **Segmento Objetivo:** Agricultores de pequeña escala
 - **Edad:**
 - **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
+- **Inicio de la entrevista:** 05:20
+- **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista2](resources/entrevista2s1.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
@@ -688,8 +688,8 @@ Preguntas:
 - **Segmento Objetivo:** Agricultores de pequeña escala
 - **Edad:**
 - **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
+- **Inicio de la entrevista:** 08:49
+- **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s1.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
@@ -703,8 +703,8 @@ Preguntas:
 - **Segmento Objetivo:** Agricultor de mediana escala
 - **Edad:**
 - **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
+- **Inicio de la entrevista:** 13:09
+- **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1s2.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
@@ -716,8 +716,8 @@ Preguntas:
 - **Segmento Objetivo:** Agricultor de mediana escala
 - **Edad:** 30
 - **Distrito:** Lurigancho-Chosica
-- **Inicio de la entrevista:**
-- **Duración:** 
+- **Inicio de la entrevista:** 19:44
+- **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista2](resources/entrevista2s2.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
@@ -726,12 +726,12 @@ El entrevistado administra 14 hectáreas en total: 8 de palta, 4 de maíz y 2 de
 
 ##### Datos del Entrevistado #3
 
-- **Nombre completo:**
+- **Nombre completo:** Thiago Paucar
 - **Segmento Objetivo:** Agricultor de mediana escala
 - **Edad:**
 - **Distrito:**
-- **Inicio de la entrevista:**
-- **Duración:**
+- **Inicio de la entrevista:** 27:13
+- **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s2.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
