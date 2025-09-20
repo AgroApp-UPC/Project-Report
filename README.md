@@ -88,8 +88,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Integrantes         | Tareas Asignadas |
 | ------------------- | ---------------- |
 | José Chirito        |  Competidores, tabla comparativa de análisis competitivo y estrategias y tácticas de la startup.|
-| Sean Palomares      |                  |
-| Anderson Ventosilla |  Landing Page, deployment, entrevistas, sprint1                |
+| Sean Palomares      |  Entrevistas, Needfinding, Software configuration management, Sprint1                |
+| Anderson Ventosilla |  Landing Page, deployment, entrevistas, sprint1              |
 | Bruce Via           |                  |
 | Angie Yalán         |                  |
 
@@ -1444,11 +1444,182 @@ Web Applications Prototyping web view: _[Web Applications Prototyping](https://w
 
 ### 5.1.1. Software Development Environment Configuration.
 
+- Project Management
+
+  - Google Meet: https://meet.google.com
+
+    Plataforma de videoconferencias usada para reuniones en las que se coordina el avance del trabajo grupal.
+
+  - WhatsApp: https://www.whatsapp.com
+
+    Aplicación de mensajería intstantánea usada para la comunicación del grupo de trabajo.
+
+  - Trello: https://trello.com
+
+    Plataforma para la organización de tareas en equipo mediante tarjetas.
+
+- Requirements Management
+
+  - Structurizr: https://structurizr.com
+
+    Plataforma en linea que facilita la creación de modelos C4.
+
+  <!--TODO: Vertabelo o alternativa-->
+
+- Product UX/UI Design
+
+  - Figma: https://www.figma.com
+
+    Plataforma colaborativa para el diseño de productos y prototipos interactivos.
+
+- Software Development
+
+  - HTML5
+
+    Lenguaje de marcado de hipertexto que su usa para elaborar la estructura de los contenidos de una página web.
+
+  - CSS
+
+    Lenguaje de diseño que permite estilizar los documentos HTML.
+
+  - JavaScript
+
+    Lenguaje de programación utilizado para la creación de funciones interactivas en páginas web.
+
+- Software Deployment
+
+  - GitHub Pages: https://pages.github.com/
+
+    Plataforma que permite el despliegue de un sitio web directamente desde un repositorio de GitHub.
+
+- Software Documentation
+
+  - Git: https://git-scm.com/
+
+    Sistema de codigo abierto que permite controlar diferentes versiones de un mismo proyecto.
+
+  - GitHub: https://github.com/
+
+    Plataforma que permite alojar repositorios y sus múltiples versiones.
+
 ### 5.1.2. Source Code Management.
+
+Para el alojamiento y seguimiento de modificaciones del código se utiliza la herramienta Git en conjunto con la plataforma GitHub. Tambien se utiliza el flujo de trabajo con Gitflow para la gestión de ramas.
+
+Las releases del proyecto se gestionarán siguiendo el esquema de Semantic Versioning 2.0.0 para mantener un versionado claro y coherente
+
+Ramas usadas:
+
+<table>
+  <thead>
+    <tr>
+      <th>Rama</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>main</th>
+      <th>Rama principal y estable del proyecto.</th>
+    </tr>
+    <tr>
+      <th>develop</th>
+      <th>Rama principal de desarrollo donde se integran nuevas funcionalidades estables.</th>
+    </tr>
+    <tr>
+      <th>feature</th>
+      <th>Ramas temporales creadas a partir de develop para trabajar en nuevas funcionalidades.</th>
+    </tr>
+    <tr>
+      <th>hotfix</th>
+      <th>Ramas creadas a partir de master para corregir errores críticos en producción de forma inmediata. Se fusiona con las ramas main y develop.</th>
+    </tr>
+    <tr>
+      <th>release</th>
+      <th>Ramas usadas para preparar una nueva versión estable, se crea desde develop para hacer pruebas finales y correcciones antes de fusionarse en main.</th>
+    </tr>
+  </tbody>
+</table>
+
+Conventional Commits
+
+```
+chore: indica tareas rutinarias de mantenimiento o configuración que no afectan directamente el código de la aplicación.
+docs: cambios en la documentación.
+feat: incorpora una nueva funcionalidad o característica para el proyecto.
+fix: corrección de errores.
+perf: mejoras de rendimiento.
+refactor: reestructuración del código para hacerlo más comprensible.
+revert: deshacer un cambio previo en el código.
+style: ajustes que afectan solo la apariencia o formato del código.
+```
+
+Evidencia de trabajo con Conventional Commits y Gitflow:
+
+<div align="center"><img src="resources/gitflow-evidence.png" alt="gitflow-evidence"></div>
+
+Repositorio en GitHub del informe: https://github.com/AgroApp-UPC/Project-Report
+
+Repositorio en GitHub de la Landing Page:
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+Con el fin de mantener el código claro, legible y consistente en todo el proyecto se adoptarán convenciones de nomenclatura además de estándares que garanticen coherencia y faciliten la colaboración en el equipo.
+
+- HTML
+
+  - Uso de minúsculas para nombres de atributos.
+  - Cerrar todos los elementos HTML
+  - Siempre poner el nombre de los atributos entre comillas dobles.
+  - Especificar ancho, altura y alt para las imágenes.
+  - Nombres de clase en kebab-case.
+
+- CSS
+
+  - Usar nombres con significado que reflejen el propósito del elemento.
+  - Clases en kebab-case
+  - Evitar nombres excesivamente largos
+  - Preferir selectores de clase antes que selectores de ID.
+
+- JavaScript
+  - Uso de camelCase para variables y funciones.
+  - Uso de PascalCase para clases y componentes.
+  - Uso de UPPER_SNAKE_CASE para constantes.
+  - Comentar funciones y clases.
+  - Uso de const y let en lugar de var.
+
 ### 5.1.4. Software Deployment Configuration.
+
+En esta sección se explica el proceso de despliegue de la Landing Page utilizando el servicio **Vercel**, una plataforma que facilita la implementación continua de aplicaciones web con integración directa a GitHub.
+
+**Pasos realizados:**
+
+1. **Conexión con el repositorio:**  
+   Se enlazó el repositorio de la organización en GitHub con la cuenta de Vercel, lo que permitió habilitar el despliegue automático.
+
+   ![Conexión con GitHub](https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless)
+
+2. **Selección del proyecto:**  
+   Se seleccionó el repositorio correspondiente a la Landing Page y se configuró como un nuevo proyecto dentro de Vercel.
+
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418728555025793204/image.png?ex=68cf2d6e&is=68cddbee&hm=a31f1ae93173f26327887a752e7ff74def1e95b4b025315b659f4bd1497eb7c0&=&format=webp&quality=lossless)
+
+3. **Configuración del framework:**  
+   Durante el setup, Vercel detectó el framework **Astro** empleado en el desarrollo. No fue necesario realizar configuraciones adicionales, ya que Vercel cuenta con soporte nativo.
+
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418728951597240361/image.png?ex=68cf2dcc&is=68cddc4c&hm=49bf28cf58625e9ea0f5c6652899bab5117c559e07546b515dce1e78b6608a1f&=&format=webp&quality=lossless)
+
+5. **Deploy automático:**  
+   Con cada cambio realizado en la rama principal del repositorio, Vercel ejecuta automáticamente un nuevo build y despliega la versión actualizada de la Landing Page.
+
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418730308064514151/image.png?ex=68cf2f10&is=68cddd90&hm=f2a8a7acf24d6d4c6e2b43cae9d50b942cd5bbbe036e4998e8f24ec4cd14b6ad&=&format=webp&quality=lossless)
+
+**Resultado:**  
+La Landing Page quedó publicada en un dominio proporcionado por Vercel, garantizando disponibilidad inmediata y actualizaciones automáticas con cada commit al repositorio y disponible en el siguiente enlace:  
+👉 [https://landing-page-j8amn4de5-and12326s-projects.vercel.app/](https://landing-page-j8amn4de5-and12326s-projects.vercel.app/) 
+
+![Resultado de la landing page](https://media.discordapp.net/attachments/814677457042276372/1418729607485460481/image.png?ex=68cf2e69&is=68cddce9&hm=841ba0824bb500322536faf390ce5661b61a754ac973b4b2efbcbe3183312021&=&format=webp&quality=lossless&width=1414&height=771) 
+
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
