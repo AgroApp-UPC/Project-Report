@@ -549,7 +549,7 @@ Agricultores de pequeña y mediana escala
 - Uso tecnológico: Acceso limitado para dispositivos moviles
   <br><br>
 
-### 3. Yaku Solutions
+### 3. Ritec
 
 Especializado en IoT para riego inteligente , con sistemas y sensores de humedad
 
