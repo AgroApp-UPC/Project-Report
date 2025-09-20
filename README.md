@@ -737,6 +737,7 @@ El entrevistado administra 14 hectáreas en total: 8 de palta, 4 de maíz y 2 de
 - **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
+El entrevistador maneja principalmente el cultivo de la papa, zanahoria y tomate en unas 13 hectáreas, controlando riego y nutrientes de forma manual y basándose en su experiencia, con registros mínimos en cuaderno. Sus mayores problemas son el uso excesivo de agua, plagas y enfermedades no detectadas a tiempo, y dificultades para asegurar la nutrición adecuada de sus cultivos. Considera muy útiles las recomendaciones clasificadas por riesgo, alertas preventivas, reportes de producción y un calendario de tareas, y estaría dispuesto a ingresar datos semanalmente y pagar una pequeña suscripción si estas herramientas le ayudan a mejorar la producción y reducir pérdidas.
 
 ### 2.2.3. Análisis de entrevistas.
 
