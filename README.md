@@ -72,8 +72,19 @@
 
 <div>
 
-| Version | Fecha | Autor | Descripción de modificación |
-| ------- | ----- | ----- | --------------------------- |
+| Versión | Fecha      | Autores                            | Descripción de modificación                                                                           |
+| ------- | ---------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1.0     | 04/09/2025 | Angie, José, Sean, Anderson, Bruce | Creación del documento base en formato markdown                                                       |
+| 1.1     | 07/09/2025 | Angie, Sean, Anderson, José, Bruce | Elaboración del Startup Profile y Antecedentes                                                        |
+| 1.2     | 08/09/2025 | Angie, Sean, Anderson, José, Bruce | Desarrollo del Lean UX Process (Problem Statements, Assumptions, Hypothesis, Canvas)                  |
+| 1.3     | 09/09/2025 | Angie, Sean, Anderson, José, Bruce | Diseño de entrevistas y registro de segmentos objetivo                                                |
+| 1.4     | 11/09/2025 | Angie, Sean, Anderson, José, Bruce | Elaboración del Needfinding y primeras entrevistas                                                    |
+| 1.5     | 14/09/2025 | Angie, Sean, Anderson, José, Bruce | Creación de diagramas de componentes y primeras correcciones                                          |
+| 1.6     | 16/09/2025 | Angie, Sean, Anderson, José, Bruce | Desarrollo de Style Guidelines e Information Architecture (Labeling, SEO, Navigation, Searching)      |
+| 1.7     | 17/09/2025 | Angie, Sean, Anderson, José, Bruce | Desarrollo de Landing Page (UI Design, Wireframes y Mock-ups)                                         |
+| 1.8     | 18/09/2025 | Angie, Sean, Anderson, José, Bruce | Elaboración de Web Applications UX/UI Design y Wireframes                                             |
+| 1.9     | 19/09/2025 | Angie, Sean, Anderson, José, Bruce | Desarrollo de Wireflow Diagrams, User Flow Diagrams y evidencia de Sprint 1                           |
+| 1.10    | 20/09/2025 | Angie, Sean, Anderson, José, Bruce | Inclusión de conclusiones de Student Outcome, colaboración del equipo y despliegue de la Landing Page |
 
 </div>
 
