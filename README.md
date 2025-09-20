@@ -741,6 +741,12 @@ El entrevistador maneja principalmente el cultivo de la papa, zanahoria y tomate
 
 ### 2.2.3. Análisis de entrevistas.
 
+En la primera entrevista tenemos a un agricultor de pequeña escala que nos comenta que actualmente controla el riego y la fertilización de sus cultivos de manera manual, basándose en su experiencia y observación del terreno. Esto nos indica que nuestra aplicación podría ser muy útil para este segmento al ofrecer alertas simples y recomendaciones personalizadas, ayudándoles a optimizar el cuidado de sus cultivos sin requerir conocimientos técnicos avanzados.
+
+En la segunda entrevista tenemos a un agricultor de mediana escala que maneja cultivos con fines comerciales y registra información de manera manual. La parte interesante es que nos comenta que le sería útil recibir reportes de rendimiento, recomendaciones clasificadas por riesgo y un calendario de tareas para riego, fertilización y fumigación. Esto nos permite concluir que nuestra app podría ampliar su valor ofreciendo funcionalidades avanzadas de gestión, facilitando la planificación y aumentando la eficiencia de sus cultivos.
+
+En la tercera entrevista tenemos a un agricultor que menciona que le gustaría tener alertas preventivas para evitar pérdidas y recomendaciones basadas en datos como tipo de suelo, cantidad de agua y luz solar. Al presentarle nuestra idea, mostró interés y expresó que la usaría siempre que la interfaz sea intuitiva y fácil de usar. Con esta entrevista aprendemos que la facilidad de uso y la claridad de las alertas son características clave que nuestra aplicación debe priorizar.
+
 ## 2.3. Needfinding.
 
 Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo información relevante para poder identificar, comprender y priorizar las necesidades reales de los agricultores que usarán AgroTech. Las herramientas desarrolladas para el análisis del usuario: User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping.
