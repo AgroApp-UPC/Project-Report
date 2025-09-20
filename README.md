@@ -152,9 +152,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
    4.6.4. [Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)<br>
    4.7. [Software Object-Oriented Design](#47-software-object-oriented-design)<br>
    4.7.1. [Class Diagrams](#471-class-diagrams)<br>
-   4.7.2. [Class Dictionary](#472-class-dictionary)<br>
    4.8. [Database Design](#48-database-design)<br>
-   4.8.1. [Database Diagram](#481-database-diagram)<br>
+   4.8.1. [Database Diagram](#481-database-diagrams)<br>
 5. [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)<br>
    5.1. [Software Configuration Management](#51-software-configuration-management)<br>
    5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration)<br>
