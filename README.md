@@ -202,16 +202,10 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 # Student Outcome
 
-| Criterio específico                                                   | Acciones realizadas                                                                                                                                                        | Conclusiones |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: Mediante las entrevistas presentadas logra comunicar correctamente la diea de nuestro produto a los segmentos objetivos<br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: Gracias a la documentacion y correcta demostracion escrita, se muestra la efectividad de nuestra aplicacion mediante actividades como historias de usuario o diagramas de clase<br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia.  <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
-| Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br><br> **Bruce Via** <br>TB1: Mediante las entrevistas presentadas logra comunicar correctamente la diea de nuestro produto a los segmentos objetivos<br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br><br> **Bruce Via** <br>TB1: Gracias a la documentacion y correcta demostracion escrita, se muestra la efectividad de nuestra aplicacion mediante actividades como historias de usuario o diagramas de clase<br><br> **Angie Yalán** <br>TB1:                                                                                |              |
+| Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia. <br><br> **Sean Palomares** <br>TB1: Realize entrevistas mediante las cuales pude comunicarme con nuestros segmentos objetivos para obtener información valiosa para el desarrollo del proyecto. <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br><br> **Bruce Via** <br>TB1: Mediante las entrevistas presentadas logra comunicar correctamente la idea de nuestro produto a los segmentos objetivos<br><br> **Angie Yalán** <br>TB1: |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: Haciendo uso de la información recolectada por el equipo durante las entrevistas hice el needfinding para conocer mejor a nuestros segmentos objetivos. <br><br> **Anderson Ventosilla** <br>TB1: TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br><br> **Bruce Via** <br>TB1: Gracias a la documentacion y correcta demostracion escrita, se muestra la efectividad de nuestra aplicacion mediante actividades como historias de usuario o diagramas de clase<br><br> **Angie Yalán** <br>TB1:                                                                                    |              |
 
 # Capítulo I: Introducción
 
@@ -234,7 +228,7 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 | Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Foto                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                          |
-| **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |                                                                                          |
+| **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. | <img src="https://i.imgur.com/eEpELa0.png" alt="sean image" width="200">                 |
 | **Jose Chirito:** <br> Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.También tengo conocimiento en varios lenguajes de programación. Y considero que aprendo rápido los temas y el trabajo grupal.                                                                                                                                                                                                                            | <img src="https://files.catbox.moe/qv2dwt.png" alt="jose image" width="200">             |
 | **Bruce Via:** <br> Mi nombre es Bruce Via, tengo 20 años y soy estudiante de la carrera de ingenieria de Software. Me considero uan persona que muestra un interes desmedido cuando lo que hago resulta agradable, dispuesto a aprender nuevos conocimientos incluso si no es necesario, ademas de siempre intentar mejorar en lo que hago demostrando iniciativo                                                                                                      | <img src="https://files.catbox.moe/3km7sr.png" alt="Image Bruce" width=400px>            |
 | **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200">            |
@@ -667,27 +661,31 @@ Preguntas:
 
 - **Nombre completo:** Rosa Chavez
 - **Segmento Objetivo:** Agricultores de pequeña escala
-- **Edad:**
-- **Distrito:**
+- **Edad:** 52
+- **Distrito:** Ayacucho, Peru
 - **Inicio de la entrevista:** 00:18
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1s1.png)
-- **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
+- **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)\_
 
 **Resumen:**
+
+Rosa Chavez, de 50 años, vive en Ayacucho y cultiva principalmente papa junto con verduras como brócoli, lechuga y cebolla en unas 3 hectáreas. Usa abono orgánico de ganado y restos vegetales, guiándose por la experiencia familiar para el riego y la fertilización. Sus mayores dificultades son el clima impredecible, el manejo adecuado del agua y las plagas que a veces no detecta a tiempo. Considera muy útil una aplicación que le brinde recomendaciones según los datos que ingrese, con alertas de riego, cuidados por etapa del cultivo y cambios de clima. Aunque solo usa WhatsApp y YouTube, estaría dispuesta a dedicar 20–30 minutos al día a registrar información siempre que la app sea sencilla.
 
 ##### Datos del Entrevistado #2
 
 - **Nombre completo:** Miguel Rojas
 - **Segmento Objetivo:** Agricultores de pequeña escala
-- **Edad:**
-- **Distrito:**
+- **Edad:** 24
+- **Distrito:** Arequipa, Peru
 - **Inicio de la entrevista:** 05:20
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista2](resources/entrevista2s1.png)
-- **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
+- **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)\_
 
 **Resumen:**
+
+Miguel Rojas, de 24 años, estudiante universitario en Arequipa, cultiva frijol, yuca y algo de papa en un terreno de 400 m², principalmente para consumo familiar y ventas ocasionales. Riega casi a diario con agua de acequia y emplea abono natural hecho en casa, evitando fertilizantes comerciales por su costo. Sus principales retos son la falta de tiempo, la prevención de plagas y la incertidumbre sobre el clima y la salud de las plantas. Valora una aplicación que ofrezca recomendaciones simples basadas en el tipo de suelo, cantidad de agua y luz solar, así como alertas de riego, abono y condiciones climáticas. Maneja aplicaciones con comodidad, pero prefiere un registro rápido de datos que le tome solo unos minutos.
 
 ##### Datos del Entrevistado #3
 
@@ -698,7 +696,7 @@ Preguntas:
 - **Inicio de la entrevista:** 08:49
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s1.png)
-- **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
+- **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)\_
 
 **Resumen:**
 
@@ -715,7 +713,7 @@ Preguntas:
 - **Inicio de la entrevista:** 13:09
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1s2.png)
-- **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
+- **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)\_
 
 **Resumen:**
 
@@ -730,7 +728,7 @@ Preguntas:
 - **Inicio de la entrevista:** 19:44
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista2](resources/entrevista2s2.png)
-- **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
+- **URL del video (Microsoft Stream):** _[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)\_
 
 **Resumen:**
 El entrevistado administra 14 hectáreas en total: 8 de palta, 4 de maíz y 2 de maracuyá, siendo la palta el cultivo más relevante por su alta demanda comercial en supermercados. Recibe apoyo ocasional de un ingeniero agrónomo para la gestión de los cultivos. Actualmente lleva el control mediante registros en Excel (gastos, inventario y seguimiento de cultivos). Su principal dificultad es la falta de información estructurada sobre el uso de recursos y estadísticas comparativas de otros periodos, lo que limita su capacidad de análisis y planificación. Considera muy valioso contar con recomendaciones automatizadas, notificaciones y un calendario agrícola que facilite la gestión y optimización de sus cultivos.
@@ -744,18 +742,69 @@ El entrevistado administra 14 hectáreas en total: 8 de palta, 4 de maíz y 2 de
 - **Inicio de la entrevista:** 27:13
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s2.png)
-- **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
+- **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)\_
 
 **Resumen:**
 El entrevistador maneja principalmente el cultivo de la papa, zanahoria y tomate en unas 13 hectáreas, controlando riego y nutrientes de forma manual y basándose en su experiencia, con registros mínimos en cuaderno. Sus mayores problemas son el uso excesivo de agua, plagas y enfermedades no detectadas a tiempo, y dificultades para asegurar la nutrición adecuada de sus cultivos. Considera muy útiles las recomendaciones clasificadas por riesgo, alertas preventivas, reportes de producción y un calendario de tareas, y estaría dispuesto a ingresar datos semanalmente y pagar una pequeña suscripción si estas herramientas le ayudan a mejorar la producción y reducir pérdidas.
 
 ### 2.2.3. Análisis de entrevistas.
 
-En la primera entrevista tenemos a un agricultor de pequeña escala que nos comenta que actualmente controla el riego y la fertilización de sus cultivos de manera manual, basándose en su experiencia y observación del terreno. Esto nos indica que nuestra aplicación podría ser muy útil para este segmento al ofrecer alertas simples y recomendaciones personalizadas, ayudándoles a optimizar el cuidado de sus cultivos sin requerir conocimientos técnicos avanzados.
+Análisis del Segmento Agricultores de pequeña escala:
 
-En la segunda entrevista tenemos a un agricultor de mediana escala que maneja cultivos con fines comerciales y registra información de manera manual. La parte interesante es que nos comenta que le sería útil recibir reportes de rendimiento, recomendaciones clasificadas por riesgo y un calendario de tareas para riego, fertilización y fumigación. Esto nos permite concluir que nuestra app podría ampliar su valor ofreciendo funcionalidades avanzadas de gestión, facilitando la planificación y aumentando la eficiencia de sus cultivos.
+- Edad:
 
-En la tercera entrevista tenemos a un agricultor que menciona que le gustaría tener alertas preventivas para evitar pérdidas y recomendaciones basadas en datos como tipo de suelo, cantidad de agua y luz solar. Al presentarle nuestra idea, mostró interés y expresó que la usaría siempre que la interfaz sea intuitiva y fácil de usar. Con esta entrevista aprendemos que la facilidad de uso y la claridad de las alertas son características clave que nuestra aplicación debe priorizar.
+  - El 67% de los entrevistados son adultos jovenes.
+  - El 33% de los entrevistados son adultos mayores de 40 años.
+
+- Ubicación:
+
+  - El 67% de los entrevistados viven en zonas andinas.
+  - El 33% de los entrevistados viven en entorno urbano.
+
+- Extensión de cultivo:
+
+  - El 100% de los entrevistados trabajan en espacios menores a 5 hectareas.
+
+- Uso de dispositivos electrónicos:
+
+  - El 100% de los entrevistados tienen celular.
+
+- Tipo de fertilización:
+
+  - El 67% de los entrevistados utilizan abono orgánico.
+
+- Disponibilidad de tiempo para registro de datos:
+
+  - El 67% de los entrevistados dispuestos a dedicar menos de 30 minutos diarios.
+
+Análisis del Segmento Agricultores de mediana escala:
+
+- Edad:
+
+  - El 67% de los entrevistados son adultos jovenes.
+  - El 33% de los entrevistados son adultos mayores de 40 años.
+
+- Ubicación:
+
+  - El 33% de los entrevistados trabajan en zonas agrícolas de provincia.
+
+- Extensión de cultivo:
+
+  - El 67% de los entrevistados manejan extensiones de entre 13 y 14 hectáreas con cultivos comerciales.
+
+- Uso de dispositivos electrónicos:
+
+  - El 33% de los entrevistados utilizan registros digitales para el control de gastos y cultivos.
+
+- Tipo de fertilización:
+
+  - El 100% de los entrevistados emplean fertilización orientada a la producción a gran escala.
+
+- Disponibilidad de tiempo para registro de datos:
+
+  - El 33% de los entrevistados están dispuestos a ingresar datos periódicamente.
+
+- El 33% de los entrevistados está dispuesto a pagar una suscripción si la aplicación ayuda a mejorar la producción y reducir pérdidas.
 
 ## 2.3. Needfinding.
 
@@ -1056,7 +1105,6 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 </table>
 
 **Historias de Usuario para AgroApp**
-
 
 <table>
   <thead>
@@ -2497,14 +2545,16 @@ El diagrama de componentes pone el foco en la arquitectura interna de la API de 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
+
 - Diagrama de clases del proyecto AgroApp
-<img src="resources/Class_Diagram.png" alt="Class Diagram">
+  <img src="resources/Class_Diagram.png" alt="Class Diagram">
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagrams.
+
 - Diagrama de la base de datos del proyecto AgroApp
-<img src="resources/Data_base_diagram.JPG" alt="Data Base Diagram">
+  <img src="resources/Data_base_diagram.JPG" alt="Data Base Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2556,9 +2606,9 @@ El diagrama de componentes pone el foco en la arquitectura interna de la API de 
 
 - Software Deployment
 
-  - GitHub Pages: https://pages.github.com/
+  - Vercel: https://vercel.com/
 
-    Plataforma que permite el despliegue de un sitio web directamente desde un repositorio de GitHub.
+    Plataforma que permite el despliegue de un sitio web.
 
 - Software Documentation
 
@@ -2628,7 +2678,7 @@ Evidencia de trabajo con Conventional Commits y Gitflow:
 
 Repositorio en GitHub del informe: https://github.com/AgroApp-UPC/Project-Report
 
-Repositorio en GitHub de la Landing Page:
+Repositorio en GitHub de la Landing Page: https://github.com/AgroApp-UPC/landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
