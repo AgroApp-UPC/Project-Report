@@ -88,8 +88,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Integrantes         | Tareas Asignadas |
 | ------------------- | ---------------- |
 | José Chirito        |  Competidores, tabla comparativa de análisis competitivo y estrategias y tácticas de la startup.|
-| Sean Palomares      |                  |
-| Anderson Ventosilla | Landing Page, Software Deployment Configuration                 |
+| Sean Palomares      |  Entrevistas, Needfinding, Software configuration management, Sprint1                |
+| Anderson Ventosilla |  Landing Page, deployment, entrevistas, sprint1              |
 | Bruce Via           |                  |
 | Angie Yalán         |                  |
 
@@ -204,8 +204,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Criterio específico                                                   | Acciones realizadas                                                                                                                                                        | Conclusiones |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia.  <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia.  <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
 
 # Capítulo I: Introducción
 
@@ -232,6 +232,7 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 | **Jose Chirito:** <br> Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.También tengo conocimiento en varios lenguajes de programación. Y considero que aprendo rápido los temas y el trabajo grupal.                                                                                                                                                                                                                                                                                                                                                          |    <img src="https://files.catbox.moe/qv2dwt.png" alt="jose image" width="200">                                                                           |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                               |
 | **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200"> |
+| **Anderson Ventosilla:**<br>Mi nombre es Anderson , tengo 21 años , soy estudiante de Ingeniería de Software, apasionado por la tecnología desde muy pequeño. Cuento con conocimientos en el desarrollo frontend y backend, lo que me permite desenvolverme en proyectos de manera integral. Mi interés está en seguir aprendiendo e ir mejorando mis habilidades dia a dia.                                                                                  | <img src="https://avatars.githubusercontent.com/u/74742028?v=4" alt="image" width="200"> |
 
 ## 1.2. Solution Profile
 
@@ -728,8 +729,8 @@ El entrevistado administra 14 hectáreas en total: 8 de palta, 4 de maíz y 2 de
 
 - **Nombre completo:** Thiago Paucar
 - **Segmento Objetivo:** Agricultor de mediana escala
-- **Edad:**
-- **Distrito:**
+- **Edad:** 24
+- **Distrito:** San Juan de Lurigancho
 - **Inicio de la entrevista:** 27:13
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s2.png)
