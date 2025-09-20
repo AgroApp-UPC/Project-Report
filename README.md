@@ -85,13 +85,13 @@ URL del repositorio para el proyecto: https://github.com/AgroApp-UPC/Project-Rep
 
 Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-| Integrantes         | Tareas Asignadas |
-| ------------------- | ---------------- |
-| José Chirito        |  Competidores, tabla comparativa de análisis competitivo y estrategias y tácticas de la startup.|
-| Sean Palomares      |  Entrevistas, Needfinding, Software configuration management, Sprint1                |
-| Anderson Ventosilla |  Landing Page, deployment, entrevistas, sprint1              |
-| Bruce Via           |                  |
-| Angie Yalán         |                  |
+| Integrantes         | Tareas Asignadas                                                                                |
+| ------------------- | ----------------------------------------------------------------------------------------------- |
+| José Chirito        | Competidores, tabla comparativa de análisis competitivo y estrategias y tácticas de la startup. |
+| Sean Palomares      | Entrevistas, Needfinding, Software configuration management, Sprint1                            |
+| Anderson Ventosilla | Landing Page, deployment, entrevistas, sprint1                                                  |
+| Bruce Via           |                                                                                                 |
+| Angie Yalán         |                                                                                                 |
 
 # Contenido
 
@@ -202,12 +202,10 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 # Student Outcome
 
-| Criterio específico                                                   | Acciones realizadas                                                                                                                                                        | Conclusiones |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: Mediante las entrevistas presentadas logra comunicar correctamente la diea de nuestro produto a los segmentos objetivos<br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: <br><br> **Bruce Via** <br>TB1: Gracias a la documentacion y correcta demostracion escrita, se muestra la efectividad de nuestra aplicacion mediante actividades como historias de usuario o diagramas de clase<br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia.  <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br><br> **Bruce Via** <br>TB1: <br><br> **Angie Yalán** <br>TB1: |              |
+| Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br><br> **Bruce Via** <br>TB1: Mediante las entrevistas presentadas logra comunicar correctamente la diea de nuestro produto a los segmentos objetivos<br><br> **Angie Yalán** <br>TB1: |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: <br><br> **Anderson Ventosilla** <br>TB1: TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br><br> **Bruce Via** <br>TB1: Gracias a la documentacion y correcta demostracion escrita, se muestra la efectividad de nuestra aplicacion mediante actividades como historias de usuario o diagramas de clase<br><br> **Angie Yalán** <br>TB1:                                                                                |              |
 
 # Capítulo I: Introducción
 
@@ -215,7 +213,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 ### 1.1.1. Descripción de la Startup
 
-AgroApp es una startup tecnológica orientada a la transformación digital del sector agrícola en el Perú. Nuestro principal producto, AgroApp, es una aplicación web responsive que busca empoderar a agricultores con poca o media experiencia, brindándoles recomendaciones inteligentes, soporte comunitario e integración con dispositivos IoT. Con agroApp, el agricultor podrá mejorar el rendimiento de sus cultivos gracias a un seguimiento personalizado y accesible desde cualquier dispositivo.
+AgroTech es una startup tecnológica orientada a la transformación digital del sector agrícola en el Perú. Nuestro principal producto, AgroApp, es una aplicación web responsive que busca empoderar a agricultores con poca o media experiencia, brindándoles recomendaciones inteligentes, soporte comunitario e integración con dispositivos IoT. Con agroApp, el agricultor podrá mejorar el rendimiento de sus cultivos gracias a un seguimiento personalizado y accesible desde cualquier dispositivo.
 
 **Misión:**
 
@@ -227,21 +225,14 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 
 ### 1.1.2. Perfiles de los integrantes del equipo
 
-| Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Foto |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |      |
-| **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |      |
-|**Bruce Via:** <br> Mi nombre es Bruce Via, tengo 20 años y soy estudiante de la carrera de ingenieria de Software. Me considero uan persona que muestra un interes desmedido cuando lo que hago resulta agradable, dispuesto a aprender nuevos conocimientos incluso si no es necesario, ademas de siempre intentar mejorar en lo que hago demostrando iniciativo|<img src="https://files.catbox.moe/3km7sr.png" alt="Image Bruce" width=400px>|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |      |
-| **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         |      |
-| Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Foto                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                               |
-| **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |                                                                               |
-| **Jose Chirito:** <br> Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.También tengo conocimiento en varios lenguajes de programación. Y considero que aprendo rápido los temas y el trabajo grupal.                                                                                                                                                                                                                                                                                                                                                          |    <img src="https://files.catbox.moe/qv2dwt.png" alt="jose image" width="200">                                                                           |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                               |
-| **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200"> |
-| **Anderson Ventosilla:**<br>Mi nombre es Anderson , tengo 21 años , soy estudiante de Ingeniería de Software, apasionado por la tecnología desde muy pequeño. Cuento con conocimientos en el desarrollo frontend y backend, lo que me permite desenvolverme en proyectos de manera integral. Mi interés está en seguir aprendiendo e ir mejorando mis habilidades dia a dia.                                                                                  | <img src="https://avatars.githubusercontent.com/u/74742028?v=4" alt="image" width="200"> |
+| Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Foto                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                          |
+| **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |                                                                                          |
+| **Jose Chirito:** <br> Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.También tengo conocimiento en varios lenguajes de programación. Y considero que aprendo rápido los temas y el trabajo grupal.                                                                                                                                                                                                                            | <img src="https://files.catbox.moe/qv2dwt.png" alt="jose image" width="200">             |
+| **Bruce Via:** <br> Mi nombre es Bruce Via, tengo 20 años y soy estudiante de la carrera de ingenieria de Software. Me considero uan persona que muestra un interes desmedido cuando lo que hago resulta agradable, dispuesto a aprender nuevos conocimientos incluso si no es necesario, ademas de siempre intentar mejorar en lo que hago demostrando iniciativo                                                                                                      | <img src="https://files.catbox.moe/3km7sr.png" alt="Image Bruce" width=400px>            |
+| **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200">            |
+| **Anderson Ventosilla:**<br>Mi nombre es Anderson , tengo 21 años , soy estudiante de Ingeniería de Software, apasionado por la tecnología desde muy pequeño. Cuento con conocimientos en el desarrollo frontend y backend, lo que me permite desenvolverme en proyectos de manera integral. Mi interés está en seguir aprendiendo e ir mejorando mis habilidades dia a dia.                                                                                            | <img src="https://avatars.githubusercontent.com/u/74742028?v=4" alt="image" width="200"> |
 
 ## 1.2. Solution Profile
 
@@ -696,20 +687,12 @@ Preguntas:
 
 - **Nombre completo:** Carmen Díaz
 - **Segmento Objetivo:** Agricultores de pequeña escala
-- **Edad:**
-- **Distrito:**
+- **Edad:** 28 años
+- **Distrito:** Cercado de Lima, Perú
 - **Inicio de la entrevista:** 08:49
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista3](resources/entrevista3s1.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:** 28 años
-- **Distrito:** Cercado de Lima, Perú
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista3]()
-- **URL del video (Microsoft Stream):** _[Entrevista 03]()_
 
 **Resumen:**
 
@@ -719,24 +702,17 @@ Preguntas:
 
 ##### Datos del Entrevistado #1
 
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:** 52 años
-- **Distrito:** Caraz, Ancash, Perú
-- **Inicio de la entrevista:**
-- **Duración:**
-- **Screenshot del cuadro de video:** ![Entrevista1]()
-- **URL del video (Microsoft Stream):** _[Entrevista 01]()_
 - **Nombre completo:** Walter Sanchez
 - **Segmento Objetivo:** Agricultor de mediana escala
-- **Edad:**
-- **Distrito:**
+- **Edad:** 52 años
+- **Distrito:** Caraz, Ancash, Perú
 - **Inicio de la entrevista:** 13:09
 - **Duración:** 31:26
 - **Screenshot del cuadro de video:** ![Entrevista1](resources/entrevista1s2.png)
 - **URL del video (Microsoft Stream):** _[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/EeafUKILLfdHpZwk0nw2p34BgPkvxITk_-EUY3ugoWZoDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BJ4UUe)_
 
 **Resumen:**
+
 - Walter Sanchez, de 52 años, ingeniero agronomo al cuidado de diferentes cultivos de diferentes empresas, principalmente productoras de arandanos y sugar pees, menciona como su mayor problema es que mantener un registro de los diferentes cultivos en diferentes fechas resulta complicado debido a que no se suele manejar registros organizados, siendo muchas veces registros porco ortodoxos o informales lo cual desemboca en cosechas menos productivas. Sobre todo menciona como quisiera que esta posible aplicacion sea facil e intuitiva de usar para los agricultores, ya que un problema de trabajar en provincia, en sus palabras, es que la automatizacion resulta dificil debido a la falta de profesionales.
 
 ##### Datos del Entrevistado #2
@@ -1075,6 +1051,359 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 **Historias de Usuario para AgroApp**
 
+
+<table>
+  <thead>
+    <tr>
+      <th> Storie ID</th>
+      <th> Titulo</th>
+      <th> Descripción</th>
+      <th> Acceptance Criteria</th> 
+      <th> Epic ID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th> 01</th>
+      <th> Registro de cuenta </th>
+      <th> Como usuario, quiero registrarme en la aplicacion, para acceder a sus funciones</th>
+      <th> Scenario 1: Registro correcto <br>
+      Given el usuario ha ingresado los datos <br>
+      When el usuario presiona el boton "Create Account" <br>
+      Then la cuenta es creada exitosamente y se accede a la aplicacion <br>
+      <br>
+      Scenario 2: Registro incorrecto<br>
+      Given el usuario no ha ingresado ningun dato <br>
+      When el usuario presiona el boton "Create Account" <br>
+      Then el sistema muestra un mensaje de campos incompletos <br> 
+      </th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 02</th>
+      <th> Inicio de Sesión </th>
+      <th> Como usuario, quiero iniciar sesion, para acceder a mi cuenta</th>
+      <th> Scenario 1: Login Exitoso <br>
+      Given el usuario ingrese sus datos de cuenta correctamente<br>
+      When el usuario presione el boton "Iniciar Sesión" <br>
+      Then el sistema abrira la sesion del usuario con sus datos <br>
+      <br>
+      Scenario 2: Login Fallido <br>
+      Given el usuario ingrese datos incorrectos <br>
+      When el usuario presione el boton "Inciar Sesion"<br>
+      Then el sistema negara el acceso e indicara un mensaje de datos erroneos<br><br>
+      Scenario 3: Cerrar sesion<br>
+      Given el usuario ingrese a su perfil<br>
+      When el usuario presione el boton "Cerrar Sesion"<br>
+      Then el sistema cerrar la sesion del usuario
+      <th>01</th>
+      </th>
+    </tr>
+    <tr>
+      <th> 03</th>
+      <th> Recuperar Contraseña </th>
+      <th> Como usuario, quiero recuperar la contraseña de mi cuenta, para recuperar el acceso a ella en caso se me olvide </th>
+      <th>Scenario 1: Pedir contraseña <br>
+      Given el usuario no recuerde la contraseña de su cuenta<br>
+      When el usuario presione el boton de "Recuperar contraseña"<br>
+      Then el sustema iniciaria el proceso para recuperar o reemplazar su anterior contraseña<br>
+      </th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 04</th>
+      <th> Editar perfil </th>
+      <th> Como usuario, quiero modificar mi perfil, para mantenerlo actualizado todo el tiempo </th>
+      <th>Scenario 1: Acceso a la ediion<br>
+      Given el usuario esta en al seccion "Mi Perfil"<br>
+      When el usuario presione el boton "Editar Perfil"<br>
+      Then el sistema iniciara el formulario de datos editables del perfil de usuario<br><br>
+      Scenario 2: Edicion de Perfil<br>
+      Given el usuario esta en el formulario de editar perfil<br>
+      When el usuario modifique los datos que desee<br>
+      Then el sistema lo actualizara y su perfil mostrara los nuevos datos<br>
+      </th>
+      <th>01</th>
+    </tr>
+    <tr>
+      <th> 05</th>
+      <th> Registrar cultivos</th>
+      <th> Como agricultor, quiero registrar diferentes cultivos, para mantener un registro a mi alcance </th>
+      <th>Scenario 1: Registrar cultivo<br>
+      Given el agricultor quiere registrar un ultivo en la aplicacion <br>
+      When el agricultor seleccione el boton "Agregar Cultivo"<br>
+      Then el sistema abrira un formulario para llenar con los datos de su cultivo<br>
+      </th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> 06</th>
+      <th> Eliminar cultivos</th>
+      <th> Como agricultor, quiero eliminar los cultivos que desee, para mantener un registro actualizado </th>
+      <th>Scenario 1: Eliminar cultivo<br>
+      Given el agricultor desee eliminar un ultivo previamente registrado <br>
+      When el agricultor este en el cultivo que desee eliminar<br>
+      When el agricultor presione el boton "Elimar Cultivo"<br>
+      Then el sistema eliminara el registro del cultivo con toda su informacion<br>
+      </th>
+      <th>02</th>
+    <tr>
+      <th> 07</th>
+      <th> Editar cultivos</th>
+      <th> Como agricultor, quiero editar los cultivos que tenga registrados, para asegurarme que siempre esten actualizados </th>
+      <th>Scenario 1: Formulario de edicion<br>
+      Given el agricultor se encuentre en el registro del cultivo deseado <br>
+      When el agricultor presione el boton "Editar Cultivo"<br>
+      Then el sistema abrira un registro para editar datos del cultivo<br>
+      <br>
+      Scenario 2: Edicion de cultivo
+      Given el agricultor se encuentre en el formulario de edicion <br>
+      When el agricultor cambie los datos que desee<br>
+      When el agricultor presione el boton "Actualizar Cultivo"
+      Then el sistema actualizara los datos<br>
+      </th>
+      <th>02</th>
+    </tr>
+    <tr>
+      <th> 08</th>
+      <th> Peticion de evaluacion </th>
+      <th> Como agricultor, quiero pedir una revision, para comprobar si el estado de mis cultivos es el adecuado </th>
+      <th>Scenario 1: Llamado de evaluacion<br>
+      Given el agricultor este en el cultivo que desee pedir una revision<br>
+      When el agricultor presione el boton "Pedir Revision"<br>
+      Then el sistema iniciara una proceso de evaluacion con un asesor
+      </th>
+      <th>03</th>
+    <tr>
+      <th> 09</th>
+      <th> Recepción de evaluación </th>
+      <th> Como agricultor, quiero recibir una evaluacion de mi cultivo, para identificar problemas de mi cultivo</th>
+      <th>Scenario 1: Llegada de evaluación<br>
+      Given el usuario pidio una evaluacion de forma previa<br>
+      When el sistema envie una evaluaion acorde al cultivo que el agricultor haya seleccionado<br>
+      Then el usuario podra ver la evaluacion <br>
+      </th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th>10</th>
+      <th> Pago por evaluaciones </th>
+      <th> Como usuario, quiero pagar por una evaluacion de mi cultivo para asegurar un trabajo de calidad </th>
+      <th>Scenario 1: Pago realizado<br>
+      Given el usuario pidio una evaluacion previamente<br>
+      When el sistema informe que la evaluacion ya esta lista<br>
+      Then el sistema mostrara metodos de pago para recibir la evaluacion<br>
+      </th>
+      <th>03</th>
+    </tr>
+    <tr>
+      <th> 11</th>
+      <th> Señalaciones </th>
+      <th> Como agricultor, quiero ver la señalaciones en mis cultivos, para saber si algo puede estar mal</th>
+      <th>Scenario 1: Visualizacion de señales<br>
+      Given el usuario ya recibio una evaluacion de su cultivo<br>
+      When el usuario acceda a su cultivo<br>
+      Then el sistema mostrara señalaciones en partes de su registro que puedan necesitar cambios
+      </th>
+      <th>04</th>
+    </tr>
+    <tr>
+      <th> 12</th>
+      <th> Datos adicionales </th>
+      <th> Como agricultor, quiero señalar si mi cultivo tiene caracteristias adicionales, para recibir mejor informacion </th>
+      <th>Scenario 1: Señalar datos <br>
+      Given el agricultor esta registrando su cultivo<br>
+      When el agriculto presione el boton "Cuidados Adicionales"<br>
+      Then el sistema abrira una formulario que permita señalar nuevos datos<br>
+      <br>
+      Scenario 2: Eleccion de datos<br>
+      Given el agriculto señalo la opcion "Cuidados adicionales"<br>
+      When el sistema muestre formularios adiionales<br>
+      Then el agriultor podra señalar que cuidados necesitara<br>
+      </th>
+      <th>04</th>
+    </tr>
+    <tr>
+      <th> 13</th>
+      <th> Notificacion de riego </th>
+      <th> Como agricultor, quiero recibir recordatorios en forma de mensajes, para saber cuando regar mis cultivos </th>
+      <th>Scenario 1: Activar recordatorios<br>
+      Given el agricultor registro en los datos los dias de cultivo<br>
+      When el sistema detecte el dia de riego<br>
+      Then el sistema mandara recordatorios mediante señalando el dia de riego<br>
+      <br>
+      Scenario 2: Desactivar recordatorios<br>
+      Given el agricultor registro en los datos los dias de cultivo<br>
+      When el usuario no quiera recibir recordatorios<br>
+      And el usuario marque la opcion "No recibir recordatorio"<br>
+      Then el sistema no enviara recordatorios<br>
+      </th>
+      <th>05</th>
+    </tr>
+    <tr>
+      <th> 14</th>
+      <th> Recordatorio de datos del cultivo</th>
+      <th> Como agricultor, quiero recibir recordatorios de los datos de mi cultivo, en caso necesite actualizarlos </th>
+      <th>Scenario 1: Recordatorio de datos<br>
+      Given el usuario ya registro su cultivo<br>
+      When el sistema detecte que ha pasado demasiado tiempo<br>
+      Then el sistema enviara un recordatorio sobre los datos del cultivo en caso necesiten un cambio<br>
+      </th>
+      <th>05</th>
+    </tr>
+    <tr>
+      <th> 15</th>
+      <th> Gestionar usuarios </th>
+      <th> Como administrador, quiero verifiar y gestionar a los usuarios registrados, para una correcta administracion de la aplicacion </th>
+      <th>Scenario 1: Acceso a gestion<br>
+      Given el adminitrador ingrese al sistema <br>
+      And el administrador inicie la sesion<br>
+      When el administrador entre al modulo de gestion de usuarios<br>
+      Then el sistema mostrara una lista de todos los usuarios registrados<br>
+      </th>
+      <th>06</th>
+    </tr>
+    <tr>
+      <th> 16</th>
+      <th> Bloqueo de cuenta </th>
+      <th> Como administrador, quiero asegurar el acceso al perfil de los usuarios, para mantener su informacion segura </th>
+      <th>Scenario 1: Acceso bloqueado<br>
+      Given el sistema detecta un ingreso fallido a una cuenta<br>
+      When el sistema detecte mas de 10 intentos fallidos de aeder a una cuenta<br>
+      Then el sistema bloqueara el acceso a la cuenta por un tiempo definido<br>
+      </th>
+      <th>06</th>
+    </tr>
+    <tr>
+      <th> 17</th>
+      <th> Creacion de historial </th>
+      <th> Como agricultor, quiero acceder a un historial de los cambios del cultivo para mantener un registro detallado </th>
+      <th>Scenario 1: Historial creado<br>
+      Given el agricultor realizo una edicion de su cultivo en la aplicacion<br>
+      When el agricultor este por guardar el cambio <br>
+      Then el sistema creara un historial y lo enviara al agricultor
+      </th>
+      <th>07</th>
+    </tr>
+    <tr>
+      <th> 18</th>
+      <th> Atajos sencillos </th>
+      <th> Como usuario, quiero tener acceso a atajos de organización para
+      una mejor navegación dentro de la aplicacion </th>
+      <th>Scenario 1: Regreso al inicio<br>
+      Given el usuario quiere regresar a la sección de “Inicio”<br>
+      When el usuario presione el logo del producto<br>
+      Then se regresará a la sección de “Inicio” nuevamente cargada<br>
+      </th>
+      <th>09</th>
+    </tr>
+    <tr>
+      <th> 19</th>
+      <th> Disponibilidad de sistema </th>
+      <th> Como usuario, quiero un sistema que esté disponible en cualquier
+      hora para acceder cuando quiero sin problema de disponibilidad o
+      mantenimiento</th>
+      <th>Scenario 1: Uso del sistema<br>
+      Given el usuario necesite usar el sistema<br>
+      When el usuario ingrese a la página del producto<br>
+      Then entrara con normalidad sin problemas de coneccion o
+      soporte<br>
+      </th>
+      <th>09</th>
+    </tr>
+    <tr>
+      <th> 20</th>
+      <th> Visualizar página de inicio </th>
+      <th> Como usuario, quiero visualizar una página de inicio clara para
+      comprender rápidamente de qué trata AgroApp. </th>
+      <th>Scenario 1: Acceso a la página principal<br>
+      Given  el usuario accede al landing page de AgroApp<br>
+      When el sistema cargue la página <br>
+      Then el sistema mostrara el nombre del producto, una descripción
+      breve y una pagina correctamente diseñada.<br>
+      </th>
+      <th>10</th>
+    </tr>
+    <tr>
+      <th> 21</th>
+      <th> Navegación desde el footer </th>
+      <th> Como usuario, quiero acceder a enlaces de navegación en el footer
+      para moverme entre secciones fácilmente </th>
+      <th>Scenario 1: Acceso a secciones desde el footer<br>
+      Given el usuario está visualizando el footer<br>
+      When haga clic en un enlace de sección (Inicio, Características, etc)<br>
+      Then será desplazado automáticamente a la sección correspondiente del landing.
+      </th>
+      <th>10</th>
+    </tr>
+  </tbody>
+</table>
+
+**Epicas para AgroApp**
+
+<table>
+  <thead>
+    <tr>
+      <th> EPIC (ID)</th>
+      <th> Titulo</th>
+      <th> Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th> 01</th>
+      <th> Gestion de usuarios </th>
+      <th> Como usuario de AgroApp, quiero crear un perfil, modificarlo, abrir y cerrar sension en cualquier dispositivo y recuperar la contraseña de mi cuenta para crear mi identidad dentro de la aplicacion y acceder a sus funcionalidades. </th>
+    </tr>
+    <tr>
+      <th> 02</th>
+      <th> Publicacion de Cultivos </th>
+      <th> Como usuario de AgroApp, quier crear, eliminar y editar cultivos para tener un control de ellos en tiempo real y actualizado usando las funcionalidades de AgroApp.  </th>
+    </tr>
+    <tr>
+      <th> 03</th>
+      <th> Evaluaciones de cultivos </th>
+      <th> Como usuario a AgroApp, quiero pedir y recibir evaluaciones de los cultivos que sienta que puedan mejorar para evitar perdidas o una posible muerte de los cultivos por un mal cuidado del que no sepa. </th>
+    </tr>
+    <tr>
+      <th> 04</th>
+      <th> Mantenimiento de cultivos </th>
+      <th> Como usuario de AgroApp, quiero señalar y recibir señales de datos que necesiten mantenimiento en mi cultivo para asi enfocarme en mejorar y revisar evitando perdidas. </th>
+    </tr>
+    <tr>
+      <th> 05</th>
+      <th> Notificaciones de estado del cultivo</th>
+      <th> Como usuario de AgroApp, quiero recibir notificaciones personalizadas y adaptadas a mis cultivos para no olvidar los cuidados o si muchos de sus datos estan desactualizados antes de perdir una evaluacion. </th>
+    </tr>
+    <tr>
+      <th> 06</th>
+      <th> Seguridad de informacion </th>
+      <th> Como administrador de AgroApp, quiero gestionar y cuidar el perfil de mis usuario, para asegurar su estadia dentro de la aplicacion y no sientan un riesgo de ssu datos al navegar dentro de ella. </th>
+    </tr>
+    <tr>
+      <th> 07</th>
+      <th> Historial de cultivo </th>
+      <th> Como usuario de AgroApp, quiero tener un historial actualizado de los cambios y modificaciones que pueda hacerle a mi cultivo, para saber en que paso pudo cambiar el rendimiento de mi cultivo. </th>
+    </tr>
+    <tr>
+      <th> 08</th>
+      <th> Verificacion de identidad </th>
+      <th> Como administrador de AgroApp, quiero un sistema de verificacion de identidades de mis usuarios, para asegurarme de que no existan cuentas duplicadas o falsificadores de identidad. </th>
+    </tr>
+    <tr>
+      <th> 09</th>
+      <th> Accesibilidad  </th>
+      <th> Como usuario de AgroApp, quiero funcionalidades que ayuden a que la aplicacion sea mas accesible en aspectos como color, configuracion y optimizacion para no tener problemas durante su uso. </th>
+    </tr>
+    <tr>
+      <th> 10</th>
+      <th> User Experience en la Landing Page </th>
+      <th> Como usuario de AgroApp, quiero navegar por una Landing Page con una experiencia de usuario fluida y agil, para verificar y experimentar sus funcionalidades y el acceso a la informacion util del producto. </th>
+    </tr>
+  </tbody>
+</table>
+
+**Historias de Usuario para AgroApp**
 
 <table>
   <thead>
@@ -2342,55 +2671,236 @@ En esta sección se explica el proceso de despliegue de la Landing Page utilizan
 
    ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418728951597240361/image.png?ex=68cf2dcc&is=68cddc4c&hm=49bf28cf58625e9ea0f5c6652899bab5117c559e07546b515dce1e78b6608a1f&=&format=webp&quality=lossless)
 
-5. **Deploy automático:**  
+4. **Deploy automático:**  
    Con cada cambio realizado en la rama principal del repositorio, Vercel ejecuta automáticamente un nuevo build y despliega la versión actualizada de la Landing Page.
 
    ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418730308064514151/image.png?ex=68cf2f10&is=68cddd90&hm=f2a8a7acf24d6d4c6e2b43cae9d50b942cd5bbbe036e4998e8f24ec4cd14b6ad&=&format=webp&quality=lossless)
 
 **Resultado:**  
 La Landing Page quedó publicada en un dominio proporcionado por Vercel, garantizando disponibilidad inmediata y actualizaciones automáticas con cada commit al repositorio y disponible en el siguiente enlace:  
-👉 [https://landing-page-j8amn4de5-and12326s-projects.vercel.app/](https://landing-page-j8amn4de5-and12326s-projects.vercel.app/) 
+👉 [https://landing-page-j8amn4de5-and12326s-projects.vercel.app/](https://landing-page-j8amn4de5-and12326s-projects.vercel.app/)
 
-![Resultado de la landing page](https://media.discordapp.net/attachments/814677457042276372/1418729607485460481/image.png?ex=68cf2e69&is=68cddce9&hm=841ba0824bb500322536faf390ce5661b61a754ac973b4b2efbcbe3183312021&=&format=webp&quality=lossless&width=1414&height=771) 
-
+![Resultado de la landing page](https://media.discordapp.net/attachments/814677457042276372/1418729607485460481/image.png?ex=68cf2e69&is=68cddce9&hm=841ba0824bb500322536faf390ce5661b61a754ac973b4b2efbcbe3183312021&=&format=webp&quality=lossless&width=1414&height=771)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
-#### 5.2.X.2. Aspect Leaders and Collaborators.
+En esta sección se detalla la reunion de planificación para iniciar con el desarrollo de la Landing Page de AgroApp.
 
-#### 5.2.X.3. Sprint Backlog n.
+<table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-09-13</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>11:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Ventosilla Trujillo, Anderson Ricardo</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Chirito Torres, Jose Raul<br>Palomares Andrade, Sean Farith<br>Ventosilla Trujillo, Anderson Ricardo<br>Via Luna, Bruce<br>Yalán Zhang, Angie Christina</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Review Summary</td>
+    <td>No aplica por ser primer Sprint</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Retrospective Summary</td>
+    <td>No aplica por ser primer Sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint n Goal </td>
+    <td>Nuestro enfoque es desarrollar el Landing Page de AgroApp. Creemos que dará confianza a los usuarios de ambos segmentos objetivos. Esto será confirmado cuando los usuarios tengan conocimiento de todas las funciones y beneficios que tiene la plataforma con solo mirar nuestro Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>2 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>2</td>
+  </tr>
+</table>
 
-#### 5.2.X.4. Development Evidence for Sprint Review.
+#### 5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+<table border="1">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Visualizar página de inicio (L) / Collaborator (C)</th>
+    <th>Navegación desde el footer Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Chirito Torres, Jose Raul</td>
+    <td>JoseR044</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomares Andrade, Sean Farith</td>
+    <td>Sean6513201</td>
+    <td>C</td>
+    <td>C</td>
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+  </tr>
+  <tr>
+    <td>Ventosilla Trujillo, Anderson Ricardo</td>
+    <td>aNd12326</td>
+    <td>L</td>
+    <td>L</td>
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+  </tr>
+  <tr>
+    <td>Via Luna, Bruce</td>
+    <td>Shukaritas</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Yalán Zhang, Angie Christina</td>
+    <td>aaaaangie</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.3. Sprint Backlog 1.
 
-## 5.3. Validation Interviews.
+<table border="1">
+  <tr>
+    <th colspan="8">Sprint # Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr>
+    <td>US-20</td>
+    <td>Visualizar página de inicio	</td>
+    <td>01</td>
+    <td>Crear Landing Page</td>
+    <td>Proporcionar una visión clara los servicios y beneficios que ofrece AgroApp</td>
+    <td>1</td>
+    <td>Anderson</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-21</td>
+    <td>Navegación desde el footer	</td>
+    <td>02</td>
+    <td>Crear footer</td>
+    <td>Permitir a los usuarios conocer la información de contacto y volver al inicio del Landing Page</td>
+    <td>1</td>
+    <td>Anderson</td>
+    <td>Done</td>
+  </tr>
+</table>
 
-### 5.3.1. Diseño de Entrevistas.
+Sprint Backlog en Trello: https://trello.com/invite/b/68c704486754278db2e2e5f2/ATTIaed303ed0acbdc274fd831ff943e93dbFEAEEDF8/agroapp
 
-### 5.3.2. Registro de Entrevistas.
+#### 5.2.1.4. Development Evidence for Sprint Review.
 
-### 5.3.3. Evaluaciones según heurísticas.
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit</th>
+    <th>Date</th>
+ 
+  </tr>
+  <tr>
+    <td>AgroApp-UPC/Project-Report</td>
+    <td>main</td>
+    <td>59fb115</td>
+    <td>initial commit</td>
+    <td>2025-09-17</td>
+  </tr>
+  <tr>
+    <td>AgroApp-UPC/Project-Report</td>
+    <td>main</td>
+    <td>df5cd27</td>
+    <td>feat:landing page</td>
+    <td>2025-09-18</td>
+  </tr>
+</table>
 
-## 5.4. Video About-the-Product.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Para este primer sprint se implemento el Landing Page de AgroApp tiendo como objetivo lograr una experiencia de navegación intuitiva y un facil entiendimiento de información.
+
+- Vista inicial del Landing Page:
+
+<div align="center"><img src="resources/landing-page-execution1.png" alt="execution-evidence-landing-page"></div>
+
+- Información sobre los Planes:
+
+<div align="center"><img src="resources/landing-page-execution2.png" alt="execution-evidence-landing-page"></div>
+
+- Sección de Contacto:
+
+<div align="center"><img src="resources/landing-page-execution3.png" alt="execution-evidence-landing-page"></div>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Este primer Sprint está enfocado al desarrollo y despliegue de nuestro Landing Page. Por ello no se incluye la relación de Endpoints documentados con OpenAPI.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Durante este primer Sprint los procesos de deployment realizados fueron exclusivamente para el Landing Page mediante Vercel.
+
+Para empezar se accedió al apartado Pages de la configuración del repositorio.
+
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless&width=1356&height=845" alt="deployment-evidence/repo-configuration"></div>
+
+Se seleccionó la rama main para el despliegue.
+
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418730236371013663/image.png?ex=68cf2eff&is=68cddd7f&hm=6292db7943bc272304e7746bc9f8c6d92671f08f53670bf38e80ffba100045bb&=&format=webp&quality=lossless&width=1127&height=875" alt="deployment-evidence/branch-selection"></div>
+
+Muestra de la organizacion, donde se encuentra el repositorio de la landing page.
+
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418738604901142660/image.png?ex=68cf36ca&is=68cde54a&hm=13a2b49713f055b08f014660590294f8d9c55e0f3b3e5a967f36efcab9c8817e&=&format=webp&quality=lossless&width=1369&height=771" alt="deployment-evidence/branch-selection"></div>
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En este sprint las teareas de desarrollo y despliegue del Landing Page fueron llevadas a cabo por Anderson Ventosilla.
+
+Analíticos de colaboración y commits en GitHub.
+
+<div align="center"><img src="resources/sprint1-collaboration-analytics.png" alt="deployment-evidence/sprint1-collaboration-analytics"></div>
 
 # Conclusiones
 
-# Conclusiones y recomendaciones.
-
-# Video About-the-Team.
-
-# Bibliografía
+# Bibliografía.
 
 Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf <br>
 Castillo, P. (2021). _Perú. Informe país de la agricultura familiar campesina e indígena._ https://www.fao.org/family-farming/detail/es/c/1644367/ <br>
