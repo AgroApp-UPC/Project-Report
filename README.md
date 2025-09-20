@@ -2572,6 +2572,8 @@ Para este primer sprint se implemento el Landing Page de AgroApp tiendo como obj
 
 <div align="center"><img src="resources/landing-page-execution3.png" alt="execution-evidence-landing-page"></div>
 
+**Video sobre landing page:** https://youtu.be/7E-qTN7gIjI
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Este primer Sprint está enfocado al desarrollo y despliegue de nuestro Landing Page. Por ello no se incluye la relación de Endpoints documentados con OpenAPI.
