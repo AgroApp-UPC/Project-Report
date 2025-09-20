@@ -1670,11 +1670,11 @@ En esta sección se detalla la reunion de planificación para iniciar con el des
   </tr>
   <tr>
     <td>Sprint n Velocity</td>
-    <td>X Story Points</td>
+    <td>2 Story Points</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>X</td>
+    <td>2</td>
   </tr>
 </table>
 
@@ -1684,44 +1684,40 @@ En esta sección se detalla la reunion de planificación para iniciar con el des
   <tr>
     <th>Team Member (Last Name, First Name)</th>
     <th>GitHub Username</th>
-    <th>Aspect Name 1 Leader (L) / Collaborator (C)</th>
-    <th>Aspect Name 2 Leader (L) / Collaborator (C)</th>
-    <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
+    <th>Visualizar página de inicio (L) / Collaborator (C)</th>
+    <th>Navegación desde el footer Leader (L) / Collaborator (C)</th>
   </tr>
   <tr>
     <td>Chirito Torres, Jose Raul</td>
     <td>JoseR044</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Palomares Andrade, Sean Farith</td>
     <td>Sean6513201</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>C</td>
+
   </tr>
   <tr>
     <td>Ventosilla Trujillo, Anderson Ricardo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>aNd12326</td>
+    <td>L</td>
+    <td>L</td>
+
   </tr>
   <tr>
     <td>Via Luna, Bruce</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Shukaritas</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Yalán Zhang, Angie Christina</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>aaaaangie</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
 </table>
 
@@ -1746,36 +1742,28 @@ En esta sección se detalla la reunion de planificación para iniciar con el des
     <th>Status (To-do/In-Process/To-Review/Done)</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>US-20</td>
+    <td>Visualizar página de inicio	</td>
+    <td>01</td>
+    <td>Crear Landing Page</td>
+    <td>Proporcionar una visión clara los servicios y beneficios que ofrece AgroApp</td>
+    <td>1</td>
+    <td>Anderson</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>US-21</td>
+    <td>Navegación desde el footer	</td>
+    <td>02</td>
+    <td>Crear footer</td>
+    <td>Permitir a los usuarios conocer la información de contacto y volver al inicio del Landing Page</td>
+    <td>1</td>
+    <td>Anderson</td>
+    <td>Done</td>
   </tr>
 </table>
+
+Sprint Backlog en Trello: https://trello.com/invite/b/68c704486754278db2e2e5f2/ATTIaed303ed0acbdc274fd831ff943e93dbFEAEEDF8/agroapp
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
@@ -1785,52 +1773,40 @@ En esta sección se detalla la reunion de planificación para iniciar con el des
     <th>Branch</th>
     <th>Commit Id</th>
     <th>Commit</th>
-    <th>Commit</th>
-    <th>Commited</th>
+    <th>Date</th>
+ 
   </tr>
   <tr>
     <td>AgroApp-UPC/Project-Report</td>
     <td>main</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>59fb115</td>
+    <td>initial commit</td>
+    <td>2025-09-17</td>
   </tr>
   <tr>
     <td>AgroApp-UPC/Project-Report</td>
-    <td>develop</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>AgroApp-UPC/Project-Report</td>
-    <td>develop</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>AgroApp-UPC/Project-Report</td>
-    <td>develop</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>AgroApp-UPC/Project-Report</td>
-    <td>develop</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>main</td>
+    <td>df5cd27</td>
+    <td>feat:landing page</td>
+    <td>2025-09-18</td>
   </tr>
 </table>
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Para este primer sprint se implemento el Landing Page de AgroApp tiendo como objetivo lograr una experiencia de navegación intuitiva y un facil entiendimiento de información.
+
+- Vista inicial del Landing Page:
+
+<div align="center"><img src="resources/landing-page-execution1.png" alt="execution-evidence-landing-page"></div>
+
+- Información sobre los Planes:
+
+<div align="center"><img src="resources/landing-page-execution2.png" alt="execution-evidence-landing-page"></div>
+
+- Sección de Contacto:
+
+<div align="center"><img src="resources/landing-page-execution3.png" alt="execution-evidence-landing-page"></div>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
