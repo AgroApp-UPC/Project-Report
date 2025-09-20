@@ -22,7 +22,7 @@
    <center><b>Profesor:</b> Rafael Oswaldo Castro Veramendi </center>
 
    <br>
-   <center><b>Nombre del StartUp:</b> </center>
+   <center><b>Nombre del StartUp:</b> AgroTech </center>
    <br>
 
    <center><b>Nombre del Producto:</b> AgroApp</center>
