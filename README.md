@@ -85,13 +85,13 @@ URL del repositorio para el proyecto: https://github.com/AgroApp-UPC/Project-Rep
 
 Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-| Integrantes         | Tareas Asignadas                                                                                |
-| ------------------- | ----------------------------------------------------------------------------------------------- |
-| José Chirito        | Competidores, tabla comparativa de análisis competitivo y estrategias y tácticas de la startup. |
-| Sean Palomares      | Entrevistas, Needfinding, Software configuration management, Sprint1                            |
-| Anderson Ventosilla | Landing Page, deployment, entrevistas, sprint1                                                  |
-| Bruce Via           |                                                                                                 |
-| Angie Yalán         |                                                                                                 |
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
+| ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| José Chirito        | Competidores, tabla comparativa de análisis competitivo y estrategias y tácticas de la startup.                                                                                                                                 |
+| Sean Palomares      | Entrevistas, Needfinding, Software configuration management, Sprint1                                                                                                                                                            |
+| Anderson Ventosilla | Landing Page, deployment, entrevistas, sprint1                                                                                                                                                                                  |
+| Bruce Via           | Domain Driven Design, diagrama de clases, diagrama de base de datos, event storming, users stories, impact mapping, product backlog                                                                                             |
+| Angie Yalán         | Startup profile, solution profile, lean ux process, segmentos objetivos, diseño de entrevistas, style guidelines, information architecture, landing page UI design, web applications UX/UI Design, web applications prototyping |
 
 # Contenido
 
