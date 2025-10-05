@@ -988,9 +988,9 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
       <th> Registro actualizado que guarda la informacion de los estados y cuidados del cultivo. </th>
     </tr>
     <tr>
-      <th> Adviser</th>
-      <th> Asesor </th>
-      <th> Persona enviada por la empresa a evaluar los cultivos registrado en el momento que es necesario. </th>
+      <th> Novice farmer</th>
+      <th> Agricultor novato </th>
+      <th> Agrcultor aprendiendo sobre la agricultura sin mucha o nula experiencia previa. </th>
     </tr>
     <tr>
       <th> Payment gateway</th>
@@ -1018,9 +1018,9 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
       <th> Medios fisicos que sirven para el mantenimiento correcto de un cultivo. </th>
     </tr>
     <tr>
-      <th> Crop evaluation</th>
-      <th> Evaluacion de cultivo </th>
-      <th> Evaluacion de expertos que muestra el estado del cultivo y si es necesario modificar sus caracteristicas. </th>
+      <th> Field Data</th>
+      <th> Datos de Campo </th>
+      <th> Campo en el que se ingresaran los datos de un cultivo, estos ingresandose por separado. </th>
     </tr>
     <tr>
       <th> Irrigation schedule</th>
@@ -1072,8 +1072,8 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
     </tr>
     <tr>
       <th> 03</th>
-      <th> Evaluaciones de cultivos </th>
-      <th> Como usuario a AgroApp, quiero pedir y recibir evaluaciones de los cultivos que sienta que puedan mejorar para evitar perdidas o una posible muerte de los cultivos por un mal cuidado del que no sepa. </th>
+      <th> Publicacion de Campo de Cultivo </th>
+      <th> Como usuario a AgroApp, registrar campos donde ingresaran mis cultivos para editarlos independiente si ocurre algo. </th>
     </tr>
     <tr>
       <th> 04</th>
@@ -1229,33 +1229,33 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
     </tr>
     <tr>
       <th> 08</th>
-      <th> Peticion de evaluacion </th>
-      <th> Como agricultor, quiero pedir una revision, para comprobar si el estado de mis cultivos es el adecuado </th>
-      <th>Scenario 1: Llamado de evaluacion<br>
-      Given el agricultor este en el cultivo que desee pedir una revision<br>
-      When el agricultor presione el boton "Pedir Revision"<br>
-      Then el sistema iniciara una proceso de evaluacion con un asesor
+      <th> Registro de campo </th>
+      <th> Como agricultor, quiero agregar un campo de cultivo, para registrar y actualizar los datos de mis cultivos sin confusion </th>
+      <th>Scenario 1: Registro de campo<br>
+      Given el agricultor este en la seccion "Mis Campos"<br>
+      When el agricultor presione el boton "Añadir campo"<br>
+      Then el sistema iniciara una proceso de creacion de campo de cultivo
       </th>
       <th>03</th>
     <tr>
       <th> 09</th>
-      <th> Recepción de evaluación </th>
-      <th> Como agricultor, quiero recibir una evaluacion de mi cultivo, para identificar problemas de mi cultivo</th>
-      <th>Scenario 1: Llegada de evaluación<br>
-      Given el usuario pidio una evaluacion de forma previa<br>
-      When el sistema envie una evaluaion acorde al cultivo que el agricultor haya seleccionado<br>
-      Then el usuario podra ver la evaluacion <br>
+      <th> Publicar Campo </th>
+      <th> Como agricultor, quiero publicar mis campos de cultivo, para vincularlos facilmente a los cultivos</th>
+      <th>Scenario 1: Publicacion de campo<br>
+      Given el usuario lleno en formulario para crear un campo<br>
+      When el usuario presione el boton de "Guardar"<br>
+      Then el sistema creara un campo para su uso <br>
       </th>
       <th>03</th>
     </tr>
     <tr>
       <th> 10</th>
-      <th> Pago por evaluaciones </th>
-      <th> Como usuario, quiero pagar por una evaluacion de mi cultivo para asegurar un trabajo de calidad </th>
-      <th>Scenario 1: Pago realizado<br>
-      Given el usuario pidio una evaluacion previamente<br>
-      When el sistema informe que la evaluacion ya esta lista<br>
-      Then el sistema mostrara metodos de pago para recibir la evaluacion<br>
+      <th> Vincular con cultivos </th>
+      <th> Como usuario, quiero vincular mis cultivos con los campos, para organizarlos y mantener un registro ordenado </th>
+      <th>Scenario 1: Vinculacion<br>
+      Given el usuario lleno los datos del cultivo <br>
+      When el usuario presione el campo al que va a pertenecer<br>
+      Then el sistema vinculara los datos para su que se muestre completamente<br>
       </th>
       <th>03</th>
     </tr>
@@ -1494,33 +1494,33 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
     </tr>
     <tr>
       <th> EP03</th>
-      <th> Evaluaciones de cultivos </th>
+      <th> Publicacion de Campo de Cultivo </th>
       <th></th>
-      <th> Como usuario a AgroApp, quiero pedir y recibir evaluaciones de los cultivos que sienta que puedan mejorar para evitar perdidas o una posible muerte de los cultivos por un mal cuidado del que no sepa. </th>
+      <th> Como usuario a AgroApp, registrar campos donde ingresaran mis cultivos para editarlos independiente si ocurre algo. </th>
       <th></th>
       <th>03</th>
     </tr>
     <tr>
       <th> 8</th>
       <th> US08 </th>
-      <th>Peticion de evaluacion</th>
-      <th>Como agricultor, quiero pedir una revision, para comprobar si el estado de mis cultivos es el adecuado</th>
+      <th>Registro de campo</th>
+      <th>Como agricultor, quiero agregar un campo de cultivo, para registrar y actualizar los datos de mis cultivos sin confusion</th>
       <th>3</th>
       <th>03</th>
     </tr>
     <tr>
       <th> 9</th>
       <th> US09 </th>
-      <th>Recepción de evaluación</th>
-      <th>Como agricultor, quiero reibir una evaluacion de mi cultivo, para identificar problemas de mi cultivo</th>
+      <th>Publicar Campo</th>
+      <th>Como agricultor, quiero publicar mis campos de cultivo, para vincularlos fácilmente a los cultivos</th>
       <th>5</th>
       <th>03</th>
     </tr>
     <tr>
       <th> 10</th>
       <th> US10 </th>
-      <th>Pago por evaluaciones</th>
-      <th>Como usuario, quiero pagar por una evaluacion de mi cultivo para asegurar un trabajo de calidad</th>
+      <th>Vincular con cultivos</th>
+      <th>Como usuario, quiero vincular mis cultivos con los campos, para organizarlos y mantener un registro ordenado</th>
       <th>5</th>
       <th>03</th>
     </tr>
