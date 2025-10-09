@@ -2617,13 +2617,307 @@ Analíticos de colaboración y commits en GitHub.
 ## 5.2.2. Sprint 2
 
 ### 5.2.2.1. Sprint Planning 2
+<table class="sprint-table">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-10-09</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:30 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Via Luna, Bruce</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      Chirito Torres, Jose Raul<br>
+      Palomares Andrade, Sean Farith<br>
+      Ventosilla Trujillo, Anderson Ricardo<br>
+      Via Luna, Bruce<br>
+      Yalán Zhang, Angie Christina
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 2 Review Summary</td>
+    <td>
+      Se completó el <b>frontend en Angular</b> (Dashboard, My Crops, My Fields, My Tasks y Community),
+      routing, componentes standalone, Angular Material e integración con <i>fake API</i> (JSON-Server).
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 2 Retrospective Summary</td>
+    <td>
+      <b>Positivo:</b> buena coordinación y código modular.<br>
+      <b>A mejorar:</b> estandarizar commits y nombres de ramas.<br>
+      <b>Acción:</b> aplicar Git Flow y guía de estilos.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="section">Sprint Goal &amp; User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>
+      Consolidar la app integrando completamente el CRUD con <i>fake API</i>, mejorar la usabilidad
+      y responsividad, e iniciar la sección <b>Community</b>. El éxito se validará mostrando datos
+      persistidos y navegación fluida en escritorio y móvil.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>5 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>5</td>
+  </tr>
+</table>
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
+<table border="1">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Visualizar página de inicio (L) / Collaborator (C)</th>
+    <th>Navegación desde el footer Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Chirito Torres, Jose Raul</td>
+    <td>JoseR044</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomares Andrade, Sean Farith</td>
+    <td>Sean6513201</td>
+    <td>C</td>
+    <td>C</td>
+
+  </tr>
+  <tr>
+    <td>Ventosilla Trujillo, Anderson Ricardo</td>
+    <td>aNd12326</td>
+    <td>C</td>
+    <td>C</td>
+
+  </tr>
+  <tr>
+    <td>Via Luna, Bruce</td>
+    <td>Shukaritas</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Yalán Zhang, Angie Christina</td>
+    <td>aaaaangie</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+
 ### 5.2.2.3. Sprint Backlog 2
+<table class="sprint-table">
+  <tr>
+    <th colspan="8">Sprint # Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+
+  <!-- AUTH -->
+  <tr>
+    <td>US-01</td>
+    <td>Registro de cuenta</td>
+    <td>01</td>
+    <td>Wire API de registro</td>
+    <td>Conectar formulario Angular al endpoint /auth/signup, validaciones y toast de éxito/error</td>
+    <td>4</td>
+    <td>Anderson</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US-02</td>
+    <td>Inicio de sesión</td>
+    <td>02</td>
+    <td>Login + Guard + Logout</td>
+    <td>Integrar /auth/login, guardar token, AuthGuard, botón de cerrar sesión</td>
+    <td>5</td>
+    <td>Anderson</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US-03</td>
+    <td>Recuperar contraseña</td>
+    <td>03</td>
+    <td>Flujo “Forgot Password”</td>
+    <td>Pantalla de email, mock de envío y confirmación (stub con fake API)</td>
+    <td>4</td>
+    <td>Anderson</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US-04</td>
+    <td>Editar perfil</td>
+    <td>04</td>
+    <td>Form perfil + PATCH</td>
+    <td>Formulario editable y actualización en /users/:id (validaciones básicas)</td>
+    <td>4</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- CROPS CRUD -->
+  <tr>
+    <td>US-05</td>
+    <td>Registrar cultivos</td>
+    <td>05</td>
+    <td>Create Crop</td>
+    <td>Conectar “Add New Crop” al POST /crops, refrescar lista y navegación</td>
+    <td>6</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-07</td>
+    <td>Editar cultivos</td>
+    <td>06</td>
+    <td>Edit Crop</td>
+    <td>Formulario de edición (modal/ruta), PUT /crops/:id, manejo de estados</td>
+    <td>5</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-06</td>
+    <td>Eliminar cultivos</td>
+    <td>07</td>
+    <td>Delete Crop</td>
+    <td>Acción con confirmación, DELETE /crops/:id y actualización reactiva</td>
+    <td>3</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- FIELDS & LINKING -->
+  <tr>
+    <td>US-08/09</td>
+    <td>Registro/Publicación de campo</td>
+    <td>08</td>
+    <td>CRUD Fields</td>
+    <td>Crear formulario de campo, listar, POST/PUT/DELETE en /fields</td>
+    <td>6</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-10</td>
+    <td>Vincular con cultivos</td>
+    <td>09</td>
+    <td>Field ↔ Crop Linking</td>
+    <td>Agregar select de Field en Crop (guardar fieldId), join en la tabla</td>
+    <td>4</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- STATUS & UX -->
+  <tr>
+    <td>US-11</td>
+    <td>Señalaciones</td>
+    <td>10</td>
+    <td>Badges de estado</td>
+    <td>Render de chips (Healthy/Attention/Critical) y reglas visuales en la lista de cultivos</td>
+    <td>3</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- RESPONSIVE & COMMUNITY (alcance Sprint 2) -->
+  <tr>
+    <td>US-20</td>
+    <td>Visualizar página de inicio</td>
+    <td>12</td>
+    <td>Responsive pass</td>
+    <td>Ajustes responsive (mobile/tablet) en módulos principales (Crops/Fields/Dashboard)</td>
+    <td>5</td>
+    <td>Bruce y Anderson</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04/21</td>
+    <td>Perfil / Footer nav</td>
+    <td>13</td>
+    <td>Mejoras de navegación</td>
+    <td>Links del footer a secciones, acceso rápido a Perfil y Home</td>
+    <td>2</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+Sprint Backlog en Trello: https://trello.com/invite/b/68e736ec94c7471af5c50f17/ATTIea8f2ebe3ab851d08fa13af5d68231060E69E5EB/agroapp-sprint2
 
 ### 5.2.2.4. Development Evidence for Sprint Review
-
+| Repository | Commit Id     | Commit Message | Commited on (Date) |
+|-------------|---------------|----------------|--------------------|
+| f1341bd | Shukaritas    | feature: trabajo_parcial | 2025-10-08 |
+| 228165c | Shukaritas    | Merge remote-tracking branch 'origin/feature/my-crops' into develop | 2025-10-08 |
+| 479d3c1 | Shukaritas    | Merge branch 'feature/task-community' into develop | 2025-10-08 |
+| 04a8cde | Shukaritas    | Merge remote-tracking branch 'origin/feature/dashboard-view' into develop | 2025-10-08 |
+| 648c679 | aaaaangie     | docs: add my crop fields | 2025-10-08 |
+| 9671056 | Jose04        | Update dashboard.component.html | 2025-10-07 |
+| ad7fdde | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 0bc7416 | Jose04        | Update dashboard.component.html | 2025-10-07 |
+| 7efd83d | Jose04        | Update dashboard.component.html | 2025-10-07 |
+| f71a9cf | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 6ea8e53 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 6142f7e | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 1780508 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 8e4f4fe | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| ec04520 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 9c4a17e | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| d54b974 | Jose04        | Update start.sh | 2025-10-07 |
+| 8539354 | Jose04        | Update start.sh | 2025-10-07 |
+| 62bba95 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 822a95f | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 798e090 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 5cb0ff7 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 1100a6b | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 1450161 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| e4cb3ab | JoseR044      | feat: integrate server mock from feature/server | 2025-10-07 |
+| f626823 | Shukaritas    | feature/modified task and community | 2025-10-07 |
+| 8ca432c | Shukaritas    | featured: db.json and tasks | 2025-10-06 |
+| b5de0f7 | Jose04        | Update dashboard.component.ts | 2025-10-06 |
+| 496dbbc | Jose04        | Update dashboard.component.ts | 2025-10-06 |
+| 0d103d9 | Anderson      | Merge pull request #2 from AgroApp-UPC/feature/login-view | 2025-10-04 |
+| b71cbd5 | Anderson R VT | feat(auth): implement login view with localStorage authentication | 2025-10-04 |
+| 277ffc6 | Anderson      | Merge pull request #1 from AgroApp-UPC/feature/dashboard-view | 2025-10-04 |
+| a1ed793 | Anderson R VT | feat(dashboard): implement dashboard view with crops, harvest dates, tasks and recommendations | 2025-10-04 |
+| 4a35ea2 | Anderson R VT | Add complete UI implementation with sidebar, navbar, and i18n support | 2025-10-04 |
+| 79581b0 | Anderson R VT | initial commit | 2025-10-03 |
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
 Durante este Sprint trabajamos el desarrollo del frontend del sistema web **AgroApp”** utilizando el entorno de desarrollo **WebStorm**, siguiendo los principios de **Domain-Driven Design (DDD)** para organizar la estructura y responsabilidades del sistema.  
