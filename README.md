@@ -3014,7 +3014,7 @@ El entorno desplegado corresponde a la rama `main`, en la cual se integraron los
 
 **URL despliegue**
 
-> https://patitasolidaria-front.onrender.com
+> https://front-end-eta-bice.vercel.app/
 
 **Responsable**
 
@@ -3034,7 +3034,11 @@ las funciones de diseño, codificación, validación y despliegue de la solució
 ![evidencia de colaboraciones](resources/contributors.webp)
 
 # Conclusiones
+Hemos comenzado con el enfoque correcto: al aplicar el proceso Lean UX, no solo identificamos la necesidad de herramientas digitales accesibles para los agricultores peruanos de pequeña y mediana escala, sino que validamos estas necesidades directamente a través de entrevistas exhaustivas. Esta validación temprana nos permitió enfocar nuestra visión en ofrecer una aplicación simple que entrega recomendaciones personalizadas y alertas claras para aumentar la productividad y reducir pérdidas. Nuestra capacidad de comunicación oral se fortaleció en este proceso, ya que debimos adaptar nuestro lenguaje para generar confianza tanto con los agricultores como con audiencias técnicas.
 
+A nivel técnico, establecimos una arquitectura de software robusta guiada por Domain-Driven Design, modelando dominios críticos como el manejo de usuarios, cultivos y tareas a través de detallados diagramas C4 y Event Storming. Paralelamente, nuestra comunicación escrita garantizó que toda esta complejidad se documentara de forma clara y estructurada, produciendo guías de estilo, estilos de código y el análisis de requisitos completo.
+
+Finalmente, transformamos toda esta planificación en una realidad tangible y funcional: con la finalización del Sprint 1, desarrollamos y desplegamos la Landing Page, usando el flujo Gitflow y Conventional Commits. Este logro demuestra nuestra disciplina en la gestión del código y nuestra habilidad para entregar valor continuo, asegurando que AgroApp no solo es una gran idea, sino un producto listo para escalar que ya está cumpliendo con su propósito inicial de informar y atraer a nuestros segmentos objetivo. Mi confianza es que tenemos la estrategia, la arquitectura y la disciplina de equipo necesarias para generar un impacto transformador en el sector agrícola.
 # Bibliografía.
 
 Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf <br>
