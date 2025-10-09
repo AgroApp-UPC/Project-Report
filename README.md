@@ -2626,11 +2626,80 @@ Analíticos de colaboración y commits en GitHub.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
+Durante este Sprint trabajamos el desarrollo del frontend del sistema web **AgroApp”** utilizando el entorno de desarrollo **WebStorm**, siguiendo los principios de **Domain-Driven Design (DDD)** para organizar la estructura y responsabilidades del sistema.  
+
+Se lograron implementar de forma funcional las vistas principales, orientadas a brindar una **experiencia inicial clara y amigable** para los usuarios adoptantes.
+
+- **Inicio de sesión**: Se implementó la vista de inicio de sesión para que los usuarios puedan autenticarse en la plataforma.  
+  ![Inicio de sesión](resources/iniciosesion.webp)
+
+- **Pagina de Dashboard**: Se implementó la pantalla principal mostrando información dinámica y accesos a todas las funcionalidades.  
+  ![pagina de dashboard principal](resources/dashboard.webp)
+
+- **Pagina de My crops**: Esta sección permite a los usuarios ver un listado de sus cultivos activos, con detalles como tipo de cultivo, estado de crecimiento y fecha estimada de cosecha. Facilita el seguimiento y gestión de cada cultivo de manera visual y organizada.  
+  ![my crops page](resources/my-crops.webp)
+
+- **Boton de añadir crops**: Este botón permite a los usuarios registrar nuevos cultivos en su cuenta. Al hacer clic, se despliega un formulario donde pueden ingresar información como tipo de cultivo, cantidad de plantas, ubicación y fecha estimada de cosecha. Facilita la actualización y gestión de los cultivos de manera rápida y sencilla. 
+  ![add new crops](resources/add-crops.webp)
+
+- **Pagina de My Fields**: Aquí los usuarios pueden consultar información sobre sus parcelas o campos asignados, incluyendo ubicación, tamaño y estado general. Esta vista ayuda a tener un control geográfico y físico de la producción.  
+  ![my fields page](resources/my-fields.webp)
+
+- **Pagina para añadir nuevo nuevo campo de cultivo**: Esta página permite a los usuarios crear un nuevo campo o parcela para sus cultivos. Incluye un formulario donde se puede ingresar información como nombre del campo, ubicación, tamaño y tipo de suelo. Facilita la organización de los cultivos y la planificación de las tareas agrícolas de manera ordenada.  
+  ![Add New Crop Field Page](resources/add-fields.webp)
+
+- **Detalle de Fields**: Esta página permite a los usuarios ver información detallada de cada campo o parcela registrada. Se muestra la ubicación, tamaño, tipo de suelo, cultivos activos y estado general del campo. Facilita el seguimiento preciso y la gestión de cada parcela de manera clara y organizada.  
+  ![Detalle de Fields](resources/detailsfields.webp)
+
+- **Pagina de My Tasks**: En esta sección se muestran las tareas pendientes relacionadas con el manejo de cultivos y campos, como riegos, fertilización o cosechas. Los usuarios pueden marcar tareas como completadas y priorizar acciones importantes.  
+  ![tareas principales](resources/my-tasks.webp)
+
+- **Botón “Add task”**: Este botón permite al usuario registrar nuevas tareas relacionadas con el mantenimiento o supervisión de sus cultivos. Al hacer clic, se despliega un formulario donde se pueden ingresar detalles como el nombre de la tarea, fecha, responsable y prioridad. Facilita la organización del trabajo diario dentro del sistema.  
+  ![Añadir Tarea](resources/addtask.webp)
+
+
+- **Pagina de Community**: Esta sección ofrece un espacio para que los usuarios interactúen con otros miembros de la plataforma, compartan experiencias, consejos o novedades sobre sus cultivos y técnicas agrícolas. Fomenta la colaboración y el aprendizaje entre usuarios.  
+  ![pagina de comunidades](resources/community.webp)
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+AgroApp utiliza un servicio de datos simulado mediante JSON Server, que provee endpoints REST para manejar la información agrícola de los usuarios, cultivos, campos y tareas.
+Estos servicios permiten al frontend consumir datos en formato JSON, realizar operaciones CRUD y mantener sincronía con la interfaz de usuario.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 2, el equipo realizó el despliegue exitoso del **frontend del sistema AgroApp** en la plataforma **Vercel**, permitiendo el acceso público a la aplicación y la validación de las funcionalidades implementadas durante el sprint.
+
+El entorno desplegado corresponde a la rama `main`, en la cual se integraron los componentes principales, vistas y consumo del servidor JSON local para la simulación de datos.
+
+---
+
+**Proceso de Deployment realizado**
+
+- Se creó un repositorio GitHub para el proyecto: https://github.com/AgroApp-UPC/Front-end
+
+![repositorio front end](resources/repositorio-frontend.webp)
+
+**URL despliegue**
+
+> https://patitasolidaria-front.onrender.com
+
+**Responsable**
+
+- **Anderson Ventosilla**: configuración del repositorio, estructura del proyecto.
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
+las funciones de diseño, codificación, validación y despliegue de la solución.
+
+| Integrante | Acciones realizadas durante el Sprint 1 |
+|------------|----------------------------------------|
+| Todo el equipo | - Desarrollo de toda la interfaz con Angular y angular Material<br>- Estructura de carpetas y componentes<br>- Subida al repositorio y despliegue |
+
+**Evidencia de colaboración en GitHub (Sprint 2)**
+
+![evidencia de colaboraciones](resources/contributors.webp)
 
 # Conclusiones
 
