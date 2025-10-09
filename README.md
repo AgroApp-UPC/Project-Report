@@ -2664,7 +2664,35 @@ Se lograron implementar de forma funcional las vistas principales, orientadas a 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 AgroApp utiliza un servicio de datos simulado mediante JSON Server, que provee endpoints REST para manejar la información agrícola de los usuarios, cultivos, campos y tareas.
-Estos servicios permiten al frontend consumir datos en formato JSON, realizar operaciones CRUD y mantener sincronía con la interfaz de usuario.
+Estos servicios permiten al frontend consumir datos en formato JSON, realizar operaciones CRUD y mantener sincronía con la interfaz de usuario. <br>
+
+**GitHub - Proyecto Web Services (planeado para Sprint 3)**
+> URL estimada del repositorio de backend: <br>
+> https://github.com/AgroApp-UPC/Back-end
+
+**Resumen de Acciones del Equipo**
+<table>
+  <tr>
+    <th>Integrante</th>
+    <th>Acciones Realizadas</th>
+ 
+  </tr>
+  <tr>
+    <td>Bruce Via</td>
+    <td>Desarrollo pracial de Front-End, sección campos, perfil, tareas y comunidad junto a unir todos los commits</td>
+  </tr>
+  <tr>
+    <td>Anderson Ventosillo</td>
+    <td>Desarrollo inicial y asignación de rutas, deployment final</td>
+  </tr>
+    <td>Angie Yalan</td>
+    <td>Funcionamiento de cultivos</td>
+  </tr>
+    <tr>
+    <td>Jose Chirito</td>
+    <td>Seccion incial de dashboard</td>
+  </tr>
+</table>
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
