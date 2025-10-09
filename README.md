@@ -2755,7 +2755,7 @@ Analíticos de colaboración y commits en GitHub.
     <td>Wire API de registro</td>
     <td>Conectar formulario Angular al endpoint /auth/signup, validaciones y toast de éxito/error</td>
     <td>4</td>
-    <td>Anderson</td>
+    <td>José</td>
     <td>To-Do</td>
   </tr>
   <tr>
@@ -2765,7 +2765,7 @@ Analíticos de colaboración y commits en GitHub.
     <td>Login + Guard + Logout</td>
     <td>Integrar /auth/login, guardar token, AuthGuard, botón de cerrar sesión</td>
     <td>5</td>
-    <td>Anderson</td>
+    <td>José</td>
     <td>In-Process</td>
   </tr>
   <tr>
@@ -2775,7 +2775,7 @@ Analíticos de colaboración y commits en GitHub.
     <td>Flujo “Forgot Password”</td>
     <td>Pantalla de email, mock de envío y confirmación (stub con fake API)</td>
     <td>4</td>
-    <td>Anderson</td>
+    <td>José</td>
     <td>To-do</td>
   </tr>
   <tr>
@@ -2863,7 +2863,7 @@ Analíticos de colaboración y commits en GitHub.
     <td>Responsive pass</td>
     <td>Ajustes responsive (mobile/tablet) en módulos principales (Crops/Fields/Dashboard)</td>
     <td>5</td>
-    <td>Bruce y Anderson</td>
+    <td>José y Anderson</td>
     <td>Done</td>
   </tr>
   <tr>
