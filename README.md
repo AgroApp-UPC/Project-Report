@@ -124,6 +124,19 @@ Estas preguntas se centran en la eficiencia, la gestión de múltiples parcelas,
 
 **Resumen:** Walter Sanchez es ya un agricultor titulado y trabajador desde mas de 20 años, entrevistado previamente para presentarle la idea, hoy la prueba mediante nuestra aplicacion, permitiendole registrar cultivos y campos de cultivo para su trabajo. Se destaca en ser un referente en su area y como el trabajar en esto, pese a ser algo que le gusta tambien resulta ser dificil debido a que muchos procesos son obsoletos, lentos o simplemente tedioso luego de repetirse y señala como con la aplicacion al menos traera la digitalizacion de procesos y el como muchos trabjos que le costaban tiempo y esfuerzo seran mas faciles con nuestro producto.
 
+<img src="resources/entrevistaValidacion2s2.png" alt="Captura de entrevista a segmento 2">
+
+**Entrevistado(a):** Victor Reinoso
+
+**Genero:** Masculino
+
+**Edad:** 25 años
+
+**Enlace de la entrevista (Drive):** [Enlace Entrevista 2](https://youtu.be/vTMKWR7H6ls)
+
+**Resumen:** Victor Reinoso es un agricultor de mediana escala. Comenta que la aplicación fue de su gusto, y que le parecía muy intuitivo. Las secciones de cultivos y tareas fueron las de mayor agrado, ya que optimiza mucho su flujo de trabajo. Comenta que normalmente el seguimiento de esas actividades se realizaban mediante métodos tradicionales como cuadernos, pero ahora con AgroApp podrá digitalizar todos esos procesos.
+
+
 ## 5.3.2. Evaluaciones según heurísticas.
 
 <span style="font-size: 2em; font-weight: normal;">Site o App a evaluar</span>
