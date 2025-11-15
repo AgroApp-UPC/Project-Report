@@ -122,10 +122,10 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| José Chirito        | Seccion funcional del dashboard                                                                                                                                 |
-| Anderson Ventosilla | Enrutamiento de secciones, diseño de pagina y deploy del Front-End                                                                                                                                                                                  |
-| Bruce Via           | Seccion "My Profile", "My Tasks", "Community", "My Fields", enrutamientos adicionales y sus funcionalidades                                                                                             |
-| Angie Yalán         | Seccion funcional "My Crops" |
+| José Chirito        | Bounded Context Profile y Communitty                                                                                                                             |
+| Anderson Ventosilla |  Despliegue del Backend, base de datos, desarrollo del Bounded Contex CropFields, Task y Community                                                                                                                                                                                  |
+| Bruce Via           | Bounded Context Profile                                                                                             |
+| Angie Yalán         | Bounded Context Task y Field |
 
 # Contenido
 
@@ -3407,6 +3407,8 @@ reglas de negocio, lo que permite una arquitectura modular, mantenible y alinead
 **- Task:** Tareas que el usuario puede marcar, eliminar y crear dependiendo de su cultivo
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+![Despliegue de base de datos](resources/DEPLOY_DB.png)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 3, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
