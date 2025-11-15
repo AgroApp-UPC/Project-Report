@@ -3419,9 +3419,15 @@ El despliegue incluye una instancia de servidor corriendo la aplicación Spring 
 conectada de manera remota. Para la gestión de la base de datos, se utilizó Railway, lo cual permitió visualizar y verificar
 en tiempo real la persistencia de los datos ingresados mediante los endpoints REST.
 
+![Despliegue del backend](resources/Deploy_Docker.jpeg)
 
+![Despliegue del backend](resources/Postman_Deploy.jpeg)
+
+![Despliegue del backend](resources/SUccesfully_Deploy.png)
 
 ![Despliegue de base de datos](resources/DEPLOY_DB.png)
+
+**URL:** https://back-end-production-c7a6.up.railway.app
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 3, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
