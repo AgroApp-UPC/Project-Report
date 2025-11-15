@@ -3406,9 +3406,9 @@ reglas de negocio, lo que permite una arquitectura modular, mantenible y alinead
 
 **- Task:** Tareas que el usuario puede marcar, eliminar y crear dependiendo de su cultivo
 
-### 5.2.2.7. Software Deployment Evidence for Sprint Review
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-### 5.2.2.8. Team Collaboration Insights during Sprint
+### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 3, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
 las decisiones de funcionalidad del Backend, union y despliegue.
 
