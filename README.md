@@ -96,6 +96,34 @@ Estas preguntas se centran en la eficiencia, la gestión de múltiples parcelas,
 
 ## 5.3.2. Registro de Entrevistas.
 
+**User Persona del segmento objetivo #1: Agricultores de pequeña escala**
+
+<img src="resources/Captura-Segmento_1-Open.png" alt="Captura de entrevista a segmento 1">
+
+**Entrevistado(a):** Carmen Diaz
+
+**Genero:** Femenino
+
+**Edad:** 28 años
+
+**Enlace de la entrevista (Drive):** [Enlace Entrevista 1](https://drive.google.com/file/d/16a5DEo8rsQiFq_b5dB4SaLW-56eSEDVu/view?usp=sharing)
+
+**Resumen:** Carmen Diaz es una agriculta de nivel intermedio que simbra mayormente en su casa, fue entrevistada previamente para pensar en la idea de una startup como la que se le presentara a continuacion. Se destaco siemopre por intentar ver por el bienestar de sus cultivos en una zona como la ciudad y señalo como gracias a nustra aplicacion esto sera mucho mas facil y sobre todo tranquilo gracias a las funcionalidades que esta tiene.
+
+**User Persona del Segmento objetivo #2: Agricultores de mediana escala**
+
+<img src="resources/Captura-Segmento_2-Open.png" alt="Captura de entrevista a segmento 1">
+
+**Entrevistado(a):** Walter Sanchez
+
+**Genero:** Masculino
+
+**Edad:** 52 años
+
+**Enlace de la entrevista (Drive):** [Enlace Entrevista 1](https://drive.google.com/file/d/1xcO7OeAifOQHp4JiuoMy9zwnR-uc_szB/view?usp=sharing)
+
+**Resumen:** Walter Sanchez es ya un agricultor titulado y trabajador desde mas de 20 años, entrevistado previamente para presentarle la idea, hoy la prueba mediante nuestra aplicacion, permitiendole registrar cultivos y campos de cultivo para su trabajo. Se destaca en ser un referente en su area y como el trabajar en esto, pese a ser algo que le gusta tambien resulta ser dificil debido a que muchos procesos son obsoletos, lentos o simplemente tedioso luego de repetirse y señala como con la aplicacion al menos traera la digitalizacion de procesos y el como muchos trabjos que le costaban tiempo y esfuerzo seran mas faciles con nuestro producto.
+
 ## 5.3.2. Evaluaciones según heurísticas.
 
 <span style="font-size: 2em; font-weight: normal;">Site o App a evaluar</span>
