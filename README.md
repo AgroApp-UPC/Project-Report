@@ -84,6 +84,8 @@
 | 2.02    | 06/10/2025 | Angie, Anderson, José, Bruce | Implementación de Frontend - Sección Pets. Revisión de documentos.                         |
 | 2.03    | 07/10/2025 | Angie, Anderson, José, Bruce | Agregar Sprint 2 |
 | 2.04    | 08/10/2025 | Angie, Anderson, José, Bruce | Deploy de Frontend    |
+| 3.01    | 09/11/2025 | Angie, Anderson, José, Bruce | Desarrollo del Backend    |
+| 3.1    | 14/10/2025 | Angie, Anderson, José, Bruce | Deploy de Backend    |
 
 </div>
 
@@ -104,6 +106,17 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Angie Yalán         | Startup profile, solution profile, lean ux process, segmentos objetivos, diseño de entrevistas, style guidelines, information architecture, landing page UI design, web applications UX/UI Design, web applications prototyping |
 
 **TP**
+
+Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
+| ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| José Chirito        | Seccion funcional del dashboard                                                                                                                                 |
+| Anderson Ventosilla | Enrutamiento de secciones, diseño de pagina y deploy del Front-End                                                                                                                                                                                  |
+| Bruce Via           | Seccion "My Profile", "My Tasks", "Community", "My Fields", enrutamientos adicionales y sus funcionalidades                                                                                             |
+| Angie Yalán         | Seccion funcional "My Crops" |
+
+**TB2**
 
 Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
@@ -3033,12 +3046,388 @@ las funciones de diseño, codificación, validación y despliegue de la solució
 
 ![evidencia de colaboraciones](resources/contributors.webp)
 
+## 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+<table class="sprint-table">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 3</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-11-14</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>15:40 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Via Luna, Bruce</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      Chirito Torres, Jose Raul<br>
+      Ventosilla Trujillo, Anderson Ricardo<br>
+      Via Luna, Bruce<br>
+      Yalán Zhang, Angie Christina
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 3 Review Summary</td>
+    <td>
+      Se completó el <b>backend en Intelli</b> (Get, Post, Push, Update),
+      conexion a una base de datos MySQL en una <i>real API</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 3 Retrospective Summary</td>
+    <td>
+      <b>Positivo:</b> Mejor coordinacion y tiempos de desarrollo.<br>
+      <b>A mejorar:</b> Declaracion de Commits y metodos shared<br>
+      <b>Acción:</b> Aplicar desarrollo backend y guia de endpoints
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="section">Sprint Goal &amp; User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>
+      Consolidar la app integrando completamente el CRUD con la <i>real API</i>, creando esta misma y desplegandola para tener un funcionamiento a una api subida en la nube y proxima conexion con el Front-end
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>5 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>5</td>
+  </tr>
+</table>
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table border="1">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Desarrollar el backend basado en enpoints (L) / Collaborator (C)</th>
+    <th>Conetarlo con la base de datos (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Chirito Torres, Jose Raul</td>
+    <td>JoseR044</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Ventosilla Trujillo, Anderson Ricardo</td>
+    <td>aNd12326</td>
+    <td>L</td>
+    <td>C</td>
+
+  </tr>
+  <tr>
+    <td>Via Luna, Bruce</td>
+    <td>Shukaritas</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Yalán Zhang, Angie Christina</td>
+    <td>aaaaangie</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+
+
+### 5.2.3.3. Sprint Backlog 3
+<table class="sprint-table">
+  <tr>
+    <th colspan="8">Sprint # Sprint 3</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+
+  <!-- AUTH -->
+  <tr>
+    <td>US-01</td>
+    <td>Registro de cuenta</td>
+    <td>01</td>
+    <td>Wire API de registro</td>
+    <td>Conectar formulario Angular al endpoint /auth/signup, validaciones y toast de éxito/error</td>
+    <td>4</td>
+    <td>José</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US-02</td>
+    <td>Inicio de sesión</td>
+    <td>02</td>
+    <td>Login + Guard + Logout</td>
+    <td>Integrar /auth/login, guardar token, AuthGuard, botón de cerrar sesión</td>
+    <td>5</td>
+    <td>José</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US-03</td>
+    <td>Recuperar contraseña</td>
+    <td>03</td>
+    <td>Flujo “Forgot Password”</td>
+    <td>Pantalla de email, mock de envío y confirmación (stub con fake API)</td>
+    <td>4</td>
+    <td>José</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US-04</td>
+    <td>Editar perfil</td>
+    <td>04</td>
+    <td>Form perfil + PATCH</td>
+    <td>Formulario editable y actualización en /users/:id (validaciones básicas)</td>
+    <td>4</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- CROPS CRUD -->
+  <tr>
+    <td>US-05</td>
+    <td>Registrar cultivos</td>
+    <td>05</td>
+    <td>Create Crop</td>
+    <td>Conectar “Add New Crop” al POST /crops, refrescar lista y navegación</td>
+    <td>6</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-07</td>
+    <td>Editar cultivos</td>
+    <td>06</td>
+    <td>Edit Crop</td>
+    <td>Formulario de edición (modal/ruta), PUT /crops/:id, manejo de estados</td>
+    <td>5</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-06</td>
+    <td>Eliminar cultivos</td>
+    <td>07</td>
+    <td>Delete Crop</td>
+    <td>Acción con confirmación, DELETE /crops/:id y actualización reactiva</td>
+    <td>3</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- FIELDS & LINKING -->
+  <tr>
+    <td>US-08/09</td>
+    <td>Registro/Publicación de campo</td>
+    <td>08</td>
+    <td>CRUD Fields</td>
+    <td>Crear formulario de campo, listar, POST/PUT/DELETE en /fields</td>
+    <td>6</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-10</td>
+    <td>Vincular con cultivos</td>
+    <td>09</td>
+    <td>Field ↔ Crop Linking</td>
+    <td>Agregar select de Field en Crop (guardar fieldId), join en la tabla</td>
+    <td>4</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- STATUS & UX -->
+  <tr>
+    <td>US-11</td>
+    <td>Señalaciones</td>
+    <td>10</td>
+    <td>Badges de estado</td>
+    <td>Render de chips (Healthy/Attention/Critical) y reglas visuales en la lista de cultivos</td>
+    <td>3</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+
+  <!-- RESPONSIVE & COMMUNITY (alcance Sprint 2) -->
+  <tr>
+    <td>US-20</td>
+    <td>Visualizar página de inicio</td>
+    <td>12</td>
+    <td>Responsive pass</td>
+    <td>Ajustes responsive (mobile/tablet) en módulos principales (Crops/Fields/Dashboard)</td>
+    <td>5</td>
+    <td>José y Anderson</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-04/21</td>
+    <td>Perfil / Footer nav</td>
+    <td>13</td>
+    <td>Mejoras de navegación</td>
+    <td>Links del footer a secciones, acceso rápido a Perfil y Home</td>
+    <td>2</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-15</td>
+    <td>Gestionar usuarios</td>
+    <td>14</td>
+    <td>Mejoras de distribucion de datos</td>
+    <td>Manejar los datos desde el backend para los usuarios</td>
+    <td>2</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td>US-19</td>
+    <td>Disponibilidad de sistema</td>
+    <td>15</td>
+    <td>Desplegar la base de datos para ser accesible</td>
+    <td>Permtir que las paginas siempre carguen el contindo al instante</td>
+    <td>3</td>
+    <td>Anderson</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+Sprint Backlog en Trello: https://trello.com/invite/b/6918100ab0d9b15b39ac44bd/ATTI43f49a63dc6f5f670728cf8780108b0cCFFA6907/sprint-backlog-3
+
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+| Repository | Commit Id     | Commit Message | Commited on (Date) |
+|-------------|---------------|----------------|--------------------|
+Commit Id: b4aa346 | Author: aaaaangie | Commit Message: Merge branch 'feature/fields' into develop | Commited on (Date): 2025-11-14
+Commit Id: 415c207 | Author: aaaaangie | Commit Message: Merge branch 'feature/fields' of ... into feature/fields | Commited on (Date): 2025-11-14
+Commit Id: e5d4e26 | Author: aaaaangie | Commit Message: docs: add bounded context Field | Commited on (Date): 2025-11-14
+Commit Id: 4af8c91 | Author: aaaaangie | Commit Message: Merge branch 'feature/tasks' into develop | Commited on (Date): 2025-11-14
+Commit Id: 1e953e5 | Author: aaaaangie | Commit Message: Merge branch 'feature/tasks' of ... into feature/tasks | Commited on (Date): 2025-11-14
+Commit Id: 2b14a16 | Author: aaaaangie | Commit Message: docs: add bounded context task | Commited on (Date): 2025-11-14
+Commit Id: 9a318bd | Author: JoseR044 | Commit Message: Merge pull request #1 from AgroApp-UPC/feature/profile | Commited on (Date): 2025-11-14
+Commit Id: e12f58d | Author: aaaaangie | Commit Message: docs: add bounded context task | Commited on (Date): 2025-11-14
+Commit Id: 3f8fc4d | Author: JoseR044 | Commit Message: fix: remove JWT dependencies from feature/profile | Commited on (Date): 2025-11-14
+Commit Id: 00f687b | Author: aaaaangie | Commit Message: docs: add bounded context Field | Commited on (Date): 2025-11-14
+Commit Id: 1fafc91 | Author: aaaaangie | Commit Message: Merge branch 'develop' into feature/profile | Commited on (Date): 2025-11-14
+Commit Id: 6e5551e | Author: aaaaangie | Commit Message: Merge branch 'feature/crop-fields' into develop | Commited on (Date): 2025-11-14
+Commit Id: 4d13b56 | Author: aaaaangie | Commit Message: Merge branch 'feature/crop-fields' of ... into feature/crop-fields | Commited on (Date): 2025-11-14
+Commit Id: 82d05cb | Author: Shukaritas / aaaaangie | Commit Message: feat: updated CropFields | Commited on (Date): 2025-11-14
+Commit Id: 1f1400b | Author: ahd12326 / aaaaangie | Commit Message: Implement crop fields bounded context | Commited on (Date): 2025-11-14
+Commit Id: 1fe6a73 | Author: Shukaritas | Commit Message: feat: updated CropFields | Commited on (Date): 2025-11-14
+Commit Id: e92dc00 | Author: JoseR044 | Commit Message: feat: add profile bounded context and configuration | Commited on (Date): 2025-11-14
+Commit Id: 3a6727a | Author: ahd12326 | Commit Message: Implement crop fields bounded context | Commited on (Date): 2025-11-12
+Commit Id: 61fd57e | Author: ahd12326 | Commit Message: Implement community posts bounded context | Commited on (Date): 2025-11-12
+Commit Id: 0f9d07b | Author: JoseR044 | Commit Message: Implement PhysicalNamingStrategy for JPA | Commited on (Date): 2025-11-10
+Commit Id: 097e2d0 | Author: JoseR044 | Commit Message: Update OpenApiConfiguration.java | Commited on (Date): 2025-11-10
+Commit Id: 726eba3 | Author: JoseR044 | Commit Message: Add auditing fields to AuditableModel class | Commited on (Date): 2025-11-10
+Commit Id: f826790 | Author: JoseR044 | Commit Message: Refactor AuditableAbstractAggregateRoot class | Commited on (Date): 2025-11-10
+Commit Id: 721dced | Author: JoseR044 | Commit Message: Merge branch 'main' of https://github.com/AgroApp-UPC/Back-end | Commited on (Date): 2025-11-09
+Commit Id: 706b90f | Author: JoseR044 | Commit Message: Initial commit: AgroApp backend | Commited on (Date): 2025-11-09
+Commit Id: 26749cb | Author: Shukaritas | Commit Message: Add files via upload | Commited on (Date): 2025-10-09
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se logró un progreso significativo en la implementación del backend del sistema. Nos enfocamos en la
+creación de múltiples endpoints RESTful que permiten la gestión de entidades clave como campos, cultivos y tareas.
+Todo el código fue desarrollado siguiendo principios de arquitectura limpia, con especial énfasis en la separación de capas y
+la persistencia adecuada de datos.
+
+
+- Bounded Context registrados en la base de datos
+
+![evidencia de bounded context](resources/BD_DB.jpeg)
+
+- Bounded Context Community en la base de datos
+
+![evidencia de bounded context community](resources/BC_Community.jpg)
+
+- Capturas del Backend desplegado y ejecutandose
+
+![evidencia de backend](resources/BACKEND_1.jpeg)
+![evidencia de backend](resources/BACKEND_2.jpeg)
+![evidencia de backend](resources/BACKEND_3.jpeg)
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de endpoints documentados con OpenAPI, desarrollados como parte del alcance del
+Sprint 3. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios REST del
+Backend.
+
+**Backend en IntelliJ IDEA**
+
+
+Este backend está desarrollado siguiendo el patrón Domain-Driven Design (DDD), estructurando la lógica en Bounded
+Contexts claramente definidos y separados. Cada contexto encapsula su propio modelo de dominio, comportamientos y
+reglas de negocio, lo que permite una arquitectura modular, mantenible y alineada con el negocio.
+
+![Bounded Context en Backend](resources/BC_GENERAL.jpeg)
+
+![Bounded Context en Backend](resources/BC_ESPECIFICO.jpeg)
+
+**Bounded Contexts usados:**
+
+**- Community:** Encargado de reservar las opiniones de la comunidad
+
+**- CropField:** Poseedor de los cultivos sin un campo especificado
+
+**- Field:** Campos o espacios donde ingresaran los cultivos
+
+**- Profile:** Perfil con los datos del usuario
+
+**- Task:** Tareas que el usuario puede marcar, eliminar y crear dependiendo de su cultivo
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+Durante el Sprint 3, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
+las decisiones de funcionalidad del Backend, union y despliegue.
+
+| Integrante | Acciones realizadas durante el Sprint 1 |
+|------------|----------------------------------------|
+| Todo el equipo | - Desarrollo de diferentes Bounded Contexts<br>- Estructura de carpetas y componentes<br>- Subida al repositorio y despliegue |
+
+**Evidencia de colaboración en GitHub (Sprint 3)**
+
+![Commits de backend](resources/Commits_Backend.png)
+
 # Conclusiones
 Hemos comenzado con el enfoque correcto: al aplicar el proceso Lean UX, no solo identificamos la necesidad de herramientas digitales accesibles para los agricultores peruanos de pequeña y mediana escala, sino que validamos estas necesidades directamente a través de entrevistas exhaustivas. Esta validación temprana nos permitió enfocar nuestra visión en ofrecer una aplicación simple que entrega recomendaciones personalizadas y alertas claras para aumentar la productividad y reducir pérdidas. Nuestra capacidad de comunicación oral se fortaleció en este proceso, ya que debimos adaptar nuestro lenguaje para generar confianza tanto con los agricultores como con audiencias técnicas.
 
 A nivel técnico, establecimos una arquitectura de software robusta guiada por Domain-Driven Design, modelando dominios críticos como el manejo de usuarios, cultivos y tareas a través de detallados diagramas C4 y Event Storming. Paralelamente, nuestra comunicación escrita garantizó que toda esta complejidad se documentara de forma clara y estructurada, produciendo guías de estilo, estilos de código y el análisis de requisitos completo.
 
 Finalmente, transformamos toda esta planificación en una realidad tangible y funcional: con la finalización del Sprint 1, desarrollamos y desplegamos la Landing Page, usando el flujo Gitflow y Conventional Commits. Este logro demuestra nuestra disciplina en la gestión del código y nuestra habilidad para entregar valor continuo, asegurando que AgroApp no solo es una gran idea, sino un producto listo para escalar que ya está cumpliendo con su propósito inicial de informar y atraer a nuestros segmentos objetivo. Mi confianza es que tenemos la estrategia, la arquitectura y la disciplina de equipo necesarias para generar un impacto transformador en el sector agrícola.
+
+Basado en la documentación, el Sprint 3 fue un éxito significativo en la consolidación de la aplicación, logrando su objetivo principal de implementar, desplegar y conectar la "real API" para las funcionalidades centrales. El equipo demostró una arquitectura técnica avanzada al adoptar un patrón de Domain-Driven Design (DDD) y estructurar el backend en Bounded Contexts. La colaboración fue un pilar fundamental, con todos los miembros contribuyendo activamente al desarrollo y despliegue del backend, como lo demuestra la asignación de roles y el historial de commits. El equipo también mostró un claro foco en la mejora continua al actuar sobre la retrospectiva anterior y documentar exitosamente los servicios con OpenAPI. La única deuda técnica identificada es el módulo de autenticación de usuarios (registro e inicio de sesión), que quedó incompleto y representa la principal prioridad para el siguiente sprint.
 # Bibliografía.
 
 Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf <br>
