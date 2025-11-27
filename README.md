@@ -1776,7 +1776,11 @@ La combinación de verdes y marrones evoca naturaleza, confianza y sustentabilid
 
 #### 4.1.1.3. Iconografía
 
-<div align="center"> <img src="resources/figma/iconografia.png" alt="iconografía de agroapp" width="400"> </div>
+<p align="center">
+
+![Iconografía AgroApp](resources/figma/iconografia.png)
+
+</p>
 
 Los íconos siguen un estilo lineal, minimalista y de trazo uniforme, basados en un grid de 24px y con grosor de 2px–4px según el tamaño. Se emplean íconos de uso universal (hogar, usuario, añadir, editar, eliminar) para garantizar intuitividad y consistencia.
 
@@ -1820,13 +1824,25 @@ AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contra
 ### 4.2.1. Organization Systems.
 
 - **Landing page Diagram:**
-<div align="center"> <img src="resources/organizational1.png" alt="organization system landing page" width="600"> </div>
+<p align="center">
+
+![Sistema Organizacional – Landing Page](resources/organizational1.png)
+
+</p>
 
 - **Homepage Diagram:**
-<div align="center"> <img src="resources/organizational2.png" alt="organization system homepage" width="600"> </div>
+<p align="center">
+
+![Sistema Organizacional – Homepage](resources/organizational2.png)
+
+</p>
 
 - **Dashboard Diagram:**
-<div align="center"> <img src="resources/organizational3.png" alt="organization system dashboard" width="600"> </div>
+<p align="center">
+
+![Dashboard del Sistema Organizacional](resources/organizational3.png)
+
+</p>
 
 ### 4.2.2. Labeling Systems.
 
@@ -2029,11 +2045,11 @@ El diseño prioriza la claridad visual, con tipografía limpia (Inter), botones 
 
 ### 4.3.1. Landing Page Wireframe.
 
-<div align="center"> <img src="resources/figma/wireframes/lp1.png" alt="landing page wireframe 1" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/lp2.png" alt="landing page wireframe 2" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/lp3.png" alt="landing page wireframe 3" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/lp4.png" alt="landing page wireframe 4" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/lp5.png" alt="landing page wireframe 5" width="600"> </div>
+![Landing Page Wireframe 1](resources/figma/wireframes/lp1.png)
+![Landing Page Wireframe 2](resources/figma/wireframes/lp2.png)
+![Landing Page Wireframe 3](resources/figma/wireframes/lp3.png)
+![Landing Page Wireframe 4](resources/figma/wireframes/lp4.png)
+![Landing Page Wireframe 5](resources/figma/wireframes/lp5.png)
 
 Los wireframes establecen la estructura inicial de la experiencia:
 
