@@ -938,12 +938,12 @@ Conclusiones:
 ### 2.3.5 As-Is Scenario Mapping.
 
 -  Miguel - Agricultores de pequeña escala.
-  <div align="center">
-  <img src="resources/AS-IS-Miguel.png" alt="AS-IS-Miguel" width="900px">
+<div align="center">
+  <img src="resources/AS-IS.png" alt="AS-IS" width="900px">
 </div>
 -  Gustavo - Agricultores de mediana escala.
 <div align="center">
-  <img src="resources/AS-IS-Gustavo.png" alt="AS-IS-Gustavo" width="900px">
+  <img src="resources/AS-IS cultivo.png" alt="AS-IS cultivo" width="900px">
 </div>
 
 ## 2.4. Big Picture Event Storming.
