@@ -977,7 +977,7 @@ Conclusiones:
 
 En esta sección, presentamos el ejercicio de Big Picture Event Storming realizado para nuestro proyecto AgroApp. Esta dinámica nos permitió explorar de manera colaborativa los procesos clave del dominio, identificar eventos relevantes y descubrir oportunidades de mejora. Gracias a este enfoque, logramos una visión compartida entre los distintos actores involucrados, lo que asegura que las necesidades del negocio y de los usuarios estén claramente representadas
 
-<img src="resources/Event_storming.jpg" alt="Imagen del Big Event Storming">
+![Big Event Storming](resources/Event_storming.jpg)
 
 ## 2.5. Ubiquitous Language.
 
