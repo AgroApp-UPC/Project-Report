@@ -449,7 +449,7 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
 
 #### 1.2.2.4. Lean UX Canvas.
 
-<img src="resources/leanuxcanvas.png" alt="lean-ux-canvas">
+![Lean UX Canvas](resources/leanuxcanvas.png)
 
 ## 1.3. Segmentos objetivo.
 
