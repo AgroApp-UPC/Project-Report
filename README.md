@@ -932,21 +932,37 @@ Conclusiones:
 
 - User Journey: Miguel - Agricultores de pequeña escala.
 
-<div align="center"><img src="resources/user-journey-segment-1.png" alt="user-journey-segment-1.png"></div>
+<p align="center">
+
+![User Journey Segmento 1](resources/user-journey-segment-1.png)
+
+</p>
 
 - User Journey: Gustavo - Agricultores de mediana escala.
 
-<div align="center"><img src="resources/user-journey-segment-2.png" alt="user-journey-segment-2.png"></div>
+<p align="center">
+
+![User Journey Segmento 2](resources/user-journey-segment-2.png)
+
+</p>
 
 ### 2.3.4. Empathy Mapping.
 
 - Empathy Map: Miguel - Agricultores de pequeña escala.
 
-<img src="resources/empathy-map-segmento-1.png" alt="Imagen del empathy map del segmento 1">
+<p align="center">
+
+![Empathy Map Segmento 1](resources/empathy-map-segmento-1.png)
+
+</p>
 
 - Empathy Map: Gustavo - Agricultores de mediana escala.
 
-<img src="resources/empathy-map-segmento-2.png" alt="Imagen del empathy map del segmento 2">
+<p align="center">
+
+![Empathy Map Segmento 2](resources/empathy-map-segmento-2.png)
+
+</p>
 
 ### 2.3.5 As-Is Scenario Mapping.
 
