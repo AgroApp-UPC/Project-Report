@@ -941,7 +941,9 @@ Conclusiones:
 <div align="center">
   <img src="resources/AS-IS.png" alt="AS-IS" width="900px">
 </div>
+
 -  Gustavo - Agricultores de mediana escala.
+
 <div align="center">
   <img src="resources/AS-IS cultivo.png" alt="AS-IS cultivo" width="900px">
 </div>
