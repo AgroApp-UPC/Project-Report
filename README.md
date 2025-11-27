@@ -935,6 +935,17 @@ Conclusiones:
 
 <img src="resources/empathy-map-segmento-2.png" alt="Imagen del empathy map del segmento 2">
 
+### 2.3.5 As-Is Scenario Mapping.
+
+-  Miguel - Agricultores de pequeña escala.
+  <div align="center">
+  <img src="resources/AS-IS-Miguel.png" alt="AS-IS-Miguel" width="900px">
+</div>
+-  Gustavo - Agricultores de mediana escala.
+<div align="center">
+  <img src="resources/AS-IS-Gustavo.png" alt="AS-IS-Gustavo" width="900px">
+</div>
+
 ## 2.4. Big Picture Event Storming.
 
 En esta sección, presentamos el ejercicio de Big Picture Event Storming realizado para nuestro proyecto AgroApp. Esta dinámica nos permitió explorar de manera colaborativa los procesos clave del dominio, identificar eventos relevantes y descubrir oportunidades de mejora. Gracias a este enfoque, logramos una visión compartida entre los distintos actores involucrados, lo que asegura que las necesidades del negocio y de los usuarios estén claramente representadas
