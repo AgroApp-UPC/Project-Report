@@ -1060,7 +1060,20 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 # Capítulo III: Requirements Specification
 
-## 3.1. User Stories
+## 3.1. To.be Scenario Mapping
+
+-  Miguel - Agricultores de pequeña escala.
+<div align="center">
+  <img src="resources/TO-BE.png" alt="AS-IS" width="900px">
+</div>
+
+-  Gustavo - Agricultores de mediana escala.
+
+<div align="center">
+  <img src="resources/TO-BE cultivo.png" alt="AS-IS cultivo" width="900px">
+</div>
+
+## User Stories
 
 **Epicas para AgroApp**
 
