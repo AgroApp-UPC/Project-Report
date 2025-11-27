@@ -937,12 +937,12 @@ Conclusiones:
 
 ### 2.3.5 As-Is Scenario Mapping.
 
--  Miguel - Agricultores de pequeña escala.
+-  Segmento objetivo #1: Agricultores de pequeña escala 
 <div align="center">
   <img src="resources/AS-IS.png" alt="AS-IS" width="900px">
 </div>
 
--  Gustavo - Agricultores de mediana escala.
+-Segmento objetivo #2: Agricultores de mediana escala
 
 <div align="center">
   <img src="resources/AS-IS cultivo.png" alt="AS-IS cultivo" width="900px">
@@ -1062,12 +1062,12 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 ## 3.1. To-Be Scenario Mapping
 
--  Miguel - Agricultores de pequeña escala.
+-  Segmento objetivo #1: Agricultores de pequeña escala 
 <div align="center">
   <img src="resources/TO-BE.png" alt="AS-IS" width="900px">
 </div>
 
--  Gustavo - Agricultores de mediana escala.
+-  Segmento objetivo #2: Agricultores de mediana escala 
 
 <div align="center">
   <img src="resources/TO-BE cultivo.png" alt="AS-IS cultivo" width="900px">
