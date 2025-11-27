@@ -1063,15 +1063,11 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 ## 3.1. To-Be Scenario Mapping
 
 -  Segmento objetivo #1: Agricultores de pequeña escala 
-<div align="center">
-  <img src="resources/TO-BE.png" alt="AS-IS" width="900px">
-</div>
+![AS-IS pequeña escala](resources/AS-IS.png)
 
 -  Segmento objetivo #2: Agricultores de mediana escala 
 
-<div align="center">
-  <img src="resources/TO-BE cultivo.png" alt="AS-IS cultivo" width="900px">
-</div>
+![AS-IS mediana escala](resources/AS-IS cultivo.png)
 
 ## User Stories
 
