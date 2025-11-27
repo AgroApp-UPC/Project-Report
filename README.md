@@ -1728,12 +1728,21 @@ El sistema visual se inspira en Design Systems modernos, pero adaptado a la real
 
 ##### 4.1.1.1.1. Tipografía del logo
 
-<div align="center"> <img src="resources/figma/logoagroapp.png" alt="logo de agroapp" width="400"> </div>
+<p align="center">
+
+![Logo AgroApp](resources/figma/logoagroapp.png)
+
+</p>
+
 El logotipo utiliza la fuente Inter en estilo SemiBold, en minúsculas. Esta decisión transmite modernidad, cercanía y simplicidad, evitando un aspecto corporativo rígido. La elección en minúsculas aporta accesibilidad, mientras que el grosor SemiBold garantiza buena presencia visual en pantallas grandes y pequeñas.
 
 ##### 4.1.1.1.2. Tipografía del texto regular
 
-<div align="center"><img src="resources/figma/tipografia.png" alt="tipografía de agroapp" width="400"></div>
+<p align="center">
+
+![Tipografía AgroApp](resources/figma/tipografia.png)
+
+</p>
 
 Para todo el contenido textual se utiliza también la familia tipográfica Inter, que ofrece una amplia gama de grosores desde ExtraLight hasta Bold. Esto asegura consistencia en el sistema y flexibilidad para jerarquizar títulos, subtítulos y párrafos.
 
