@@ -828,11 +828,19 @@ Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo informac
 
 - User Persona del Segmento Objetivo 1:
 
-<div align="center"><img src="resources/user-persona-segment-1.png" alt="user-persona-segment-1.png"></div>
+<p align="center">
+
+![User Persona Segmento 1](resources/user-persona-segment-1.png)
+
+</p>
 
 - User Persona del Segmento Objetivo 2:
 
-<div align="center"><img src="resources/user-persona-segment-2.png" alt="user-persona-segment-2.png"></div>
+<p align="center">
+
+![User Persona Segmento 2](resources/user-persona-segment-2.png)
+
+</p>
 
 ### 2.3.2. User Task Matrix.
 
