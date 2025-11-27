@@ -1451,7 +1451,7 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 ## 3.2. Impact Mapping.
 
-<img src="resources/Impact map 1.png" alt="Impact Mapping">
+![Impact Map 1](resources/Impact%20map%201.png)
 
 ## 3.3. Product Backlog.
 
