@@ -1067,7 +1067,7 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 -  Segmento objetivo #2: Agricultores de mediana escala 
 
-![TO-BE mediana escala](resources/TO-BE cultivo.png)
+![TO-BE mediana escala](resources/TO-BE_cultivo.png)
 
 ## User Stories
 
