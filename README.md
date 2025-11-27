@@ -1060,7 +1060,7 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 # Capítulo III: Requirements Specification
 
-## 3.1. To.be Scenario Mapping
+## 3.1. To-Be Scenario Mapping
 
 -  Miguel - Agricultores de pequeña escala.
 <div align="center">
