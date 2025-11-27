@@ -313,7 +313,11 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
   Sin embargo, en el año 2014, el valor fue de 9,2% lo que evidencia una disminución de productores/as
   asistidos/as en el periodo de análisis"
 
-<div align="center"><img src="resources/estadistica.png" alt="estadística"></div>
+<p align="center">
+
+![Estadística](resources/estadistica.png)
+
+</p>
 
 ### 1.2.2 Lean UX Process.
 
