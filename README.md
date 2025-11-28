@@ -2385,11 +2385,15 @@ En esta sección, presentamos el Design Level Event Storming desarrollado para n
 
 El diagrama de contexto de AgroApp ofrece una visión global de las interacciones principales entre el sistema central y los actores externos que lo rodean. La plataforma está orientada a simplificar la gestión y supervisión de cultivos por parte de los usuarios. En este nivel, se identifican actores clave como el Agricultor, encargado de registrar y administrar sus cultivos, y la Asociación, que envía las evaluaciones correspondientes. Asimismo, se muestran las integraciones externas más relevantes: la Pasarela de Pago para procesar transacciones con las asociaciones, el Servicio de Mapas para visualizar la ubicación de los cultivos y las Redes Sociales para compartir información de manera pública. Esta representación de alto nivel permite entender de manera clara cómo AgroApp se relaciona y coopera con su ecosistema digital y humano.
 
+**Figura : C4 Context Diagram**
+
 ![C4 Context Diagram](resources/C4_CONTEXT.png)
 
 ### 4.6.3. Software Architecture Container Diagrams.
 
 El diagrama de contenedores detalla la organización interna de AgroApp, mostrando cómo los diferentes componentes de software trabajan en conjunto para brindar la funcionalidad de la plataforma. La Aplicación Web, implementada en React, sirve como punto de interacción donde los usuarios pueden registrar y gestionar sus cultivos. Esta interfaz se conecta con una API en Node.js, que cumple el rol de enlace entre la capa de presentación y los servicios del backend. La información esencial de usuarios, cultivos, registros, evaluaciones y pagos se almacena en una Base de Datos PostgreSQL. Asimismo, se integran contenedores adicionales como el Servicio de Mapas (basado en Google Maps API) para la visualización de ubicaciones y la Pasarela de Pago (Stripe), destinada a la gestión de transacciones. En conjunto, este nivel del modelo permite comprender cómo se estructuran y comunican las partes técnicas del sistema.
+
+**Figura : C4 Container Diagram**
 
 ![C4 Container Diagram](resources/C4_CONTAINERS.png)
 
@@ -3587,11 +3591,15 @@ la persistencia adecuada de datos.
 
 
 - Bounded Context registrados en la base de datos
+  
+  **Figura : Evidencia de Bounded Context en la Base de Datos**
 
 ![evidencia de bounded context](resources/BD_DB.jpeg)
 
 - Bounded Context Community en la base de datos
 
+**Figura 20: Evidencia del Bounded Context de Community**
+  
 ![evidencia de bounded context community](resources/BC_Community.jpg)
 
 - Capturas del Backend desplegado y ejecutandose
@@ -3613,7 +3621,11 @@ Este backend está desarrollado siguiendo el patrón Domain-Driven Design (DDD),
 Contexts claramente definidos y separados. Cada contexto encapsula su propio modelo de dominio, comportamientos y
 reglas de negocio, lo que permite una arquitectura modular, mantenible y alineada con el negocio.
 
+**Figura : Bounded Context en el Backend**
+
 ![Bounded Context en Backend](resources/BC_GENERAL.jpeg)
+
+**Figura : Bounded Context Específico en el Backend**
 
 ![Bounded Context en Backend](resources/BC_ESPECIFICO.jpeg)
 
