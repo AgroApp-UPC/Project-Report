@@ -1,8 +1,6 @@
 <div align="center">
    <div>
 
-# <center>Informe del Trabajo Final</center>
-
    <br>
    <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
 
@@ -42,7 +40,7 @@
    <br>
 
    <div align="center">
-   **Relacion de Integrantes**
+   #<b>Relacion de Integrantes</b>
    <table style="margin-left: auto; margin-right: auto;">
    <tr>
    <th>Apellidos y Nombres</th>
