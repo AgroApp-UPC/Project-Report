@@ -7,7 +7,12 @@
    <center>Universidad Peruana de Ciencias Aplicadas</center>
 
    <br>
+<<<<<<< HEAD
    <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
+=======
+
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
    <br>
    <center><b>Ingeniería de software</b></center>
@@ -41,6 +46,13 @@
    <tr>
    <td>Chirito Torres, Jose Raul</td>
    <td>U20201A293</td>
+<<<<<<< HEAD
+=======
+   </tr>
+   <tr>
+   <td>Palomares Andrade, Sean Farith</td>
+   <td>U202121947</td>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
    </tr>
    <tr>
    <td>Ventosilla Trujillo, Anderson Ricardo</td>
@@ -80,12 +92,16 @@
 | 1.7     | 17/09/2025 | Angie, Sean, Anderson, José, Bruce | Desarrollo de Landing Page (UI Design, Wireframes y Mock-ups)                                         |
 | 1.8     | 18/09/2025 | Angie, Sean, Anderson, José, Bruce | Elaboración de Web Applications UX/UI Design y Wireframes                                             |
 | 1.9     | 19/09/2025 | Angie, Sean, Anderson, José, Bruce | Desarrollo de Wireflow Diagrams, User Flow Diagrams y evidencia de Sprint 1                           |
+<<<<<<< HEAD
 | 2.01    | 20/09/2025 | Angie, Sean, Anderson, José, Bruce | Inclusión de conclusiones de Student Outcome, colaboración del equipo y despliegue de la Landing Page |
 | 2.02    | 06/10/2025 | Angie, Anderson, José, Bruce | Implementación de Frontend - Sección Pets. Revisión de documentos.                         |
 | 2.03    | 07/10/2025 | Angie, Anderson, José, Bruce | Agregar Sprint 2 |
 | 2.04    | 08/10/2025 | Angie, Anderson, José, Bruce | Deploy de Frontend    |
 | 3.01    | 09/11/2025 | Angie, Anderson, José, Bruce | Desarrollo del Backend    |
 | 3.1    | 14/10/2025 | Angie, Anderson, José, Bruce | Deploy de Backend    |
+=======
+| 1.10    | 20/09/2025 | Angie, Sean, Anderson, José, Bruce | Inclusión de conclusiones de Student Outcome, colaboración del equipo y despliegue de la Landing Page |
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 </div>
 
@@ -105,6 +121,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Bruce Via           | Domain Driven Design, diagrama de clases, diagrama de base de datos, event storming, users stories, impact mapping, product backlog                                                                                             |
 | Angie Yalán         | Startup profile, solution profile, lean ux process, segmentos objetivos, diseño de entrevistas, style guidelines, information architecture, landing page UI design, web applications UX/UI Design, web applications prototyping |
 
+<<<<<<< HEAD
 **TP**
 
 Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
@@ -127,6 +144,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Bruce Via           | Bounded Context Profile                                                                                             |
 | Angie Yalán         | Bounded Context Task y Field |
 
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 # Contenido
 
 1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
@@ -154,6 +173,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
    2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
+<<<<<<< HEAD
    2.3.5. [AS-IS Scenario Mapping](#235-as-is-scenario-mapping)<br>
    2.4. [Big Picture Event Storming](#24-big-picture-event-storming)<br>
    2.5. [Ubiquitous Language](#25-ubiquitous-language)<br>
@@ -162,6 +182,14 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
    3.2. [User Stories](#32-user-stories)<br>
    3.3. [Impact Mapping](#33-impact-mapping)<br>
    3.4. [Product Backlog](#34-product-backlog)<br>
+=======
+   2.4. [Big Picture Event Storming](#24-big-picture-event-storming)<br>
+   2.5. [Ubiquitous Language](#25-ubiquitous-language)<br>
+3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
+   3.1. [User Stories](#31-user-stories)<br>
+   3.2. [Impact Mapping](#32-impact-mapping)<br>
+   3.3. [Product Backlog](#33-product-backlog)<br>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 4. [Capítulo IV: Product Design](#capítulo-iv-product-design)<br>
    4.1. [Style Guidelines](#41-style-guidelines)<br>
    4.1.1. [General Style Guidelines](#411-general-style-guidelines)<br>
@@ -239,8 +267,13 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Conclusiones |
 | --------------------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+<<<<<<< HEAD
 | Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia. <br>TP: Mis numerosos commits indican mi dedicación y enfoque intensivo en áreas clave como el dashboard. Esta inmersión me convierte en el experto del componente. Cuando hablo, puedo dar detalles precisos y exhaustivos sobre esa parte del sistema, lo cual es invaluable. Mi consistencia en el trabajo se traduce en una comunicación confiable; si yo digo que algo está cubierto, lo está.<br>TB2:José fue una pieza clave en la fundación técnica del backend. Como líder de la conexión a la base de datos, sus commits (JPA, auditing, refactors, e inicio del proyecto) demuestran un trabajo profundo en la arquitectura inicial. Completó con éxito su tarea de responsive design<br> <br>**Sean Palomares** <br>TB1: Realize entrevistas mediante las cuales pude comunicarme con nuestros segmentos objetivos para obtener información valiosa para el desarrollo del proyecto. <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br>TP: Al nombrar mis características correctamente, muestro que tengo una visión clara del alcance y la funcionalidad. Esta habilidad se traduce en una comunicación oral altamente estructurada y estratégica. Cuando hablo, no solo informo lo que estoy haciendo, sino que explico cómo mi pieza encaja en el rompecabezas general de la aplicación, lo cual es esencial para hablar con éxito con líderes de proyecto, compañeros y audiencias no técnicas. <br>TB2:Cumplió con éxito sus dos objetivos principales. Como líder en el desarrollo de endpoints, sus commits (Implement crop fields, Implement community posts) muestran su contribución directa a la creación de Bounded Contexts.<br><br> **Bruce Via** <br>TB1: Mediante las entrevistas presentadas logra comunicar correctamente la idea de nuestro produto a los segmentos objetivos <br> TP: Demuestra una alta capacidad de síntesis y enfoque, organice mis pensamientos de manera clara y metódica, habilidad clave para explicar conceptos complejos oralmente a cualquier audiencia. Su trabajo con merges indica que coordina múltiples hilos de desarrollo, lo que requiere comunicación oral efectiva para alinear equipos.<br> TB2: Bruce demostró una productividad y fiabilidad excepcionales. No solo actuó como organizador (Preparó el Sprint Planning), sino que completó el 100% de sus tareas asignadas<br><br> **Angie Yalán** <br>TB1: Fortalecí mi comunicación oral principalmente al realizar entrevistas a los segmentos objetivo. Adapté mi lenguaje para generar confianza con los agricultores y obtener información clara, lo que permitió validar necesidades reales y enriquecer el diseño de la solución. <br> TP: Mi foco está en la entrega y la acción. Aunque mi mensaje de commit es sencillo, refleja que mi prioridad es completar la tarea y ponerla a disposición. Oralmente, me gusta ser directo y centrado en la solución. Mi estilo de comunicación es ideal para discusiones rápidas donde la toma de decisiones y la eficiencia son lo más importante.<br>TB2: Fue responsable de entregar el CRUD de "Crops" (US-05, 06, 07), una funcionalidad central. Su historial de commits es el más activo, lo que sugiere que además de desarrollar sus propias tareas, asumió un rol clave en la integración, documentación y fusión de ramas ("Merge branch...", "docs: add bounded context..."), asegurando la cohesión del código. | **TB1:** Como equipo, fortalecimos nuestra comunicación oral adaptándola a distintos contextos y audiencias. Desde la presentación de análisis competitivos y la explicación técnica de procesos, hasta la realización de entrevistas con segmentos objetivos, logramos transmitir ideas con claridad y generar confianza. Esto nos permitió obtener información valiosa, validar la propuesta de AgroApp y asegurar que cada integrante aportara a la construcción de un mensaje efectivo y comprensible para públicos diversos.   <br><br> **TP:** Demostramos una habilidad clave para pensar de forma estructurada (evidente en cómo nombramos nuestros cambios), lo que nos permite explicar el 'por qué' del trabajo a cualquier audiencia, desde la gerencia hasta los miembros nuevos. Tenemos expertos que hablan con precisión sobre los detalles técnicos (el dashboard), y otros que se enfocan en la acción directa <br><br> **TB2:** El equipo demostró una productividad excepcional durante el Sprint 3, logrando el objetivo principal de implementar y desplegar la "real API". Hubo una especialización de roles muy efectiva: los miembros responsables de las funcionalidades centrales (CRUDs) completaron el 100% de sus tareas, mientras que otro miembro aseguró la entrega de la infraestructura crítica (despliegue de la base de datos). Un integrante también asumió un rol vital de integración y documentación, gestionando la cohesión del código. La ejecución fue casi perfecta, siendo el único bloque de trabajo incompleto el módulo de autenticación de usuarios, que queda como la principal deuda técnica para el siguiente sprint. |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br>TP: Me aseguro de que el historial de cambios refleje mi ritmo de trabajo constante y mi compromiso con la integración continua. Al hacer muchos commits pequeños (Update dashboard...), estoy comunicando que hago las cosas poco a poco y de forma incremental. Esto facilita enormemente la revisión del código y minimiza el riesgo de introducir errores grandes, demostrando una responsabilidad continua con la estabilidad del proyecto.<br>TB2:José fue una pieza clave en la fundación técnica del backend. Como líder de la conexión a la base de datos, sus commits (JPA, auditing, refactors, e inicio del proyecto) demuestran un trabajo profundo en la arquitectura inicial. Completó con éxito su tarea de responsive design<br> <br>**Sean Palomares** <br>TB1: Haciendo uso de la información recolectada por el equipo durante las entrevistas hice el needfinding para conocer mejor a nuestros segmentos objetivos. <br><br> **Anderson Ventosilla** <br>TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br>TP: Mi comunicación escrita es mi mayor fortaleza: soy preciso, profesional y me adhiero a los estándares (feat(auth), feat(dashboard)). Esto me permite ser inmediatamente efectivo con mi audiencia técnica.<br>TB2:Cumplió con éxito sus dos objetivos principales. Como líder en el desarrollo de endpoints, sus commits (Implement crop fields, Implement community posts) muestran su contribución directa a la creación de Bounded Contexts.<br><br> **Bruce Via** <br>TB1: Gracias a la documentación y correcta demostración escrita, se muestra la efectividad de nuestra aplicación mediante actividades como historias de usuario o diagramas de clase<br>TP: Mis mensajes prueban mi disciplina y mi respeto por las buenas prácticas. Me aseguro de que mi audiencia técnica reciba información concisa y utilizable. Al usar prefijos y mensajes claros, estoy comunicando inmediatamente el qué y el por qué de mi trabajo, ahorrándole tiempo a cualquiera que revise el historial. Priorizo la claridad técnica en mi comunicación escrita.<br> TB2: Bruce demostró una productividad y fiabilidad excepcionales. No solo actuó como organizador (Preparó el Sprint Planning), sino que completó el 100% de sus tareas asignadas<br> <br>**Angie Yalán** <br>TB1: La elaboración de documentos como el Startup Profile y el Product Design me permitió comunicar por escrito de forma clara y estructurada. Usé un estilo técnico en los apartados académicos y uno más simple y persuasivo al destacar los beneficios de AgroApp para distintos públicos. <br> TP: Mi enfoque es simple: "El trabajo está hecho y disponible." Estoy comunicando mi compromiso con la finalización de mis tareas y garantizo que mi código está listo para el siguiente paso del proceso. Esto da confianza al equipo y a la gerencia de que el proyecto sigue avanzando sin retrasos.<br>TB2: Fue responsable de entregar el CRUD de "Crops" (US-05, 06, 07), una funcionalidad central. Su historial de commits es el más activo, lo que sugiere que además de desarrollar sus propias tareas, asumió un rol clave en la integración, documentación y fusión de ramas ("Merge branch...", "docs: add bounded context..."), asegurando la cohesión del código.                                                                         | **TB1:** Como grupo, demostramos efectividad en la comunicación escrita al producir documentos claros y estructurados que se adaptaron a distintos públicos. Desde análisis competitivos, needfinding y documentación técnica, hasta perfiles y diseños persuasivos, logramos transmitir tanto aspectos académicos como prácticos. Esto permitió al equipo organizar la información, dejar evidencia de los procesos y presentar AgroApp de manera comprensible y convincente para diversas audiencias.  <br><br> **TP:** Nuestro enfoque en los estándares profesionales asegura que nuestros mensajes son trazables y concisos. Comunicamos de manera efectiva no solo lo que hicimos, sino el valor funcional que agregamos (como implementar una UI completa). Lo más importante es que nuestra consistencia y transparencia en los registros de trabajo crean un historial fiable <br><br> **TB2:** El equipo demostró una productividad excepcional durante el Sprint 3, logrando el objetivo principal de implementar y desplegar la "real API". Hubo una especialización de roles muy efectiva: los miembros responsables de las funcionalidades centrales (CRUDs) completaron el 100% de sus tareas, mientras que otro miembro aseguró la entrega de la infraestructura crítica (despliegue de la base de datos). Un integrante también asumió un rol vital de integración y documentación, gestionando la cohesión del código. La ejecución fue casi perfecta, siendo el único bloque de trabajo incompleto el módulo de autenticación de usuarios, que queda como la principal deuda técnica para el siguiente sprint. |
+=======
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **José Chirito** <br>TB1: De manera efectiva comuniqué los hallazgos del análisis competitivo de AgroApp frente a otros competidores, según la audiencia. <br><br> **Sean Palomares** <br>TB1: Realize entrevistas mediante las cuales pude comunicarme con nuestros segmentos objetivos para obtener información valiosa para el desarrollo del proyecto. <br><br> **Anderson Ventosilla** <br>TB1: Me encargué de implementar la Landing Page utilizando Astro, asegurando una estructura clara y adaptable. También configuré el repositorio en GitHub dentro de la organización y trabajé en una rama específica para mantener un flujo ordenado de cambios. Finalmente, realicé el despliegue en Vercel, explicando el proceso al equipo para garantizar la comprensión de los resultados.<br><br> **Bruce Via** <br>TB1: Mediante las entrevistas presentadas logra comunicar correctamente la idea de nuestro produto a los segmentos objetivos<br><br> **Angie Yalán** <br>TB1: Fortalecí mi comunicación oral principalmente al realizar entrevistas a los segmentos objetivo. Adapté mi lenguaje para generar confianza con los agricultores y obtener información clara, lo que permitió validar necesidades reales y enriquecer el diseño de la solución. | **TB1:** Como equipo, fortalecimos nuestra comunicación oral adaptándola a distintos contextos y audiencias. Desde la presentación de análisis competitivos y la explicación técnica de procesos, hasta la realización de entrevistas con segmentos objetivos, logramos transmitir ideas con claridad y generar confianza. Esto nos permitió obtener información valiosa, validar la propuesta de AgroApp y asegurar que cada integrante aportara a la construcción de un mensaje efectivo y comprensible para públicos diversos.    |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **José Chirito** <br>TB1: Mediante escrito realicé de manera clara y estructurada el análisis competitivo a distinto público y audiencia. <br><br> **Sean Palomares** <br>TB1: Haciendo uso de la información recolectada por el equipo durante las entrevistas hice el needfinding para conocer mejor a nuestros segmentos objetivos. <br><br> **Anderson Ventosilla** <br>TB1: TB1: Implementé la documentación del proceso de despliegue en Vercel, detallando paso a paso las acciones realizadas y describiendo la configuración de la Landing Page. Me aseguré de que la información fuera clara, precisa y comprensible para todo el equipo. <br><br> **Bruce Via** <br>TB1: Gracias a la documentacion y correcta demostracion escrita, se muestra la efectividad de nuestra aplicacion mediante actividades como historias de usuario o diagramas de clase<br><br> **Angie Yalán** <br>TB1: La elaboración de documentos como el Startup Profile y el Product Design me permitió comunicar por escrito de forma clara y estructurada. Usé un estilo técnico en los apartados académicos y uno más simple y persuasivo al destacar los beneficios de AgroApp para distintos públicos.                                                                         | **TB1:** Como grupo, demostramos efectividad en la comunicación escrita al producir documentos claros y estructurados que se adaptaron a distintos públicos. Desde análisis competitivos, needfinding y documentación técnica, hasta perfiles y diseños persuasivos, logramos transmitir tanto aspectos académicos como prácticos. Esto permitió al equipo organizar la información, dejar evidencia de los procesos y presentar AgroApp de manera comprensible y convincente para diversas audiencias.    |
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 # Capítulo I: Introducción
 
@@ -264,7 +297,11 @@ Ser la plataforma líder en soluciones digitales agrícolas en Latinoamérica, r
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **Sean Palomares:**<br>Mi nombre es Sean Palomares, tengo 22 años y estudio la carrera de Ingeniería de Software. Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. Me considero una persona positiva, tolerante y creativa, cualidades que me permiten adaptarme con facilidad a diferentes entornos de trabajo. Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. | <img src="https://i.imgur.com/eEpELa0.png" alt="sean image" width="200">                 |
 | **Jose Chirito:** <br> Mi nombre es Jose Chirito, tengo 23 años y estudio la carrera de Ingeniería de Software.También tengo conocimiento en varios lenguajes de programación. Y considero que aprendo rápido los temas y el trabajo grupal.                                                                                                                                                                                                                            | <img src="https://files.catbox.moe/qv2dwt.png" alt="jose image" width="200">             |
+<<<<<<< HEAD
 | **Bruce Via:** <br> Mi nombre es Bruce Via, tengo 20 años y soy estudiante de la carrera de ingeniería de Software. Me considero uan persona que muestra un interés desmedido cuando lo que hago resulta agradable, dispuesto a aprender nuevos conocimientos incluso si no es necesario, ademas de siempre intentar mejorar en lo que hago demostrando iniciativo                                                                                                      | <img src="https://files.catbox.moe/3km7sr.png" alt="Image Bruce" width=400px>            |
+=======
+| **Bruce Via:** <br> Mi nombre es Bruce Via, tengo 20 años y soy estudiante de la carrera de ingenieria de Software. Me considero uan persona que muestra un interes desmedido cuando lo que hago resulta agradable, dispuesto a aprender nuevos conocimientos incluso si no es necesario, ademas de siempre intentar mejorar en lo que hago demostrando iniciativo                                                                                                      | <img src="https://files.catbox.moe/3km7sr.png" alt="Image Bruce" width=400px>            |
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 | **Angie Yalán:**<br> Mi nombre es Angie Yalán. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona proactiva que le gustan nuevas experiencias y aprender cosas diferentes. Sigo en el proceso de mejora en cuanto a la programación y cuento con toda la iniciativa para ser cada día mejor en ello.                                                                                                                         | <img src="https://files.catbox.moe/y4ei9k.jpg" alt="angie image" width="200">            |
 | **Anderson Ventosilla:**<br>Mi nombre es Anderson , tengo 21 años , soy estudiante de Ingeniería de Software, apasionado por la tecnología desde muy pequeño. Cuento con conocimientos en el desarrollo frontend y backend, lo que me permite desenvolverme en proyectos de manera integral. Mi interés está en seguir aprendiendo e ir mejorando mis habilidades dia a dia.                                                                                            | <img src="https://avatars.githubusercontent.com/u/74742028?v=4" alt="image" width="200"> |
 
@@ -337,12 +374,20 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
   Sin embargo, en el año 2014, el valor fue de 9,2% lo que evidencia una disminución de productores/as
   asistidos/as en el periodo de análisis"
 
+<<<<<<< HEAD
 
 <div align=center>
 
   ![Estadistica How-Much](resources/estadistica.png)
 
 </div>
+=======
+<p align="center">
+
+![Estadística](resources/estadistica.png)
+
+</p>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 ### 1.2.2 Lean UX Process.
 
@@ -474,8 +519,12 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
 
 #### 1.2.2.4. Lean UX Canvas.
 
+<<<<<<< HEAD
 ![lean-ux-canvas](resources/leanuxcanvas.png)
 
+=======
+![Lean UX Canvas](resources/leanuxcanvas.png)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 ## 1.3. Segmentos objetivo.
 
@@ -854,6 +903,7 @@ Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo informac
 
 - User Persona del Segmento Objetivo 1:
 
+<<<<<<< HEAD
 <div align="center">
 
   ![user-persona-segment-1](resources/user-persona-segment-1.png)
@@ -870,6 +920,24 @@ Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo informac
 
 ### 2.3.2. User Task Matrix.
 #### Tabla de contendio de "Tasks" de los usuarios
+=======
+<p align="center">
+
+![User Persona Segmento 1](resources/user-persona-segment-1.png)
+
+</p>
+
+- User Persona del Segmento Objetivo 2:
+
+<p align="center">
+
+![User Persona Segmento 2](resources/user-persona-segment-2.png)
+
+</p>
+
+### 2.3.2. User Task Matrix.
+
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 <table>
   <thead>
     <tr>
@@ -972,7 +1040,10 @@ Conclusiones:
 
 </p>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 ### 2.3.4. Empathy Mapping.
 
 - Empathy Map: Miguel - Agricultores de pequeña escala.
@@ -991,6 +1062,7 @@ Conclusiones:
 
 </p>
 
+<<<<<<< HEAD
 
 ### 2.3.5. AS-IS Scenario Mapping.
 
@@ -999,6 +1071,16 @@ Conclusiones:
 
 **Segmento objetivo #2: Agricultores de mediana escala**
 ![As-Is Segmento 2](resources/AS-IS_cultivo.png)
+=======
+### 2.3.5 As-Is Scenario Mapping.
+
+**Segmento objetivo #1: Agricultores de pequeña escala**
+![AS-IS pequeña escala](resources/AS-IS.png)
+
+**Segmento objetivo #2: Agricultores de mediana escala**
+
+![AS-IS mediana escala](resources/AS-IS_cultivo.png)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 ## 2.4. Big Picture Event Storming.
 
@@ -1007,7 +1089,11 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 ![Big Event Storming](resources/Event_storming.jpg)
 
 ## 2.5. Ubiquitous Language.
+<<<<<<< HEAD
 **Tabla del lenguaje Obicuo utilizado en nuestro proyecto**
+=======
+
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 <table>
   <thead>
     <tr>
@@ -1112,7 +1198,11 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 # Capítulo III: Requirements Specification
 
+<<<<<<< HEAD
 ## 3.1. TO-BE Scenario Mapping.
+=======
+## 3.1. To-Be Scenario Mapping
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 **Segmento objetivo #1: Agricultores de pequeña escala** 
 ![TO-BE pequeña escala](resources/TO-BE.png)
@@ -1121,7 +1211,11 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 
 ![TO-BE mediana escala](resources/TO-BE_cultivo.png)
 
+<<<<<<< HEAD
 ## 3.2. User Stories
+=======
+## User Stories
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 **Epicas para AgroApp**
 
@@ -1476,6 +1570,7 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
   </tbody>
 </table>
 
+<<<<<<< HEAD
 ## 3.3. Impact Mapping.
 
 **Mapa de Impacto en nuestros usuarios en un tiempo promedio de año y medio**
@@ -1483,6 +1578,13 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 ![Impact Map 1](resources/Impact%20map%201.png)
 
 ## 3.4. Product Backlog.
+=======
+## 3.2. Impact Mapping.
+
+![Impact Map 1](resources/Impact%20map%201.png)
+
+## 3.3. Product Backlog.
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 <table>
   <thead>
@@ -1757,20 +1859,37 @@ El sistema visual se inspira en Design Systems modernos, pero adaptado a la real
 
 ##### 4.1.1.1.1. Tipografía del logo
 
+<<<<<<< HEAD
 <div align="center">
 
   ![Logo AgroApp](resources/figma/logoagroapp.png)
 
 </div>
+=======
+<p align="center">
+
+![Logo AgroApp](resources/figma/logoagroapp.png)
+
+</p>
+
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 El logotipo utiliza la fuente Inter en estilo SemiBold, en minúsculas. Esta decisión transmite modernidad, cercanía y simplicidad, evitando un aspecto corporativo rígido. La elección en minúsculas aporta accesibilidad, mientras que el grosor SemiBold garantiza buena presencia visual en pantallas grandes y pequeñas.
 
 ##### 4.1.1.1.2. Tipografía del texto regular
 
+<<<<<<< HEAD
 <div align="center">
 
 ![Tipografía AgroApp](resources/figma/tipografia.png)
 
 </div>
+=======
+<p align="center">
+
+![Tipografía AgroApp](resources/figma/tipografia.png)
+
+</p>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 Para todo el contenido textual se utiliza también la familia tipográfica Inter, que ofrece una amplia gama de grosores desde ExtraLight hasta Bold. Esto asegura consistencia en el sistema y flexibilidad para jerarquizar títulos, subtítulos y párrafos.
 
@@ -1783,11 +1902,15 @@ La tipografía Inter fue elegida por su legibilidad en dispositivos móviles y s
 
 #### 4.1.1.2. Colores
 
+<<<<<<< HEAD
 <div align="center"> 
 
   ![paleta de colores de agroapp](resources/figma/color.png)
 
 </div>
+=======
+<div align="center"> <img src="resources/figma/color.png" alt="paleta de colores de agroapp" width="400"> </div>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 La paleta de colores se compone de tonos inspirados en la naturaleza agrícola del Perú:
 
@@ -1808,11 +1931,19 @@ La combinación de verdes y marrones evoca naturaleza, confianza y sustentabilid
 
 #### 4.1.1.3. Iconografía
 
+<<<<<<< HEAD
 <div align="center">
 
 ![Iconografía AgroApp](resources/figma/iconografia.png)
 
 </div>
+=======
+<p align="center">
+
+![Iconografía AgroApp](resources/figma/iconografia.png)
+
+</p>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 Los íconos siguen un estilo lineal, minimalista y de trazo uniforme, basados en un grid de 24px y con grosor de 2px–4px según el tamaño. Se emplean íconos de uso universal (hogar, usuario, añadir, editar, eliminar) para garantizar intuitividad y consistencia.
 
@@ -1856,6 +1987,7 @@ AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contra
 ### 4.2.1. Organization Systems.
 
 - **Landing page Diagram:**
+<<<<<<< HEAD
 <div align="center">
 
 ![Sistema Organizacional – Landing Page](resources/organizational1.png)
@@ -1876,6 +2008,27 @@ AgroApp se ha diseñado bajo principios de inclusión y accesibilidad. El contra
 
 </div>
 
+=======
+<p align="center">
+
+![Sistema Organizacional – Landing Page](resources/organizational1.png)
+
+</p>
+
+- **Homepage Diagram:**
+<p align="center">
+
+![Sistema Organizacional – Homepage](resources/organizational2.png)
+
+</p>
+
+- **Dashboard Diagram:**
+<p align="center">
+
+![Dashboard del Sistema Organizacional](resources/organizational3.png)
+
+</p>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 ### 4.2.2. Labeling Systems.
 
@@ -2078,6 +2231,7 @@ El diseño prioriza la claridad visual, con tipografía limpia (Inter), botones 
 
 ### 4.3.1. Landing Page Wireframe.
 
+<<<<<<< HEAD
 <div align="center"> 
 
   ![Landing Page Wireframe 1](resources/figma/wireframes/lp1.png)
@@ -2090,6 +2244,13 @@ El diseño prioriza la claridad visual, con tipografía limpia (Inter), botones 
 
   ![Landing Page Wireframe 5](resources/figma/wireframes/lp5.png)
 </div>
+=======
+![Landing Page Wireframe 1](resources/figma/wireframes/lp1.png)
+![Landing Page Wireframe 2](resources/figma/wireframes/lp2.png)
+![Landing Page Wireframe 3](resources/figma/wireframes/lp3.png)
+![Landing Page Wireframe 4](resources/figma/wireframes/lp4.png)
+![Landing Page Wireframe 5](resources/figma/wireframes/lp5.png)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 Los wireframes establecen la estructura inicial de la experiencia:
 
@@ -2116,6 +2277,7 @@ En ambos casos, se aplican principios de diseño inclusivo:
 
 ### 4.3.2. Landing Page Mock-up.
 
+<<<<<<< HEAD
 <div align="center">
 
   ![Landing Page Mockup 1](resources/figma/mockups/lp1.png)
@@ -2124,6 +2286,13 @@ En ambos casos, se aplican principios de diseño inclusivo:
   ![Landing Page Mockup 4](resources/figma/mockups/lp4.png)
   ![Landing Page Mockup 5](resources/figma/mockups/lp5.png)
 </div>
+=======
+![Landing Page Mockup 1](resources/figma/mockups/lp1.png)
+![Landing Page Mockup 2](resources/figma/mockups/lp2.png)
+![Landing Page Mockup 3](resources/figma/mockups/lp3.png)
+![Landing Page Mockup 4](resources/figma/mockups/lp4.png)
+![Landing Page Mockup 5](resources/figma/mockups/lp5.png)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 Los mockups transforman los wireframes en propuestas visuales finales:
 
@@ -2150,8 +2319,11 @@ Además, se incorporan principios de diseño inclusivo: alto contraste en elemen
 
 ### 4.4.1. Web Applications Wireframes.
 
+<<<<<<< HEAD
 <div align="center">
 
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 ![Wireframe Login](resources/figma/wireframes/lp4.png)>
 ![Wireframe Registro](resources/figma/wireframes/lp5.png)
 ![Wireframe WebApp 1](resources/figma/wireframes/wb1.png)
@@ -2163,7 +2335,10 @@ Además, se incorporan principios de diseño inclusivo: alto contraste en elemen
 ![Wireframe WebApp 7](resources/figma/wireframes/wb7.png)
 ![Wireframe WebApp 8](resources/figma/wireframes/wb8.png)
 ![Wireframe WebApp 9](resources/figma/wireframes/wb9.png)
+<<<<<<< HEAD
 </div>
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 Los wireframes constituyen la base estructural de la experiencia digital de AgroApp, definiendo la arquitectura de información y la interacción antes de avanzar al diseño final.
 
@@ -2246,11 +2421,16 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 
 </p>
 
+<<<<<<< HEAD
 
 ### 4.4.2. Web Applications Mock-ups.
 
 <div align="center">
 
+=======
+### 4.4.2. Web Applications Mock-ups.
+
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 ![Mockup Login](resources/figma/mockups/lp4.png)
 ![Mockup Registro](resources/figma/mockups/lp5.png)
 ![Mockup WebApp 1](resources/figma/mockups/wb1.png)
@@ -2262,7 +2442,10 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 ![Mockup WebApp 7](resources/figma/mockups/wb7.png)
 ![Mockup WebApp 8](resources/figma/mockups/wb8.png)
 ![Mockup WebApp 9](resources/figma/mockups/wb9.png)
+<<<<<<< HEAD
 </div>
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 Los mock-ups de AgroApp representan la transición de la estructura al diseño final, aplicando el Design System previamente establecido.
 
@@ -2320,7 +2503,10 @@ El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión c
 
 </p>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 Video: _[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eblgu9ZKBBdFuFEVEuDIlpsBbKIO-H_TpjLgVCCi2fptjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1ZYHp6)_
 
 Web Applications Prototyping web view: _[Web Applications Prototyping](https://www.figma.com/proto/ZBulGqbgy8UqeVVcz7505E/AgroApp?node-id=107-687&p=f&t=zTIr6yNub1GBQw11-1&scaling=contain&content-scaling=fixed&page-id=107%3A658&starting-point-node-id=107%3A687&show-proto-sidebar=1)_
@@ -2336,16 +2522,28 @@ En esta sección, presentamos el Design Level Event Storming desarrollado para n
 
 ![Design Level Event](resources/Desing%20Level%20-%20Event.jpg)
 
+<<<<<<< HEAD
 ![Design Level Cultivos](resources/Desing%20Level%20-%20Event%20%281%29.jpg)
 
 ![Design Level Areas](resources/Desing%20Level%20-%20Event%20%282%29.jpg)
 
+=======
+
+
+![Design Level Cultivos](resources/Desing%20Level%20-%20Event%20%281%29.jpg)
+
+
+![Design Level Areas](resources/Desing%20Level%20-%20Event%20%282%29.jpg)
+
+
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 ![Design Level Evaluation](resources/Desing%20Level%20-%20Event%20%283%29.jpg)
 
 ### 4.6.2. Software Architecture Context Diagram.
 
 El diagrama de contexto de AgroApp ofrece una visión global de las interacciones principales entre el sistema central y los actores externos que lo rodean. La plataforma está orientada a simplificar la gestión y supervisión de cultivos por parte de los usuarios. En este nivel, se identifican actores clave como el Agricultor, encargado de registrar y administrar sus cultivos, y la Asociación, que envía las evaluaciones correspondientes. Asimismo, se muestran las integraciones externas más relevantes: la Pasarela de Pago para procesar transacciones con las asociaciones, el Servicio de Mapas para visualizar la ubicación de los cultivos y las Redes Sociales para compartir información de manera pública. Esta representación de alto nivel permite entender de manera clara cómo AgroApp se relaciona y coopera con su ecosistema digital y humano.
 
+<<<<<<< HEAD
 ![C4 Context Diagram](resources/C4_CONTEXT.png)
 
 ### 4.6.3. Software Architecture Container Diagrams.
@@ -2373,6 +2571,32 @@ El diagrama de componentes pone el foco en la arquitectura interna de la API de 
 
 ![C4 Components Comunidad](resources/C4-CommunityManagement_Components.png)
 </div>
+=======
+![C4 Context Diagram](resources/C4%20CONTEXTO.jpg)
+
+### 4.6.3. Software Architecture Container Diagrams.
+
+El diagrama de contenedores detalla la organización interna de AgroApp, mostrando cómo los diferentes componentes de software trabajan en conjunto para brindar la funcionalidad de la plataforma. La Aplicación Web, implementada en React, sirve como punto de interacción donde los usuarios pueden registrar y gestionar sus cultivos. Esta interfaz se conecta con una API en Spring Boot(Java), que cumple el rol de enlace entre la capa de presentación y los servicios del backend. La información esencial de usuarios, cultivos, registros, evaluaciones y pagos se almacena en una Base de Datos PostgreSQL. Asimismo, se integran contenedores adicionales como el Servicio de Mapas (basado en Google Maps API) para la visualización de ubicaciones y la Pasarela de Pago (Stripe), destinada a la gestión de transacciones. En conjunto, este nivel del modelo permite comprender cómo se estructuran y comunican las partes técnicas del sistema.
+
+
+![C4 Container Diagram](resources/C4%20CONTENEDORES.jpg)
+
+### 4.6.4. Software Architecture Components Diagrams.
+
+El diagrama de componentes pone el foco en la arquitectura interna de la API de AgroApp, encargada de coordinar la lógica de negocio central de la plataforma. Esta API, desarrollada en Spring boot(Java), se organiza en distintos componentes especializados, cada uno orientado a un dominio concreto. El Componente de Gestión de Usuarios administra la autenticación y los perfiles; Gestión de Cultivos permite realizar operaciones sobre los cultivos registrados; Control de Cultivos abarca el ciclo completo de cuidado de cada cultivo; Ubicaciones y Terrenos gestiona la localización de los cultivos registrados; y Reporte de Evaluaciones procesa tanto los informes como los pagos asociados a dichas evaluaciones. La interacción entre estos módulos sigue un flujo funcional definido: los agricultores administran cultivos, estos se asocian a cuentas y pueden ser evaluados. Esta separación de responsabilidades refleja un diseño guiado por el dominio, donde cada componente encapsula una función específica y colabora con los demás para dar soporte integral a la plataforma junto a los Bounded Countext desarrollados que explicacion de forma aun mas detallada la funcionalidad de cada componente existente de la plataforma AgroApp.
+
+![C4 Componentes API](resources/C4_COMPONENTES_API.jpg)
+
+![C4 Components User](resources/C4_COMPONENTS_USER.jpg)
+
+![C4 Components Campo](resources/C4%20COMPONETS_CAMPO.jpg)
+
+![C4 Components Cultivo](resources/C4%20COMPONENTS_CULTIVO.jpg)
+
+![C4 Components Tareas](resources/C4_COMPONENTS_TAREAS.jpg)
+
+![C4 Components Comunidad](resources/C4_COMPONENTS_COMUNIDAD.jpg)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -2386,9 +2610,16 @@ El diagrama de componentes pone el foco en la arquitectura interna de la API de 
 ### 4.8.1. Database Diagrams.
 
 - Diagrama de la base de datos del proyecto AgroApp
+<<<<<<< HEAD
 
  ![Database Diagram](resources/Data_base_diagram.JPG)
 
+=======
+- 
+ ![Database Diagram](resources/Data_base_diagram.JPG)
+
+
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
@@ -2554,28 +2785,48 @@ En esta sección se explica el proceso de despliegue de la Landing Page utilizan
 1. **Conexión con el repositorio:**  
    Se enlazó el repositorio de la organización en GitHub con la cuenta de Vercel, lo que permitió habilitar el despliegue automático.
 
+<<<<<<< HEAD
    ![Conexión con GitHub](resources/Conection_Repo.png)
+=======
+   ![Conexión con GitHub](https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 2. **Selección del proyecto:**  
    Se seleccionó el repositorio correspondiente a la Landing Page y se configuró como un nuevo proyecto dentro de Vercel.
 
+<<<<<<< HEAD
    ![Seleccion del proyecto](resources/Projects.png)
+=======
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418728555025793204/image.png?ex=68cf2d6e&is=68cddbee&hm=a31f1ae93173f26327887a752e7ff74def1e95b4b025315b659f4bd1497eb7c0&=&format=webp&quality=lossless)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 3. **Configuración del framework:**  
    Durante el setup, Vercel detectó el framework **Astro** empleado en el desarrollo. No fue necesario realizar configuraciones adicionales, ya que Vercel cuenta con soporte nativo.
 
+<<<<<<< HEAD
    ![Seleccion del proyecto](resources/Framework_Configuration.png)
+=======
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418728951597240361/image.png?ex=68cf2dcc&is=68cddc4c&hm=49bf28cf58625e9ea0f5c6652899bab5117c559e07546b515dce1e78b6608a1f&=&format=webp&quality=lossless)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 4. **Deploy automático:**  
    Con cada cambio realizado en la rama principal del repositorio, Vercel ejecuta automáticamente un nuevo build y despliega la versión actualizada de la Landing Page.
 
+<<<<<<< HEAD
    ![Seleccion del proyecto](resources/Automatic_Deploy.png)
+=======
+   ![Seleccion del proyecto](https://media.discordapp.net/attachments/814677457042276372/1418730308064514151/image.png?ex=68cf2f10&is=68cddd90&hm=f2a8a7acf24d6d4c6e2b43cae9d50b942cd5bbbe036e4998e8f24ec4cd14b6ad&=&format=webp&quality=lossless)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 **Resultado:**  
 La Landing Page quedó publicada en un dominio proporcionado por Vercel, garantizando disponibilidad inmediata y actualizaciones automáticas con cada commit al repositorio y disponible en el siguiente enlace:  
 👉 [https://landing-page-j8amn4de5-and12326s-projects.vercel.app/](https://landing-page-j8amn4de5-and12326s-projects.vercel.app/)
 
+<<<<<<< HEAD
 ![Resultado de la landing page](resources/Landing_Page_Deployed.png)
+=======
+![Resultado de la landing page](https://media.discordapp.net/attachments/814677457042276372/1418729607485460481/image.png?ex=68cf2e69&is=68cddce9&hm=841ba0824bb500322536faf390ce5661b61a754ac973b4b2efbcbe3183312021&=&format=webp&quality=lossless&width=1414&height=771)
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -2777,7 +3028,10 @@ Para este primer sprint se implemento el Landing Page de AgroApp tiendo como obj
 
 </p>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 **Video sobre landing page:** https://youtu.be/7E-qTN7gIjI
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -2790,6 +3044,7 @@ Durante este primer Sprint los procesos de deployment realizados fueron exclusiv
 
 Para empezar se accedió al apartado Pages de la configuración del repositorio.
 
+<<<<<<< HEAD
 <div align="center">
 
 ![Seleccion de Framework](resources/Vercel_Executation.png)
@@ -2808,6 +3063,18 @@ Muestra de la organizacion, donde se encuentra el repositorio de la landing page
 
 ![Repositories Collection](resources/Repositories.png)
 </div>
+=======
+
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless&width=1356&height=845" alt="deployment-evidence/repo-configuration"></div>
+
+Se seleccionó la rama main para el despliegue.
+
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418730236371013663/image.png?ex=68cf2eff&is=68cddd7f&hm=6292db7943bc272304e7746bc9f8c6d92671f08f53670bf38e80ffba100045bb&=&format=webp&quality=lossless&width=1127&height=875" alt="deployment-evidence/branch-selection"></div>
+
+Muestra de la organizacion, donde se encuentra el repositorio de la landing page.
+
+<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418738604901142660/image.png?ex=68cf36ca&is=68cde54a&hm=13a2b49713f055b08f014660590294f8d9c55e0f3b3e5a967f36efcab9c8817e&=&format=webp&quality=lossless&width=1369&height=771" alt="deployment-evidence/branch-selection"></div>
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2821,6 +3088,7 @@ Analíticos de colaboración y commits en GitHub.
 
 </p>
 
+<<<<<<< HEAD
 ## 5.2.2. Sprint 2
 
 ### 5.2.2.1. Sprint Planning 2
@@ -3893,6 +4161,10 @@ A nivel técnico, establecimos una arquitectura de software robusta guiada por D
 Finalmente, transformamos toda esta planificación en una realidad tangible y funcional: con la finalización del Sprint 1, desarrollamos y desplegamos la Landing Page, usando el flujo Gitflow y Conventional Commits. Este logro demuestra nuestra disciplina en la gestión del código y nuestra habilidad para entregar valor continuo, asegurando que AgroApp no solo es una gran idea, sino un producto listo para escalar que ya está cumpliendo con su propósito inicial de informar y atraer a nuestros segmentos objetivo. Mi confianza es que tenemos la estrategia, la arquitectura y la disciplina de equipo necesarias para generar un impacto transformador en el sector agrícola.
 
 Basado en la documentación, el Sprint 3 fue un éxito significativo en la consolidación de la aplicación, logrando su objetivo principal de implementar, desplegar y conectar la "real API" para las funcionalidades centrales. El equipo demostró una arquitectura técnica avanzada al adoptar un patrón de Domain-Driven Design (DDD) y estructurar el backend en Bounded Contexts. La colaboración fue un pilar fundamental, con todos los miembros contribuyendo activamente al desarrollo y despliegue del backend, como lo demuestra la asignación de roles y el historial de commits. El equipo también mostró un claro foco en la mejora continua al actuar sobre la retrospectiva anterior y documentar exitosamente los servicios con OpenAPI. La única deuda técnica identificada es el módulo de autenticación de usuarios (registro e inicio de sesión), que quedó incompleto y representa la principal prioridad para el siguiente sprint.
+=======
+# Conclusiones
+
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
 # Bibliografía.
 
 Castillo, M. (2021). _LA AGRICULTURA PERUANA, Situación Post COVID-19 y Perspectivas_. https://library.fes.de/pdf-files/bueros/peru/18971.pdf <br>
@@ -3904,6 +4176,7 @@ Instituto Nacional de Estadística e Informática. (2023). _Encuesta Nacional Ag
 
 Repositorio en GitHub - AgroApp (AgroTech) - Documento:
 https://github.com/AgroApp-UPC/Project-Report
+<<<<<<< HEAD
 
 Repositorio en GitHub - AgroApp (AgroTech) - Landing Page:
 https://github.com/AgroApp-UPC/landing-page
@@ -3913,3 +4186,5 @@ https://github.com/AgroApp-UPC/Front-end
 
 Repositorio en GitHub - AgroApp (AgroTech) - Backend:
 https://github.com/AgroApp-UPC/Back-end 
+=======
+>>>>>>> c383ef0187ab403ba31d290ca37e3884e854544a
