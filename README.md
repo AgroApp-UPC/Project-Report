@@ -40,7 +40,7 @@
    <br>
 
    <div align="center">
-   #<b>Relacion de Integrantes</b>
+   <b>Relación de Integrantes</b>
    <table style="margin-left: auto; margin-right: auto;">
    <tr>
    <th>Apellidos y Nombres</th>
@@ -3254,7 +3254,7 @@ El entorno desplegado corresponde a la rama `main`, en la cual se integraron los
 
 **URL despliegue**
 
-> https://front-end-eta-bice.vercel.app/
+> https://front-end-six-ebon.vercel.app/ 
 
 **Responsable**
 
@@ -3664,7 +3664,7 @@ en tiempo real la persistencia de los datos ingresados mediante los endpoints RE
 
 ![Despliegue de base de datos](resources/DEPLOY_DB.png)
 
-**URL:** https://back-end-production-c7a6.up.railway.app
+**URL:** https://back-end-open.onrender.com/swagger-ui/index.html
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 3, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
@@ -3679,6 +3679,314 @@ las decisiones de funcionalidad del Backend, union y despliegue.
 **Figura : Commits de Backend**
 
 ![Commits de backend](resources/Commits_Backend.png)
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+
+### 5.2.4.3. Sprint Backlog 4
+
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+- Commits en el Frontend
+
+| Commit ID | User     | Commit Message | Commited on (Date) |
+|-------------|---------------|----------------|--------------------|
+| 11c1e98 | Shukaritas | Updated | 2025-11-28 |
+| 050dc4f | Shukaritas | feat: deployment | 2025-11-28 |
+| 963552e | aNd12326 | field bd added | 2025-11-27 |
+| 7bde174 | JoseR044 | commit add profile | 2025-11-27 |
+| 73ddadc | aaaaangie | docs: add task | 2025-11-27 |
+| e002856 | aNd12326 | fix: add missing login route to prevent NG04002 error | 2025-10-09 |
+| a5c9061 | aNd12326 | Merge branch 'restore-previous' - Configure production environment | 2025-10-09 |
+| a9f766f | aNd12326 | fix: configure production environment for Render API | 2025-10-09 |
+| 5640641 | aNd12326 | fix: update environment imports to use generic path for proper production builds | 2025-10-09 |
+| cb302cf | Shukaritas | Update db.json | 2025-10-09 |
+| 8a03b8a | Shukaritas | Update app.routes.ts | 2025-10-09 |
+| 102767a | Shukaritas | Update my-fields.component.ts | 2025-10-09 |
+| da525b1 | Shukaritas | Update dashboard.component.ts | 2025-10-09 |
+| 25577c6 | aNd12326 | feat: add production environment configuration | 2025-10-09 |
+| 19be6e0 | aNd12326 | fix: change prerendering to SSR for dynamic routes | 2025-10-09 |
+| 278ef02 | aNd12326 | Update angular.json "outputMode": "server", | 2025-10-09 |
+| 476e0b1 | aNd12326 | Update angular.json deleting prerender:false | 2025-10-09 |
+| 8013980 | aNd12326 | Update angular.json | 2025-10-09 |
+| 26468f7 | Shukaritas | Merge branch 'develop' of https://github.com/AgroApp-UPC/Front-end | 2025-10-09 |
+| f1341bd | Shukaritas    | feature: trabajo_parcial | 2025-10-08 |
+| 228165c | Shukaritas    | Merge remote-tracking branch 'origin/feature/my-crops' into develop | 2025-10-08 |
+| 479d3c1 | Shukaritas    | Merge branch 'feature/task-community' into develop | 2025-10-08 |
+| 04a8cde | Shukaritas    | Merge remote-tracking branch 'origin/feature/dashboard-view' into develop | 2025-10-08 |
+| 648c679 | aaaaangie     | docs: add my crop fields | 2025-10-08 |
+| 9671056 | Jose04        | Update dashboard.component.html | 2025-10-07 |
+| ad7fdde | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 0bc7416 | Jose04        | Update dashboard.component.html | 2025-10-07 |
+| 7efd83d | Jose04        | Update dashboard.component.html | 2025-10-07 |
+| f71a9cf | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 6ea8e53 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 6142f7e | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 1780508 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 8e4f4fe | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| ec04520 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 9c4a17e | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| d54b974 | Jose04        | Update start.sh | 2025-10-07 |
+| 8539354 | Jose04        | Update start.sh | 2025-10-07 |
+| 62bba95 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 822a95f | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 798e090 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 5cb0ff7 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 1100a6b | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| 1450161 | Jose04        | Update dashboard.component.ts | 2025-10-07 |
+| e4cb3ab | JoseR044      | feat: integrate server mock from feature/server | 2025-10-07 |
+| f626823 | Shukaritas    | feature/modified task and community | 2025-10-07 |
+| 8ca432c | Shukaritas    | featured: db.json and tasks | 2025-10-06 |
+| b5de0f7 | Jose04        | Update dashboard.component.ts | 2025-10-06 |
+| 496dbbc | Jose04        | Update dashboard.component.ts | 2025-10-06 |
+| 0d103d9 | Anderson      | Merge pull request #2 from AgroApp-UPC/feature/login-view | 2025-10-04 |
+| b71cbd5 | Anderson R VT | feat(auth): implement login view with localStorage authentication | 2025-10-04 |
+| 277ffc6 | Anderson      | Merge pull request #1 from AgroApp-UPC/feature/dashboard-view | 2025-10-04 |
+| a1ed793 | Anderson R VT | feat(dashboard): implement dashboard view with crops, harvest dates, tasks and recommendations | 2025-10-04 |
+| 4a35ea2 | Anderson R VT | Add complete UI implementation with sidebar, navbar, and i18n support | 2025-10-04 |
+| 79581b0 | Anderson R VT | initial commit | 2025-10-03 |
+
+- Commits en el Backend
+
+| Commit ID | User    | Commit Message | Commited on (Date) |
+|-----------|---------|----------------|--------------------|
+| acb8301 | Shukaritas | Refactor application.properties for environment variables | 2025-11-28 |
+| 7e3bfe4 | Shukaritas | feat: pre-deploy | 2025-11-27 |
+| 5b20b3f | aNd12326 | shared bdx added | 2025-11-27 |
+| ab5f66b | JoseR044 | commit added iam | 2025-11-27 |
+| 1e106ef | aaaaangie | docs: add community | 2025-11-27 |
+| acfee78 | aNd12326 | Add Docker support for deployment | 2025-11-15 |
+| df5900d | aNd12326 | Configure application for Railway deployment | 2025-11-15 |
+ b4aa346 | aaaaangie | Commit Message: Merge branch 'feature/fields' into develop | 2025-11-14
+415c207 | aaaaangie | Commit Message: Merge branch 'feature/fields' of ... into feature/fields | 2025-11-14
+e5d4e26 | aaaaangie | Commit Message: docs: add bounded context Field |  2025-11-14
+4af8c91 | aaaaangie | Commit Message: Merge branch 'feature/tasks' into develop | 2025-11-14
+1e953e5 | aaaaangie | Commit Message: Merge branch 'feature/tasks' of ... into feature/tasks |2025-11-14
+2b14a16 | aaaaangie | Commit Message: docs: add bounded context task |2025-11-14
+9a318bd | JoseR044 | Commit Message: Merge pull request #1 from AgroApp-UPC/feature/profile | 2025-11-14
+e12f58d | aaaaangie | Commit Message: docs: add bounded context task | 2025-11-14
+3f8fc4d | JoseR044 | Commit Message: fix: remove JWT dependencies from feature/profile |2025-11-14
+00f687b | aaaaangie | Commit Message: docs: add bounded context Field |2025-11-14
+1fafc91 | aaaaangie | Commit Message: Merge branch 'develop' into feature/profile | 2025-11-14
+6e5551e | aaaaangie | Commit Message: Merge branch 'feature/crop-fields' into develop | 2025-11-14
+4d13b56 | aaaaangie | Commit Message: Merge branch 'feature/crop-fields' of ... into feature/crop-fields | 2025-11-14
+82d05cb | Shukaritas / aaaaangie | Commit Message: feat: updated CropFields | 2025-11-14
+1f1400b | ahd12326 / aaaaangie | Commit Message: Implement crop fields bounded context | 2025-11-14
+1fe6a73 | Shukaritas | Commit Message: feat: updated CropFields |  2025-11-14
+e92dc00 | JoseR044 | Commit Message: feat: add profile bounded context and configuration |  2025-11-14
+3a6727a | ahd12326 | Commit Message: Implement crop fields bounded context |  2025-11-12
+61fd57e | ahd12326 | Commit Message: Implement community posts bounded context |  2025-11-12
+0f9d07b | JoseR044 | Commit Message: Implement PhysicalNamingStrategy for JPA |  2025-11-10
+097e2d0 | JoseR044 | Commit Message: Update OpenApiConfiguration.java | 2025-11-10
+726eba3 | JoseR044 | Commit Message: Add auditing fields to AuditableModel class | 2025-11-10
+f826790 | JoseR044 | Commit Message: Refactor AuditableAbstractAggregateRoot class | 2025-11-10
+721dced | JoseR044 | Commit Message: Merge branch 'main' of https://github.com/AgroApp-UPC/Back-end | 2025-11-09
+706b90f | JoseR044 | Commit Message: Initial commit: AgroApp backend | 2025-11-09
+26749cb | Shukaritas | Commit Message: Add files via upload |  2025-10-09
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 4, se logró un progreso significativo en la fusion e integracion del backend con el frontend usando los múltiples endpoints RESTful que permiten la gestión de entidades clave como campos, cultivos y tareas.
+
+Todo el código fue desarrollado siguiendo principios de arquitectura limpia, con especial énfasis en la separación de capas y
+la persistencia adecuada de datos.
+
+- Bounded Context registrados en la base de datos
+<div align=center>
+
+
+![Base de Datos](resources/DB_TF.png)
+</div>
+
+- Bounded Context Field (Core) en la base de datos
+<div align=center>
+
+
+![Tabla Field en la Base de Datos](resources/BC_FIELD.png)
+</div>
+
+Dentro de la ejecución de este sprint tambien se debio añadira y modificar partes del Frontend para que coincida con la logica de negocios establecidas en el inicio, como pueba de esto se añadieron 2 nuevas secciones, el "Log in" o "Iniciar sesion" y "Register" o "Registrarse" siendo partes fundamentales para la ejecucion correcta
+
+- Inicio de sesion en el Frontend
+<div align=center>
+
+![Log In](resources/Login_TF.png)
+</div>
+
+- Registro de usuario en el Frontend
+<div align=center>
+
+
+![Register](resources/Register_TF.png)
+</div>
+
+- Capturas del Backend reestructurado y ejecutandose
+
+<div align=center>
+
+
+![Backend Ejecutandose](resources/BACKEND_1_tf.png)
+
+![Backend Ejecutandose](resources/BACKEND_2_tf.png)
+
+![Backend Ejecutandose](resources/BACKEND_3_tf.png)
+
+![Backend Ejecutandose](resources/BACKEND_4_tf.png)
+
+![Backend Ejecutandose](resources/BACKEND_5_tf.png)
+</div>
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de endpoints documentados con OpenAPI, desarrollados como parte del alcance del
+Sprint 4. 
+Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios REST del
+Backend.
+
+**Backend en IntelliJ IDEA**
+
+![Bounded Context Reestructurado](resources/Reestructuracion_BC.png)
+
+**Frontend en WebStorm**
+
+![Frontend Reestructurado](resources/FRONTEND_TF.png)
+
+**API**
+
+Todos los endpoints están organizados siguiendo la convención RESTful bajo la ruta /api/v1/ y están documentados según
+contexto.
+
+<br>
+
+**AgroApp Intern Logic**
+
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| AgroApp | GET | / | AgroApp Logic | welcome |
+
+**Users Controller**
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| Users | POST | /api/v1/users/sign-up | Register a new user | signUp |
+| Users | POST | /api/v1/users/sign-in | Sign in user | signIn |
+| Users | GET | /api/v1/users/{id} | Get user by ID | getUserById |
+| Users | PUT | /api/v1/users/{id}/profile | Update user profile | updateUserProfile |
+| Users | PUT | /api/v1/users/{id}/password | Update user password | updateUserPassword |
+| Users | DELETE | /api/v1/users/{id} | Delete user | deleteUser |
+
+**Community Recommendations Controller*
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| Community-Recommendation | POST | /api/v1/community-recommendations | Create a new community recommendation | createCommunityRecommendation |
+| Community-Recommendation | GET | /api/v1/community-recommendations/{recommendationId} | Gets a Community-Recommendation by its ID | getCommunityRecommendationById |
+| Community-Recommendation | GET | /api/v1/community-recommendations | Gets all Community-Recommendations | getAllCommunityRecommendations |
+| Community-Recommendation | PUT | /api/v1/community-recommendations/{id} | Updates a Community-Recommendation | updateCommunityRecommendation |
+
+**CropFields Controller**
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| CropFields | POST | /api/v1/crop-fields | Create a new CropField | createCropField |
+| CropFields | GET | /api/v1/crop-fields | Gets all CropFields | getAllCropFields |
+| CropFields | GET | /api/v1/crop-fields/{id} | Gets a CropField by its ID | getCropFieldById |
+| CropFields | PUT | /api/v1/crop-fields/{id} | Update a CropField | updateCropField |
+| CropFields | DELETE | /api/v1/crop-fields/{id} | Delete a CropField | deleteCropField |
+| CropFields | GET | /api/v1/crop-fields/field/{fieldId} | Gets a CropField by its associated Field ID | getCropFieldByFieldId |
+
+**Fields Controller**
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| Fields | POST | /api/v1/fields | Creates a new Field | createField |
+| Fields | GET | /api/v1/fields/user/{userId} | Gets all Fields by user ID | getFieldsByUserId |
+| Fields | GET | /api/v1/fields/{id} | Gets a Field by its ID | getFieldById |
+
+**Preogress History Controller**
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| ProgressHistory | GET | /api/v1/progress | Gets all ProgressHistories | getAllProgressHistories |
+| ProgressHistory | POST | /api/v1/progress | Creates a new ProgressHistory | createProgressHistory |
+| ProgressHistory | GET | /api/v1/progress/{id} | Gets a ProgressHistory by its ID | getProgressHistoryById |
+| ProgressHistory | PUT | /api/v1/progress/{id} | Updates a ProgressHistory | updateProgressHistory |
+
+**Tasks Controller**
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| Tasks | GET | /api/v1/tasks | Gets all tasks | getAllTasks |
+| Tasks | POST | /api/v1/tasks | Creates a new task | createTask |
+| Tasks | GET | /api/v1/tasks/{id} | Gets a task by its ID | getTaskById |
+| Tasks | PUT | /api/v1/tasks/{id} | Updates an existing task | updateTask |
+| Tasks | DELETE | /api/v1/tasks/{id} | Deletes a task by its ID | deleteTask |
+| Tasks | GET | /api/v1/tasks/field/{fieldId} | Gets all Tasks for a specific Field | getTasksByFieldId |
+
+**Sotrage Controller**
+|Tag|HTTTP Verb|Endpoint|Summary|Operation ID|
+|---|----------|--------|-------|------------|
+| Storage | POST | /api/v1/storage/upload | Upload a file | uploadFile |
+| Storage | GET | /api/v1/storage/list | List uploaded files | listFiles |
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Frontend del proyecto AgroTech utilizando la plataforma Render, permitiendo el acceso público a los endpoints implementados y documentados. 
+
+Esta acción asegura
+que las funcionalidades desarrolladas estén accesibles para pruebas externas y validación del producto en un entorno de
+staging.
+
+El despliegue incluye una instancia de servidor corriendo la aplicación Spring Boot y una base de datos MySQL
+desplegada de menra publica. Para la gestión de la base de datos, se utilizó TiDB, lo cual permitió visualizar y verificar
+en tiempo real la persistencia de los datos ingresados mediante los endpoints REST.
+
+Finalmente, luego de fusionar correctamente los metodo se volvio a desplegar el frontend para evidenciar la funcionalidad de estos y finalmente hacerlo publico, este siendo desplegado en Vercel por su facilidad y capacidad de conectarse directamnte con nuestra Landing Page.
+
+**Archivos de configuracion clave**
+- Dockerfile:  Utilizado para construir la imagen personalizada de la aplicación y facilitar el despliegue en Render.
+
+<br>
+
+**Verificacion de despliegue**
+
+- **Despliegue de Base de datos MySQL en TiDB**
+
+![Data Base Deployed](resources/Despliegue_DB_TF.png)
+
+- **Tabla de la base de datos en TiDB**
+
+![Data Base Tables Deployed](resources/DB_Tables.png)
+
+**Despliegue del Backend**
+
+![Backend Deployed](resources/Despliegue_Backend_TF.png)
+
+**URL:** https://back-end-open.onrender.com/swagger-ui/index.html 
+
+**Despliegue del Frontend**
+
+![Frontend Deployed](resources/Despliegue_Frontend_TF.png)
+
+**URL:** https://front-end-six-ebon.vercel.app/ 
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+Durante el Sprint 4, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
+las decisiones de funcionalidad del Backend, union y despliegue.
+
+| Integrante | Acciones realizadas durante el Sprint 4 |
+|------------|----------------------------------------|
+| Todo el equipo | - Conexion de los Bounded Contexts<br>- Reestructuracion de Carpetas<br>- Subida al repositorio y despliegue |
+
+**Evidencia de colaboración en GitHub (Sprint 4)**
+
+**Figura : Commits de Backend**
+
+![Captura de Commits en el backend](resources/Commits_Backend_TF.png)
+
+**Figura : Commits de Frontend**
+
+![Captura de Commits en el backend](resources/Commits_Frontend_TF.png)
 
 # 5.3. Validation Interviews.
 
@@ -3939,6 +4247,23 @@ Este video no solo presenta el producto, sino que lo contextualiza como una solu
 <br>
 
 **Url del video:** https://drive.google.com/file/d/1ghp8JeVV-yChAESrmNS6CTTGNvUn7K5N/view?usp=sharing 
+
+## 5.5. Video About-the-Team.
+
+En esta sección, el equipo presenta un resumen de los aspectos más destacados del video "About The Team –
+AgroTech". El video documenta el proceso de desarrollo de la aplicación, mostrando imágenes y clips de sesiones
+reales de trabajo colaborativo entre los integrantes del equipo.
+
+A través de una narración fluida, se explican las distintas etapas del proyecto: desde la ideación inicial de AgroTech,
+pasando por las fases de diseño y desarrollo, hasta llegar a su implementación. Los testimonios de los miembros del equipo
+enriquecen la experiencia, detallando las tareas que cada uno desempeñó, los desafíos que enfrentaron y las soluciones
+implementadas.
+
+Además, se destacan los logros alcanzados, como la integración de funcionalidades clave para facilitar la adopción
+responsable de mascotas, la colaboración con refugios locales y la creación de una interfaz intuitiva y accesible para todos
+los usuarios.
+
+**Url del video:**
 
 # Conclusiones
 Hemos comenzado con el enfoque correcto: al aplicar el proceso Lean UX, no solo identificamos la necesidad de herramientas digitales accesibles para los agricultores peruanos de pequeña y mediana escala, sino que validamos estas necesidades directamente a través de entrevistas exhaustivas. Esta validación temprana nos permitió enfocar nuestra visión en ofrecer una aplicación simple que entrega recomendaciones personalizadas y alertas claras para aumentar la productividad y reducir pérdidas. Nuestra capacidad de comunicación oral se fortaleció en este proceso, ya que debimos adaptar nuestro lenguaje para generar confianza tanto con los agricultores como con audiencias técnicas.
