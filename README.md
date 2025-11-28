@@ -1142,11 +1142,13 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 ## 3.1. TO-BE Scenario Mapping.
 
 **Segmento objetivo #1: Agricultores de pequeña escala** 
-Figura : TO-BE Segmento 1**
+<br>Figura : TO-BE Segmento 1**
+<br>
 ![TO-BE pequeña escala](resources/TO-BE.png)
 
 **Segmento objetivo #2: Agricultores de mediana escala** 
-**Figura : TO-BE Segmento 2**
+<br>**Figura : TO-BE Segmento 2**
+<br>
 ![TO-BE mediana escala](resources/TO-BE_cultivo.png)
 
 ## 3.2. User Stories
