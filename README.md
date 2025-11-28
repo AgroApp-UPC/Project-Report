@@ -1014,11 +1014,12 @@ Conclusiones:
 ### 2.3.5. AS-IS Scenario Mapping.
 
 **Segmento objetivo #1: Agricultores de pequeña escala**
-**Figura : As-Is Segmento 1**
+<p>**Figura : As-Is Segmento 1**</p>
 ![As-Is Segmento 1](resources/AS-IS.png)
 
 **Segmento objetivo #2: Agricultores de mediana escala**
-**Figura : As-Is Segmento 2**
+
+<p>**Figura : As-Is Segmento 2**</p>
 ![As-Is Segmento 2](resources/AS-IS_cultivo.png)
 
 ## 2.4. Big Picture Event Storming.
