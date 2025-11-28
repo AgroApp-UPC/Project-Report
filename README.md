@@ -3654,6 +3654,8 @@ El despliegue incluye una instancia de servidor corriendo la aplicación Spring 
 conectada de manera remota. Para la gestión de la base de datos, se utilizó Railway, lo cual permitió visualizar y verificar
 en tiempo real la persistencia de los datos ingresados mediante los endpoints REST.
 
+**Figura : Despliegue del Backend**
+
 ![Despliegue del backend](resources/Deploy_Docker.jpeg)
 
 ![Despliegue del backend](resources/Postman_Deploy.jpeg)
@@ -3673,6 +3675,8 @@ las decisiones de funcionalidad del Backend, union y despliegue.
 | Todo el equipo | - Desarrollo de diferentes Bounded Contexts<br>- Estructura de carpetas y componentes<br>- Subida al repositorio y despliegue |
 
 **Evidencia de colaboración en GitHub (Sprint 3)**
+
+**Figura : Commits de Backend**
 
 ![Commits de backend](resources/Commits_Backend.png)
 
