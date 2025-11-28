@@ -2316,27 +2316,29 @@ El diagrama de componentes pone el foco en la arquitectura interna de la API de 
 
 ![C4 Components User](resources/C4_COMPONENTS_USER.jpg)
 
-<img src="resources/C4 COMPONETS_CAMPO.jpg" alt="C4 Componente Fields Diagram">
+![C4 Components Campo](resources/C4%20COMPONETS_CAMPO.jpg)
 
-<img src="resources/C4 COMPONENTS_CULTIVO.jpg" alt="C4 Componente Crops Diagram">
+![C4 Components Cultivo](resources/C4%20COMPONENTS_CULTIVO.jpg)
 
-<img src="resources/C4_COMPONENTS_TAREAS.jpg" alt="C4 Componente Taks Diagram">
+![C4 Components Tareas](resources/C4_COMPONENTS_TAREAS.jpg)
 
-<img src="resources/C4_COMPONENTS_COMUNIDAD.jpg" alt="C4 Componente Community Diagram">
+![C4 Components Comunidad](resources/C4_COMPONENTS_COMUNIDAD.jpg)
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
 - Diagrama de clases del proyecto AgroApp
-  <img src="resources/Class Diagram.png" alt="Class Diagram">
+ ![Class Diagram](resources/Class%20Diagram.png)
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagrams.
 
 - Diagrama de la base de datos del proyecto AgroApp
-  <img src="resources/Data_base_diagram.JPG" alt="Data Base Diagram">
+- 
+ ![Database Diagram](resources/Data_base_diagram.JPG)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2456,7 +2458,11 @@ style: ajustes que afectan solo la apariencia o formato del código.
 
 Evidencia de trabajo con Conventional Commits y Gitflow:
 
-<div align="center"><img src="resources/gitflow-evidence.png" alt="gitflow-evidence"></div>
+<p align="center">
+
+![Gitflow Evidence](resources/gitflow-evidence.png)
+
+</p>
 
 Organización de AgroApp: https://github.com/AgroApp-UPC
 
@@ -2700,15 +2706,27 @@ Para este primer sprint se implemento el Landing Page de AgroApp tiendo como obj
 
 - Vista inicial del Landing Page:
 
-<div align="center"><img src="resources/landing-page-execution1.png" alt="execution-evidence-landing-page"></div>
+<p align="center">
+
+![Ejecución Landing Page 1](resources/landing-page-execution1.png)
+
+</p>
 
 - Información sobre los Planes:
 
-<div align="center"><img src="resources/landing-page-execution2.png" alt="execution-evidence-landing-page"></div>
+<p align="center">
+
+![Ejecución Landing Page 2](resources/landing-page-execution2.png)
+
+</p>
 
 - Sección de Contacto:
 
-<div align="center"><img src="resources/landing-page-execution3.png" alt="execution-evidence-landing-page"></div>
+<p align="center">
+
+![Ejecución Landing Page 3](resources/landing-page-execution3.png)
+
+</p>
 
 **Video sobre landing page:** https://youtu.be/7E-qTN7gIjI
 
@@ -2722,15 +2740,28 @@ Durante este primer Sprint los procesos de deployment realizados fueron exclusiv
 
 Para empezar se accedió al apartado Pages de la configuración del repositorio.
 
-<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless&width=1356&height=845" alt="deployment-evidence/repo-configuration"></div>
+
+<p align="center">
+
+![Deployment Evidence Repo Configuration](https://media.discordapp.net/attachments/814677457042276372/1418728286690738406/image.png?ex=68cf2d2e&is=68cddbae&hm=c1e8c9bb4c0ccf512d74055f730f0d44f521d31c844545eadc1329ac7b1a5937&=&format=webp&quality=lossless&width=1356&height=845)
+
+</p>
 
 Se seleccionó la rama main para el despliegue.
 
-<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418730236371013663/image.png?ex=68cf2eff&is=68cddd7f&hm=6292db7943bc272304e7746bc9f8c6d92671f08f53670bf38e80ffba100045bb&=&format=webp&quality=lossless&width=1127&height=875" alt="deployment-evidence/branch-selection"></div>
+<p align="center">
+
+![Deployment Evidence Branch Selection](https://media.discordapp.net/attachments/814677457042276372/1418730236371013663/image.png?ex=68cf2eff&is=68cddd7f&hm=6292db7943bc272304e7746bc9f8c6d92671f08f53670bf38e80ffba100045bb&=&format=webp&quality=lossless&width=1127&height=875)
+
+</p>
 
 Muestra de la organizacion, donde se encuentra el repositorio de la landing page.
 
-<div align="center"><img src="https://media.discordapp.net/attachments/814677457042276372/1418738604901142660/image.png?ex=68cf36ca&is=68cde54a&hm=13a2b49713f055b08f014660590294f8d9c55e0f3b3e5a967f36efcab9c8817e&=&format=webp&quality=lossless&width=1369&height=771" alt="deployment-evidence/branch-selection"></div>
+<p align="center">
+
+![Deployment Execution Evidence](https://media.discordapp.net/attachments/814677457042276372/1418738604901142660/image.png?ex=68cf36ca&is=68cde54a&hm=13a2b49713f055b08f014660590294f8d9c55e0f3b3e5a967f36efcab9c8817e&=&format=webp&quality=lossless&width=1369&height=771)
+
+</p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2738,7 +2769,11 @@ En este sprint las teareas de desarrollo y despliegue del Landing Page fueron ll
 
 Analíticos de colaboración y commits en GitHub.
 
-<div align="center"><img src="resources/sprint1-collaboration-analytics.png" alt="deployment-evidence/sprint1-collaboration-analytics"></div>
+<p align="center">
+
+![Sprint 1 Collaboration Analytics](resources/sprint1-collaboration-analytics.png)
+
+</p>
 
 # Conclusiones
 
