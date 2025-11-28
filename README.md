@@ -1509,7 +1509,8 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 ## 3.3. Impact Mapping.
 
 **Mapa de Impacto en nuestros usuarios en un tiempo promedio de año y medio**
-**Figura : Impact Map 1**
+<br>Figura : Impact Map 1
+<br>
 ![Impact Map 1](resources/Impact%20map%201.png)
 
 ## 3.4. Product Backlog.
