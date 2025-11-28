@@ -480,6 +480,7 @@ En campo, utilizando dispositivos móviles con acceso a internet móvil (3G/4G) 
 
 #### 1.2.2.4. Lean UX Canvas.
 
+**Figura 1: Lean UX Canvas**
 ![lean-ux-canvas](resources/leanuxcanvas.png)
 
 
@@ -859,13 +860,13 @@ Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo informac
 ### 2.3.1. User Personas.
 
 - User Persona del Segmento Objetivo 1:
-
+  **Figura : User Persona Segment 1**
 <div align="center">
 
   ![user-persona-segment-1](resources/user-persona-segment-1.png)
 
 </div>
-
+**Figura : User Persona Segment 2**
 - User Persona del Segmento Objetivo 2:
 
 <div align="center">
