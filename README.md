@@ -4,10 +4,10 @@
 # <center>Informe del Trabajo Final</center>
 
    <br>
-   <center>Universidad Peruana de Ciencias Aplicadas</center>
+   <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
 
    <br>
-   <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
+   <center>Universidad Peruana de Ciencias Aplicadas</center>
 
    <br>
    <center><b>Ingeniería de software</b></center>
