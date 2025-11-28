@@ -2136,50 +2136,83 @@ La representación en baja fidelidad evidencia cómo la aplicación organiza la 
 **User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
 
 - **Task Flow:**
-<div align="center"> <img src="resources/wireflow1.png" alt="wireflow 1" width="300"> </div>
+
+<p align="center">
+
+![Wireflow 1](resources/wireflow1.png)
+
+</p>
 
 - **Wireflow:**
-<div align="center"> <img src="resources/wirefloww1.png" alt="wireflow 1" width="600"> </div>
+<p align="center">
+
+![Wireflow Alternativo 1](resources/wirefloww1.png)
+
+</p>
 
 **User Goal:** Visualizar un tip o consejo en la sección de Community.
 
 - **Task Flow:**
-<div align="center"> <img src="resources/wireflow4.png" alt="wireflow 2" width="300"> </div>
+<p align="center">
+
+![Wireflow 2](resources/wireflow4.png)
+
+</p>
 
 - **Wireflow:**
-<div align="center"> <img src="resources/wirefloww4.png" alt="wireflow 2" width="600"> </div>
+<p align="center">
+
+![Wireflow Alternativo 2](resources/wirefloww4.png)
+
+</p>
 
 #### Segmento objetivo #2: Agricultores de mediana escala
 
 **User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
 
 - **Task Flow:**
-<div align="center"> <img src="resources/wireflow2.png" alt="wireflow 3" width="300"> </div>
+<p align="center">
+
+![Wireflow 3](resources/wireflow2.png)
+
+</p>
 
 - **Wireflow:**
-<div align="center"> <img src="resources/wirefloww2.png" alt="wireflow 3" width="600"> </div>
+<p align="center">
+
+![Wireflow Alternativo 3](resources/wirefloww2.png)
+
+</p>
 
 **User Goal:** Marcar como realizada una tarea pendiente en su campo de maíz.
 
 - **Task Flow:**
-<div align="center"> <img src="resources/wireflow3.png" alt="wireflow 4" width="300"> </div>
+<p align="center">
+
+![Wireflow 4](resources/wireflow3.png)
+
+</p>
 
 - **Wireflow:**
-<div align="center"> <img src="resources/wirefloww3.png" alt="wireflow 4" width="600"> </div>
+<p align="center">
+
+![Wireflow Alternativo 4](resources/wirefloww3.png)
+
+</p>
 
 ### 4.4.2. Web Applications Mock-ups.
 
-<div align="center"> <img src="resources/figma/mockups/lp4.png" alt="login page mockup" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/lp5.png" alt="register mockup" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb1.png" alt="web applications mockup 1" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb2.png" alt="web applications mockup 2" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb3.png" alt="web applications mockup 3" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb4.png" alt="web applications mockup 4" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb5.png" alt="web applications mockup 5" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb6.png" alt="web applications mockup 6" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb7.png" alt="web applications mockup 7" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb8.png" alt="web applications mockup 8" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/wb9.png" alt="web applications mockup 9" width="600"> </div>
+![Mockup Login](resources/figma/mockups/lp4.png)
+![Mockup Registro](resources/figma/mockups/lp5.png)
+![Mockup WebApp 1](resources/figma/mockups/wb1.png)
+![Mockup WebApp 2](resources/figma/mockups/wb2.png)
+![Mockup WebApp 3](resources/figma/mockups/wb3.png)
+![Mockup WebApp 4](resources/figma/mockups/wb4.png)
+![Mockup WebApp 5](resources/figma/mockups/wb5.png)
+![Mockup WebApp 6](resources/figma/mockups/wb6.png)
+![Mockup WebApp 7](resources/figma/mockups/wb7.png)
+![Mockup WebApp 8](resources/figma/mockups/wb8.png)
+![Mockup WebApp 9](resources/figma/mockups/wb9.png)
 
 Los mock-ups de AgroApp representan la transición de la estructura al diseño final, aplicando el Design System previamente establecido.
 
@@ -2196,25 +2229,46 @@ El uso de imágenes de campos agrícolas en los mock-ups refuerza la conexión c
 
 **User Goal:** Añadir un cultivo nuevo a uno de sus campos para empezar a recibir recomendaciones personalizadas.
 
-<div align="center"> <img src="resources/userwireflow1.png" alt="wireflow 1" width="600"> </div>
+<p align="center">
+
+![User Wireflow 1](resources/userwireflow1.png)
+
+</p>
 
 **User Goal:** Visualizar un tip o consejo en la sección de Community.
 
-<div align="center"> <img src="resources/userwireflow2.png" alt="wireflow 2" width="600"> </div>
+
+<p align="center">
+
+![User Wireflow 2](resources/userwireflow2.png)
+
+</p>
 
 #### Segmento objetivo #2: Agricultores de mediana escala
 
 **User Goal:** Revisar información detallada sobre un campo específico y sus cultivos asociados.
 
-<div align="center"> <img src="resources/userwireflow3.png" alt="wireflow 3" width="600"> </div>
+<p align="center">
+
+![User Wireflow 3](resources/userwireflow3.png)
+
+</p>
 
 **User Goal:** Marcar como realizada una tarea pendiente en su campo de maíz.
 
-<div align="center"> <img src="resources/userwireflow4.png" alt="wireflow 4" width="600"> </div>
+<p align="center">
+
+![User Wireflow 4](resources/userwireflow4.png)
+
+</p>
 
 ## 4.5. Web Applications Prototyping.
 
-<div align="center"> <img src="resources/prototype.png" alt="Web Applications Prototyping" width="400"> </div>
+<p align="center">
+
+![Prototipo Web](resources/prototype.png)
+
+</p>
 
 Video: _[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/Eblgu9ZKBBdFuFEVEuDIlpsBbKIO-H_TpjLgVCCi2fptjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1ZYHp6)_
 
@@ -2229,18 +2283,17 @@ En esta parte se expone la arquitectura de software del proyecto AgroApp. La pro
 En esta sección, presentamos el Design Level Event Storming desarrollado para nuestro proyecto AgroApp. Esta actividad nos permitió profundizar en los detalles del dominio, definiendo de manera clara los eventos, comandos, agregados y políticas que guían el comportamiento del sistema. El objetivo fue transformar la visión general en un diseño más estructurado, asegurando que los límites contextuales y las interacciones entre componentes quedaran bien definidos
 
 
-<img src="resources/Desing Level - Event.jpg" alt="Bounded Context User Management">
+![Design Level Event](resources/Desing%20Level%20-%20Event.jpg)
 
 
 
-<img src="resources/Desing Level - Event (1).jpg" alt="Bounded Context Cultivos Management">
+![Design Level Cultivos](resources/Desing%20Level%20-%20Event%20%281%29.jpg)
 
 
-<img src="resources/Desing Level - Event (2).jpg" alt="Bounded Context Area Management">
+![Design Level Areas](resources/Desing%20Level%20-%20Event%20%282%29.jpg)
 
 
-
-<img src="resources/Desing Level - Event (3).jpg" alt="Bounded Context Evaluation Management">
+![Design Level Evaluation](resources/Desing%20Level%20-%20Event%20%283%29.jpg)
 
 ### 4.6.2. Software Architecture Context Diagram.
 
