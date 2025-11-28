@@ -3686,7 +3686,39 @@ las decisiones de funcionalidad del Backend, union y despliegue.
 
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
+<table border="1">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th> (L) / Collaborator (C)</th>
+    <th> (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Chirito Torres, Jose Raul</td>
+    <td>JoseR044</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Ventosilla Trujillo, Anderson Ricardo</td>
+    <td>aNd12326</td>
+    <td>L</td>
+    <td>C</td>
 
+  </tr>
+  <tr>
+    <td>Via Luna, Bruce</td>
+    <td>Shukaritas</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Yalán Zhang, Angie Christina</td>
+    <td>aaaaangie</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
 
 ### 5.2.4.3. Sprint Backlog 4
 
