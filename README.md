@@ -2299,21 +2299,22 @@ En esta sección, presentamos el Design Level Event Storming desarrollado para n
 
 El diagrama de contexto de AgroApp ofrece una visión global de las interacciones principales entre el sistema central y los actores externos que lo rodean. La plataforma está orientada a simplificar la gestión y supervisión de cultivos por parte de los usuarios. En este nivel, se identifican actores clave como el Agricultor, encargado de registrar y administrar sus cultivos, y la Asociación, que envía las evaluaciones correspondientes. Asimismo, se muestran las integraciones externas más relevantes: la Pasarela de Pago para procesar transacciones con las asociaciones, el Servicio de Mapas para visualizar la ubicación de los cultivos y las Redes Sociales para compartir información de manera pública. Esta representación de alto nivel permite entender de manera clara cómo AgroApp se relaciona y coopera con su ecosistema digital y humano.
 
-<img src="resources/C4 CONTEXTO.jpg" alt="C4 Context Diagram">
+![C4 Context Diagram](resources/C4%20CONTEXTO.jpg)
 
 ### 4.6.3. Software Architecture Container Diagrams.
 
 El diagrama de contenedores detalla la organización interna de AgroApp, mostrando cómo los diferentes componentes de software trabajan en conjunto para brindar la funcionalidad de la plataforma. La Aplicación Web, implementada en React, sirve como punto de interacción donde los usuarios pueden registrar y gestionar sus cultivos. Esta interfaz se conecta con una API en Spring Boot(Java), que cumple el rol de enlace entre la capa de presentación y los servicios del backend. La información esencial de usuarios, cultivos, registros, evaluaciones y pagos se almacena en una Base de Datos PostgreSQL. Asimismo, se integran contenedores adicionales como el Servicio de Mapas (basado en Google Maps API) para la visualización de ubicaciones y la Pasarela de Pago (Stripe), destinada a la gestión de transacciones. En conjunto, este nivel del modelo permite comprender cómo se estructuran y comunican las partes técnicas del sistema.
 
-<img src="resources/C4 CONTENEDORES.jpg" alt="C4 Container Diagram">
+
+![C4 Container Diagram](resources/C4%20CONTENEDORES.jpg)
 
 ### 4.6.4. Software Architecture Components Diagrams.
 
 El diagrama de componentes pone el foco en la arquitectura interna de la API de AgroApp, encargada de coordinar la lógica de negocio central de la plataforma. Esta API, desarrollada en Spring boot(Java), se organiza en distintos componentes especializados, cada uno orientado a un dominio concreto. El Componente de Gestión de Usuarios administra la autenticación y los perfiles; Gestión de Cultivos permite realizar operaciones sobre los cultivos registrados; Control de Cultivos abarca el ciclo completo de cuidado de cada cultivo; Ubicaciones y Terrenos gestiona la localización de los cultivos registrados; y Reporte de Evaluaciones procesa tanto los informes como los pagos asociados a dichas evaluaciones. La interacción entre estos módulos sigue un flujo funcional definido: los agricultores administran cultivos, estos se asocian a cuentas y pueden ser evaluados. Esta separación de responsabilidades refleja un diseño guiado por el dominio, donde cada componente encapsula una función específica y colabora con los demás para dar soporte integral a la plataforma junto a los Bounded Countext desarrollados que explicacion de forma aun mas detallada la funcionalidad de cada componente existente de la plataforma AgroApp.
 
-<img src="resources/C4_COMPONENTES_API.jpg" alt="C4 Componente API Diagram">
+![C4 Componentes API](resources/C4_COMPONENTES_API.jpg)
 
-<img src="resources/C4_COMPONENTS_USER.jpg" alt="C4 Componente User Diagram">
+![C4 Components User](resources/C4_COMPONENTS_USER.jpg)
 
 <img src="resources/C4 COMPONETS_CAMPO.jpg" alt="C4 Componente Fields Diagram">
 
