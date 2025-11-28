@@ -14,7 +14,7 @@
    <center><b>Carrera: Ingeniería de software</b></center>
    <br>
    <br>
-   <center><b>Periodo: 2025-20</b></center>
+   <center><b>Periodo: 202520</b></center>
    <br>
    <center><b>Codigo del curso: 1ASI0729</b></center>
 
