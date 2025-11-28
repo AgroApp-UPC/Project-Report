@@ -1002,7 +1002,7 @@ Conclusiones:
 
 - Empathy Map: Gustavo - Agricultores de mediana escala.
 
-**Figura : Empathy Map Segmento 2*
+**Figura : Empathy Map Segmento 2**
   
 <p align="center">
 
@@ -1788,6 +1788,8 @@ El sistema visual se inspira en Design Systems modernos, pero adaptado a la real
 
 ##### 4.1.1.1.1. Tipografía del logo
 
+**Figura : Logo AgroApp**
+
 <div align="center">
 
   ![Logo AgroApp](resources/figma/logoagroapp.png)
@@ -1796,6 +1798,8 @@ El sistema visual se inspira en Design Systems modernos, pero adaptado a la real
 El logotipo utiliza la fuente Inter en estilo SemiBold, en minúsculas. Esta decisión transmite modernidad, cercanía y simplicidad, evitando un aspecto corporativo rígido. La elección en minúsculas aporta accesibilidad, mientras que el grosor SemiBold garantiza buena presencia visual en pantallas grandes y pequeñas.
 
 ##### 4.1.1.1.2. Tipografía del texto regular
+
+**Figura : Tipografía AgroApp**
 
 <div align="center">
 
@@ -1813,6 +1817,8 @@ Para todo el contenido textual se utiliza también la familia tipográfica Inter
 La tipografía Inter fue elegida por su legibilidad en dispositivos móviles y su neutralidad estética, lo que permite destacar el contenido agrícola por encima del diseño.
 
 #### 4.1.1.2. Colores
+
+**Figura : Paleta de colores de AgroApp**
 
 <div align="center"> 
 
@@ -1838,6 +1844,8 @@ La paleta de colores se compone de tonos inspirados en la naturaleza agrícola d
 La combinación de verdes y marrones evoca naturaleza, confianza y sustentabilidad, mientras que los neutros (blanco y arena) aseguran una interfaz limpia y ligera.
 
 #### 4.1.1.3. Iconografía
+
+**Figura : Iconografía AgroApp**
 
 <div align="center">
 
