@@ -868,8 +868,10 @@ Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo informac
   ![user-persona-segment-1](resources/user-persona-segment-1.png)
 
 </div>
+
 **Figura : User Persona Segment 2**
-- User Persona del Segmento Objetivo 2:
+
+<p>- User Persona del Segmento Objetivo 2:</p>
 
 <div align="center">
 
