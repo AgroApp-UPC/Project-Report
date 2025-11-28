@@ -859,14 +859,15 @@ Luego de realizar las entrevistas a ambos segmentos objetivos se obtuvo informac
 
 ### 2.3.1. User Personas.
 
+**Figura : User Persona Segment 1**
+
 - User Persona del Segmento Objetivo 1:
-  **Figura : User Persona Segment 1**
+  
 <div align="center">
 
   ![user-persona-segment-1](resources/user-persona-segment-1.png)
-
-</div>
 **Figura : User Persona Segment 2**
+</div>
 - User Persona del Segmento Objetivo 2:
 
 <div align="center">
