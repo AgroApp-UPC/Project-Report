@@ -10,19 +10,29 @@
    <center>Universidad Peruana de Ciencias Aplicadas</center>
 
    <br>
-   <center><b>Ingeniería de software</b></center>
+   <center><b>Facultad: Ingeniería de software</b></center>
    <br>
+   <br>
+   <center><b>Carrera: Ingeniería de software</b></center>
+   <br>
+   <br>
+   <center><b>Periodo: 2025-20</b></center>
+   <br>
+   <center><b>Codigo del curso: 1ASI0729</b></center>
 
-   <center><b>1ASI0729 Desarrollo de Aplicaciones Open Source</b></center>
-
+   <br>
+   <br>
+   <center><b>Nombre del curso:Desarrollo de Aplicaciones Open Source</b></center>
    <br>
    <center><b>NRC:</b> 7351</center>
    <br>
 
-   <center><b>Profesor:</b> Rafael Oswaldo Castro Veramendi </center>
-
+   <center><b>Nombre de profesor:</b> Rafael Oswaldo Castro Veramendi </center>
    <br>
-   <center><b>Nombre del StartUp:</b> AgroTech </center>
+   <center><b>Informe de Trabjo Final </center>
+   <br>
+   <br>
+   <center><b>Nombre de StartUp:</b> AgroTech </center>
    <br>
 
    <center><b>Nombre del Producto:</b> AgroApp</center>
@@ -32,10 +42,10 @@
    <br>
 
    <div align="center">
-
+   **Relacion de Integrantes**
    <table style="margin-left: auto; margin-right: auto;">
    <tr>
-   <th>Nombre</th>
+   <th>Apellidos y Nombres</th>
    <th>Código</th>
    </tr>
    <tr>
@@ -57,10 +67,8 @@
 
    </table>
    </div>
+   <center><b>Diciembre - 20205</center>
 
-   <br>
-   <center><b>Ciclo 2025-20</b></center>
-   <br>
 
 </div>
 
