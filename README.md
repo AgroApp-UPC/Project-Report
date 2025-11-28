@@ -2076,11 +2076,11 @@ En ambos casos, se aplican principios de diseño inclusivo:
 
 ### 4.3.2. Landing Page Mock-up.
 
-<div align="center"> <img src="resources/figma/mockups/lp1.png" alt="landing page mockup 1" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/lp2.png" alt="landing page mockup 2" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/lp3.png" alt="landing page mockup 3" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/lp4.png" alt="landing page mockup 4" width="600"> </div>
-<div align="center"> <img src="resources/figma/mockups/lp5.png" alt="landing page mockup 5" width="600"> </div>
+![Landing Page Mockup 1](resources/figma/mockups/lp1.png)
+![Landing Page Mockup 2](resources/figma/mockups/lp2.png)
+![Landing Page Mockup 3](resources/figma/mockups/lp3.png)
+![Landing Page Mockup 4](resources/figma/mockups/lp4.png)
+![Landing Page Mockup 5](resources/figma/mockups/lp5.png)
 
 Los mockups transforman los wireframes en propuestas visuales finales:
 
