@@ -991,7 +991,7 @@ Conclusiones:
 ### 2.3.4. Empathy Mapping.
 
 - Empathy Map: Miguel - Agricultores de pequeña escala.
-- 
+  
 **Figura : Empathy Map Segmento 1**
   
 <p align="center">
