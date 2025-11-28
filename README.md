@@ -30,10 +30,10 @@
    <center><b>Informe de Trabjo Final </center>
    <br>
    <br>
-   <center><b>Nombre del StartUp:</b> AgroTech </center>
+   <center><b>Nombre del startup:</b> AgroTech </center>
    <br>
 
-   <center><b>Nombre del Producto:</b> AgroApp</center>
+   <center><b>Nombre del producto:</b> AgroApp</center>
 
    </div>
 
