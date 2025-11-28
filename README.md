@@ -2107,17 +2107,17 @@ Además, se incorporan principios de diseño inclusivo: alto contraste en elemen
 
 ### 4.4.1. Web Applications Wireframes.
 
-<div align="center"> <img src="resources/figma/wireframes/lp4.png" alt="login wireframe" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/lp5.png" alt="register wireframe" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb1.png" alt="web applications wireframe 1" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb2.png" alt="web applications wireframe 2" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb3.png" alt="web applications wireframe 3" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb4.png" alt="web applications wireframe 4" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb5.png" alt="web applications wireframe 5" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb6.png" alt="web applications wireframe 6" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb7.png" alt="web applications wireframe 7" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb8.png" alt="web applications wireframe 8" width="600"> </div>
-<div align="center"> <img src="resources/figma/wireframes/wb9.png" alt="web applications wireframe 9" width="600"> </div>
+![Wireframe Login](resources/figma/wireframes/lp4.png)>
+![Wireframe Registro](resources/figma/wireframes/lp5.png)
+![Wireframe WebApp 1](resources/figma/wireframes/wb1.png)
+![Wireframe WebApp 2](resources/figma/wireframes/wb2.png)
+![Wireframe WebApp 3](resources/figma/wireframes/wb3.png)
+![Wireframe WebApp 4](resources/figma/wireframes/wb4.png)
+![Wireframe WebApp 5](resources/figma/wireframes/wb5.png)
+![Wireframe WebApp 6](resources/figma/wireframes/wb6.png)
+![Wireframe WebApp 7](resources/figma/wireframes/wb7.png)
+![Wireframe WebApp 8](resources/figma/wireframes/wb8.png)
+![Wireframe WebApp 9](resources/figma/wireframes/wb9.png)
 
 Los wireframes constituyen la base estructural de la experiencia digital de AgroApp, definiendo la arquitectura de información y la interacción antes de avanzar al diseño final.
 
