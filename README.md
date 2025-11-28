@@ -1138,10 +1138,11 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 ## 3.1. TO-BE Scenario Mapping.
 
 **Segmento objetivo #1: Agricultores de pequeña escala** 
+<p>**Figura : TO-BE Segmento 1**</p>
 ![TO-BE pequeña escala](resources/TO-BE.png)
 
 **Segmento objetivo #2: Agricultores de mediana escala** 
-
+<p>**Figura : TO-BE Segmento 2**</p>
 ![TO-BE mediana escala](resources/TO-BE_cultivo.png)
 
 ## 3.2. User Stories
@@ -1502,7 +1503,7 @@ En esta sección, presentamos el ejercicio de Big Picture Event Storming realiza
 ## 3.3. Impact Mapping.
 
 **Mapa de Impacto en nuestros usuarios en un tiempo promedio de año y medio**
-
+<p>**Figura : Impact Map 1**</p>
 ![Impact Map 1](resources/Impact%20map%201.png)
 
 ## 3.4. Product Backlog.
