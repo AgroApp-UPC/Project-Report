@@ -1014,15 +1014,18 @@ Conclusiones:
 ### 2.3.5. AS-IS Scenario Mapping.
 
 **Segmento objetivo #1: Agricultores de pequeña escala**
+**Figura : As-Is Segmento 1**
 ![As-Is Segmento 1](resources/AS-IS.png)
 
 **Segmento objetivo #2: Agricultores de mediana escala**
+**Figura : As-Is Segmento 2**
 ![As-Is Segmento 2](resources/AS-IS_cultivo.png)
 
 ## 2.4. Big Picture Event Storming.
 
-En esta sección, presentamos el ejercicio de Big Picture Event Storming realizado para nuestro proyecto AgroApp. Esta dinámica nos permitió explorar de manera colaborativa los procesos clave del dominio, identificar eventos relevantes y descubrir oportunidades de mejora. Gracias a este enfoque, logramos una visión compartida entre los distintos actores involucrados, lo que asegura que las necesidades del negocio y de los usuarios estén claramente representadas
+En esta sección, presentamos el ejercicio de Big Picture Event Storming realizado para nuestro proyecto AgroApp. Esta dinámica nos permitió explorar de manera colaborativa los procesos clave del dominio, identificar eventos relevantes y descubrir oportunidades de mejora. Gracias a este enfoque, logramos una visión compartida entre los distintos actores involucrados, lo que asegura que las necesidades del negocio y de los usuarios estén claramente representadas.
 
+**Figura : Big Event Storming**
 ![Big Event Storming](resources/Event_storming.jpg)
 
 ## 2.5. Ubiquitous Language.
