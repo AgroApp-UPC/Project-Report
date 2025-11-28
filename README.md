@@ -968,7 +968,9 @@ Conclusiones:
 ### 2.3.3. User Journey Mapping.
 
 - User Journey: Miguel - Agricultores de pequeña escala.
-
+  
+**Figura : User Journey Segmento 1**
+  
 <p align="center">
 
 ![User Journey Segmento 1](resources/user-journey-segment-1.png)
@@ -977,6 +979,8 @@ Conclusiones:
 
 - User Journey: Gustavo - Agricultores de mediana escala.
 
+**Figura : User Journey Segmento 2**
+  
 <p align="center">
 
 ![User Journey Segmento 2](resources/user-journey-segment-2.png)
@@ -987,7 +991,9 @@ Conclusiones:
 ### 2.3.4. Empathy Mapping.
 
 - Empathy Map: Miguel - Agricultores de pequeña escala.
-
+- 
+**Figura : Empathy Map Segmento 1**
+  
 <p align="center">
 
 ![Empathy Map Segmento 1](resources/empathy-map-segmento-1.png)
@@ -996,6 +1002,8 @@ Conclusiones:
 
 - Empathy Map: Gustavo - Agricultores de mediana escala.
 
+**Figura : Empathy Map Segmento 2*
+  
 <p align="center">
 
 ![Empathy Map Segmento 2](resources/empathy-map-segmento-2.png)
