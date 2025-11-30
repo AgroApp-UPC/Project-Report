@@ -3254,7 +3254,7 @@ El entorno desplegado corresponde a la rama `main`, en la cual se integraron los
 
 **URL despliegue**
 
-> https://front-end-six-ebon.vercel.app/ 
+> https://front-end-rho-flame.vercel.app/ 
 
 **Responsable**
 
@@ -3664,7 +3664,7 @@ en tiempo real la persistencia de los datos ingresados mediante los endpoints RE
 
 ![Despliegue de base de datos](resources/DEPLOY_DB.png)
 
-**URL:** https://back-end-open.onrender.com/swagger-ui/index.html
+**URL:** https://back-end-w21w.onrender.com/swagger-ui/index.html 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 3, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
