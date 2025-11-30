@@ -2616,7 +2616,7 @@ En esta sección se explica el proceso de despliegue de la Landing Page utilizan
 
 **Resultado:**  
 La Landing Page quedó publicada en un dominio proporcionado por Vercel, garantizando disponibilidad inmediata y actualizaciones automáticas con cada commit al repositorio y disponible en el siguiente enlace:  
-👉 [https://landing-page-j8amn4de5-and12326s-projects.vercel.app/](https://landing-page-j8amn4de5-and12326s-projects.vercel.app/)
+👉 [https://landing-page-j8amn4de5-and12326s-projects.vercel.app/](https://agroapp-landing-page.vercel.app/)
 
 ![Resultado de la landing page](resources/Landing_Page_Deployed.png)
 
@@ -4070,7 +4070,7 @@ Finalmente, luego de fusionar correctamente los metodo se volvio a desplegar el 
 
 ![Landing Page Deployed](resources/Landing_Page_Deployed.png)
 
-**URL:**
+**URL:** https://agroapp-landing-page.vercel.app/
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 4, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
