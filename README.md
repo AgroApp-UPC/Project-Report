@@ -3684,6 +3684,70 @@ las decisiones de funcionalidad del Backend, union y despliegue.
 
 ### 5.2.4.1. Sprint Planning 4
 
+<table class="sprint-table">
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-11-25</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>12:10 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Via Luna, Bruce</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      Chirito Torres, Jose Raul<br>
+      Ventosilla Trujillo, Anderson Ricardo<br>
+      Via Luna, Bruce<br>
+      Yalán Zhang, Angie Christina
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 4 Review Summary</td>
+    <td>
+      Se avanzo la <b>integración entre la API desplegada y el frontend.</b> Tambien se 
+       completó la conexión de múltiples vistas con los endpoints reales,
+       se realizaron pruebas de comunicación entre componentes y se documentaron los flujos principales.</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 4 Retrospective Summary</td>
+    <td>
+      <b>Positivo:</b> Mayor madurez del backend y mejor comprensión del flujo completo entre frontend–API.<br>
+      <b>A mejorar:</b> Coordinar mejor los horarios de trabajo para evitar retrasos en las pruebas<br>
+      <b>Acción:</b> Implementar autenticación en el backend y Alinear endpoints finales con el frontend
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="section">Sprint Goal &amp; User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>
+      Consolidar la integración del frontend con la API real, perfeccionar los módulos CRUD implementados, estabilizar la comunicación completa entre vistas y backend, y dejar lista la base para implementar autenticación.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>7 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>7</td>
+  </tr>
+</table>
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
 <table border="1">
