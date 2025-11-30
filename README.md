@@ -4054,17 +4054,23 @@ Finalmente, luego de fusionar correctamente los metodo se volvio a desplegar el 
 
 ![Data Base Tables Deployed](resources/DB_Tables.png)
 
-**Despliegue del Backend**
+- **Despliegue del Backend**
 
 ![Backend Deployed](resources/Despliegue_Backend_TF.png)
 
-**URL:** https://back-end-open.onrender.com/swagger-ui/index.html 
+**URL:** https://back-end-w21w.onrender.com/swagger-ui/index.html 
 
-**Despliegue del Frontend**
+- **Despliegue del Frontend**
 
 ![Frontend Deployed](resources/Despliegue_Frontend_TF.png)
 
-**URL:** https://front-end-six-ebon.vercel.app/ 
+**URL:** https://front-end-rho-flame.vercel.app/  
+
+- **Despliegue de la Landing Page**
+
+![Landing Page Deployed](resources/Landing_Page_Deployed.png)
+
+**URL:**
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Durante el Sprint 4, la totalidad del trabajo de implementación fue realizada por todo el equipo, quienes asumimos todas
@@ -4359,7 +4365,9 @@ Además, se destacan los logros alcanzados, como la integración de funcionalida
 responsable de mascotas, la colaboración con refugios locales y la creación de una interfaz intuitiva y accesible para todos
 los usuarios.
 
-**Url del video:**
+![Captura About The Team](resources/Captura_About-The-Team.png)
+
+**Url del video:** https://drive.google.com/file/d/13-1MdAoLKT7pXy-GyYLLsKqJV0XisSQE/view?usp=drive_link 
 
 # Conclusiones
 Hemos comenzado con el enfoque correcto: al aplicar el proceso Lean UX, no solo identificamos la necesidad de herramientas digitales accesibles para los agricultores peruanos de pequeña y mediana escala, sino que validamos estas necesidades directamente a través de entrevistas exhaustivas. Esta validación temprana nos permitió enfocar nuestra visión en ofrecer una aplicación simple que entrega recomendaciones personalizadas y alertas claras para aumentar la productividad y reducir pérdidas. Nuestra capacidad de comunicación oral se fortaleció en este proceso, ya que debimos adaptar nuestro lenguaje para generar confianza tanto con los agricultores como con audiencias técnicas.
