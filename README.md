@@ -3690,8 +3690,8 @@ las decisiones de funcionalidad del Backend, union y despliegue.
   <tr>
     <th>Team Member (Last Name, First Name)</th>
     <th>GitHub Username</th>
-    <th>Integracion de Backend con Fronted (L) / implementación y documentación de los servicios REST del Backend con OpenAPI Collaborator (C)</th>
-    <th> (L) / Collaborator (C)</th>
+    <th>Integracion de Backend con Fronted (L) /(C)</th>
+    <th> implementación y documentación de los servicios REST del Backend con OpenAPI Collaborator (L) / Collaborator (C)</th>
   </tr>
   <tr>
     <td>Chirito Torres, Jose Raul</td>
