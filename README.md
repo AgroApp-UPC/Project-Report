@@ -20,14 +20,14 @@
 
    <br>
    <br>
-   <center><b>Nombre del curso:Desarrollo de Aplicaciones Open Source</b></center>
+   <center><b>Nombre del curso:</b> Desarrollo de Aplicaciones Open Source</center>
    <br>
    <center><b>NRC:</b> 7351</center>
    <br>
 
    <center><b>Nombre de profesor:</b> Rafael Oswaldo Castro Veramendi </center>
    <br>
-   <center><b>Informe de Trabjo Final </center>
+   <center><b>Informe de Trabajo Final </center>
    <br>
    <br>
    <center><b>Nombre del startup:</b> AgroTech </center>
@@ -92,6 +92,12 @@
 | 2.04    | 08/10/2025 | Angie, Anderson, José, Bruce | Deploy de Frontend    |
 | 3.01    | 09/11/2025 | Angie, Anderson, José, Bruce | Desarrollo del Backend    |
 | 3.1    | 14/10/2025 | Angie, Anderson, José, Bruce | Deploy de Backend    |
+| 4.1    | 23/10/2025 | Angie, Anderson, José, Bruce | Reestructuración de Backend    |
+| 4.1.1    | 23/10/2025 | Angie, Anderson, José, Bruce | Fusion primitiva con el Frontend    |
+| 4.2    | 24/10/2025 | Angie, Anderson, José, Bruce | Agregacion de la API externa    |
+| 4.3    | 27/10/2025 | Angie, Anderson, José, Bruce | Despliegue del Backend    |
+| 4.4    | 28/10/2025 | Angie, Anderson, José, Bruce | Fusion y Despliegue del Frontend    |
+| 4.5    | 28/10/2025 | Angie, Anderson, José, Bruce | Despliegue de Landing Page fusionada con Frontend y Backend    |
 
 </div>
 
@@ -113,7 +119,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 **TP**
 
-Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega del TP, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -124,7 +130,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 **TB2**
 
-Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -132,6 +138,17 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Anderson Ventosilla |  Despliegue del Backend, base de datos, desarrollo del Bounded Contex CropFields, Task y Community                                                                                                                                                                                  |
 | Bruce Via           | Bounded Context Profile                                                                                             |
 | Angie Yalán         | Bounded Context Task y Field |
+
+**TF**
+
+Para el desarrollo del informe perteneciente a la entrega del TF, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
+| ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| José Chirito        | Bounded Context Plants y mejora de metodos previos|
+| Anderson Ventosilla | Despliegue de Landing Page, verificación de metodos HTTP|
+| Bruce Via           | Fusion final de Frontend y Backend, Despliegue de ambos|
+| Angie Yalán         | Bounded Context Iam y Api externa |
 
 # Contenido
 
@@ -3741,11 +3758,11 @@ las decisiones de funcionalidad del Backend, union y despliegue.
   </tr>
   <tr>
     <td>Sprint n Velocity</td>
-    <td>7 Story Points</td>
+    <td>16 Story Points</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>7</td>
+    <td>16</td>
   </tr>
 </table>
 
@@ -3785,7 +3802,86 @@ las decisiones de funcionalidad del Backend, union y despliegue.
 </table>
 
 ### 5.2.4.3. Sprint Backlog 4
-
+<table class="sprint-table">
+  <tr>
+    <th colspan="8">Sprint # Sprint 4</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>US-12</td>
+    <td>Datos adicionales</td>
+    <td>16</td>
+    <td>Datos Complementarios</td>
+    <td>Asegurar de tener datos rellenables y auto rellenables que mejoren el proceso</td>
+    <td>3</td>
+    <td>Angie</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-13</td>
+    <td>Notificacion de riego</td>
+    <td>17</td>
+    <td>Envio de datos de riego</td>
+    <td>Mostrar los cultivos mas cercanos a sus fechas establecidas</td>
+    <td>5</td>
+    <td>José</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-14</td>
+    <td>Recordatorio de datos del cultivo</td>
+    <td>18</td>
+    <td>Detalles sobre fechas de riego</td>
+    <td>Llenar todos los datos del cultivo para mayor control</td>
+    <td>3</td>
+    <td>Anderson</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-16</td>
+    <td>Bloqueo de cuenta</td>
+    <td>19</td>
+    <td>Seguridad de cuenta de usuarios</td>
+    <td>Procedimiento que luego de 5 intentos se bloquea la cuenta</td>
+    <td>2</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-17</td>
+    <td>Creacion de historial</td>
+    <td>20</td>
+    <td>Progress & History</td>
+    <td>Crear datos para control de estado del cultivo</td>
+    <td>2</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-18</td>
+    <td>Atajos sencillos</td>
+    <td>21</td>
+    <td>Flujos continuos en la aplicacion</td>
+    <td>Formulacion de rutas exitosas para asegurar calidad d sitio</td>
+    <td>1</td>
+    <td>Bruce</td>
+    <td>Done</td>
+  </tr>
+  
+</table>
 
 ### 5.2.4.4. Development Evidence for Sprint Review
 
@@ -4387,13 +4483,25 @@ Instituto Nacional de Estadística e Informática. (2023). _Encuesta Nacional Ag
 # Anexos
 
 Repositorio en GitHub - AgroApp (AgroTech) - Documento:
+
 https://github.com/AgroApp-UPC/Project-Report
 
 Repositorio en GitHub - AgroApp (AgroTech) - Landing Page:
+
 https://github.com/AgroApp-UPC/landing-page
 
 Repositorio en GitHub - AgroApp (AgroTech) - Frontend:
+
 https://github.com/AgroApp-UPC/Front-end
 
 Repositorio en GitHub - AgroApp (AgroTech) - Backend:
+
 https://github.com/AgroApp-UPC/Back-end 
+
+Enlace Canva:
+
+https://www.canva.com/design/DAGzcGEY30I/xvl7W7LKZuPkw_jeWTEc_g/edit?utm_content=DAGzcGEY30I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Enlace Api Externa:
+
+https://members.ip-api.com/ 
