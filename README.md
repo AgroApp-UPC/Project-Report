@@ -41,6 +41,8 @@
 
    <div align="center">
    <b>Relación de Integrantes</b>
+      <br>
+         <br>
    <table style="margin-left: auto; margin-right: auto;">
    <tr>
    <th>Apellidos y Nombres</th>
@@ -65,6 +67,20 @@
 
    </table>
    </div>
+
+
+
+   <br>
+      <br>
+
+   <br>
+      <br>
+         <br>
+            <br>
+               <br>
+                  <br>
+                     <br>
+                        <br>
    <center><b>Diciembre - 2025</center>
 
 
