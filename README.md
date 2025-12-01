@@ -4298,6 +4298,17 @@ Estas preguntas se centran en la eficiencia, la gestión de múltiples parcelas,
 
 **Resumen:** Carmen Diaz es una agriculta de nivel intermedio que simbra mayormente en su casa, fue entrevistada previamente para pensar en la idea de una startup como la que se le presentara a continuacion. Se destaco siemopre por intentar ver por el bienestar de sus cultivos en una zona como la ciudad y señalo como gracias a nustra aplicacion esto sera mucho mas facil y sobre todo tranquilo gracias a las funcionalidades que esta tiene.
 
+**Entrevistado(a):** Luis Alva
+
+**Genero:** Masculino
+
+**Edad:** 24 años
+
+**Enlace de la entrevista (Drive):** [Enlace Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312504_upc_edu_pe/IQCyK-d9svrrR4g-vIHxfyVBAfT5C9T50hreJCUhI8CXpZI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aE7ra0)
+
+**Resumen:** Luis, agricultor de escala media, comentó que AgroApp responde de manera efectiva a varios de los problemas que enfrenta en su rutina diaria. Destacó que las funcionalidades propuestas le resultan especialmente útiles, ya que permitirán llevar un mejor control de sus cultivos y tareas, evitando la pérdida de información y mejorando la organización general de su trabajo. Señaló además que la aplicación optimizaría significativamente su flujo laboral, haciéndolo más ágil y eficiente. En conjunto, considera que la herramienta es interesante y con un gran potencial para facilitar la gestión agrícola.
+
+
 **User Persona del Segmento objetivo #2: Agricultores de mediana escala**
 
 ![Captura de entrevista a segmento 2](resources/Captura-Segmento_2-Open.png)
